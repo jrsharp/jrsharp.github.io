@@ -1,0 +1,22 @@
+---
+status: publish
+published: true
+title: Kudzu
+author:
+  display_name: admin
+  login: admin
+  email: jon@jonsharp.net
+  url: http://jonsharp.net
+author_login: admin
+author_email: jon@jonsharp.net
+author_url: http://jonsharp.net
+excerpt: Kudzu is pretty recognizable
+wordpress_id: 115
+wordpress_url: http://jonsharp.net/archives/2006/03/21/kudzu/
+date: '2006-03-21 09:35:36 -0600'
+date_gmt: '2006-03-21 14:35:36 -0600'
+categories: []
+tags: []
+comments: []
+---
+<p>I never knew Kudzu was edible before studying this stuff.  It's pretty hard to miss this Southern icon.</p>
