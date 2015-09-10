@@ -22,7 +22,7 @@ author: jrsharp
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://localhost:4000'
+url: 'http://blog.jonsharp.net'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
