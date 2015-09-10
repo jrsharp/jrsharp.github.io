@@ -16,6 +16,7 @@ date: '2006-07-14 23:13:30 -0500'
 date_gmt: '2006-07-15 04:13:30 -0500'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>This was a nice little trail out across the Carbon River to the Chenuis Falls. It was certainly worth the short hike out for a good view of the picturesque falls.</p>
+This was a nice little trail out across the Carbon River to the Chenuis Falls. It was certainly worth the short hike out for a good view of the picturesque falls.

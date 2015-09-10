@@ -16,8 +16,11 @@ date: '2006-09-01 10:10:46 -0500'
 date_gmt: '2006-09-01 15:10:46 -0500'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>I just thought I'd take the opportunity to brag about my dog, Tennyson, making the top ten list on <a href="http:&#47;&#47;puppywar.com">puppywar.com<&#47;a>.  He was up to #4 yesterday.  Here's a screenshot:</p>
-<p><img src="http:&#47;&#47;jonsharp.net&#47;images&#47;Tennyson4.jpg"&#47;></p>
-<p>Oh, and "<a href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Rabbit_rabbit#Variations">Rabbit, Rabbit.<&#47;a>"</p>
+I just thought I'd take the opportunity to brag about my dog, Tennyson, making the top ten list on <a href="http://puppywar.com">puppywar.com</a>.  He was up to #4 yesterday.  Here's a screenshot:
+
+<img src="http://jonsharp.net/images/Tennyson4.jpg"/></p>
+
+Oh, and "<a href="http://en.wikipedia.org/wiki/Rabbit_rabbit#Variations">Rabbit, Rabbit.</a>

@@ -16,6 +16,7 @@ date: '2005-06-01 12:42:02 -0500'
 date_gmt: '2005-06-01 17:42:02 -0500'
 categories: []
 tags: []
+layout: page
 comments:
 - id: 2388
   author: David Benton
@@ -35,4 +36,4 @@ comments:
     dogs were covered in them when we returned.  Anyway, not the best time of year
     for avoiding ticks, I guess.
 ---
-<p>Jolene and I went backpacking this past Memorial Day weekend in the South Cumberland State Park located between Nashville and Chattanooga.  Specifically, we hiked through the Savage Gulf area of the SCSP.  We started our hike from the Savage Gulf Ranger Station on the Savage Day Loop.  We then met the North Rim trail and took it out to the Dinky Line campground, about a 4 mile hike in from the trailhead.  We had the whole campground to ourselves and when the (diligent) rangers checked us in, they told us we could let the dogs run around since we were the only ones there.  We were afraid that Sami would follow her nose too far away from us, but Tennyson enjoyed running about through the woods while I gathered wood for a fire.  We had foil dinners with potatoes, carrots, onions, tomatoes, and fresh herbs from the garden.  For dessert, we had freeze-dried ice cream.  It really was quite a treat.  The dogs slept well at the foot of our tent and we had a wonderful time.  We stopped by the Savage Falls overlook on the way out.  It was a great hike and a great campsite.  I highly recommend it.</p>
+Jolene and I went backpacking this past Memorial Day weekend in the South Cumberland State Park located between Nashville and Chattanooga.  Specifically, we hiked through the Savage Gulf area of the SCSP.  We started our hike from the Savage Gulf Ranger Station on the Savage Day Loop.  We then met the North Rim trail and took it out to the Dinky Line campground, about a 4 mile hike in from the trailhead.  We had the whole campground to ourselves and when the (diligent) rangers checked us in, they told us we could let the dogs run around since we were the only ones there.  We were afraid that Sami would follow her nose too far away from us, but Tennyson enjoyed running about through the woods while I gathered wood for a fire.  We had foil dinners with potatoes, carrots, onions, tomatoes, and fresh herbs from the garden.  For dessert, we had freeze-dried ice cream.  It really was quite a treat.  The dogs slept well at the foot of our tent and we had a wonderful time.  We stopped by the Savage Falls overlook on the way out.  It was a great hike and a great campsite.  I highly recommend it.

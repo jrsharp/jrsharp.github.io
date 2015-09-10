@@ -16,6 +16,7 @@ date: '2005-01-06 10:05:28 -0600'
 date_gmt: '2005-01-06 15:05:28 -0600'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>Over the holidays, my brother brought up my old Centris 650 which I promptly cannibalized for the sake of my P640CD (DOS) box.  I thought it would be better to have a real 68040 CPU instead of the value 68LC040 chip.  My only concern was the fact that I was going to be running this 25Mhz 68040 at 40Mhz.  That was a bit more of a stretch from the 33Mhz 68LC040 running at 40Mhz.  I'm pleased to report that the machine seems to be running quite stable with the new chip.  I used some good heatsink compound.  The only problem I've had is that Netscape 4 is crashing now.  This seems to be the only app affected right now.</p>
+Over the holidays, my brother brought up my old Centris 650 which I promptly cannibalized for the sake of my P640CD (DOS) box.  I thought it would be better to have a real 68040 CPU instead of the value 68LC040 chip.  My only concern was the fact that I was going to be running this 25Mhz 68040 at 40Mhz.  That was a bit more of a stretch from the 33Mhz 68LC040 running at 40Mhz.  I'm pleased to report that the machine seems to be running quite stable with the new chip.  I used some good heatsink compound.  The only problem I've had is that Netscape 4 is crashing now.  This seems to be the only app affected right now.

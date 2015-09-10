@@ -16,6 +16,7 @@ date: '2004-07-08 17:19:37 -0500'
 date_gmt: '2004-07-08 22:19:37 -0500'
 categories: []
 tags: []
+layout: page
 comments:
 - id: 1744
   author: Joseph Lam
@@ -66,6 +67,8 @@ comments:
     provided support for it, as far as I know.  So, based on that, I would not expect
     DVD playback in Tiger, even if it turns out to be installable on the Lombard.\r\n\r\n--\r\nJon"
 ---
-<p>After recently resurrecting my PowerBook G3 Lombard, I decided to take the opportunity to try out the recently release Tiger Preview from WWDC.  The OS installed just fine and is quite usable on the old hardware.  The only thing I noticed right off was that any files I added to the system had some strange garbage outlining their icons in the finder.  You can see it in this <a href="&#47;images&#47;Tiger_Lombard.jpg">screenshot:<&#47;a></p>
-<p><a href="&#47;images&#47;Tiger_Lombard.jpg"><img src="&#47;images&#47;Tiger_Lombard_small.jpg"&#47;><&#47;a></p>
-<p>I am pretty impressed with Tiger so far.  I know the strange graphics artifacts are probably just due to the fact that this prerelease software was never really intended to be installed on such old hardware.  I really want to play with Xcode 2.0 preview, but I'm afraid the 400Mhz G3 just doesn't cut it.  Also, there is no way I can play with the new graphics APIs Apple has included with Tiger.  But so far, so good.  I'm enjoying casually exploring some of the new features of the OS and plan to put up some more of my impressions as time allows.</p>
+After recently resurrecting my PowerBook G3 Lombard, I decided to take the opportunity to try out the recently release Tiger Preview from WWDC.  The OS installed just fine and is quite usable on the old hardware.  The only thing I noticed right off was that any files I added to the system had some strange garbage outlining their icons in the finder.  You can see it in this <a href="&#47;images&#47;Tiger_Lombard.jpg">screenshot:<&#47;a>
+
+<a href="&#47;images&#47;Tiger_Lombard.jpg"><img src="&#47;images&#47;Tiger_Lombard_small.jpg"&#47;><&#47;a>
+
+I am pretty impressed with Tiger so far.  I know the strange graphics artifacts are probably just due to the fact that this prerelease software was never really intended to be installed on such old hardware.  I really want to play with Xcode 2.0 preview, but I'm afraid the 400Mhz G3 just doesn't cut it.  Also, there is no way I can play with the new graphics APIs Apple has included with Tiger.  But so far, so good.  I'm enjoying casually exploring some of the new features of the OS and plan to put up some more of my impressions as time allows.

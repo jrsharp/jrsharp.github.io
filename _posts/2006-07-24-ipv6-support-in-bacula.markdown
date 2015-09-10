@@ -16,15 +16,18 @@ date: '2006-07-24 13:56:14 -0500'
 date_gmt: '2006-07-24 18:56:14 -0500'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>I now have my own <a href="http:&#47;&#47;www.bacula.org">Bacula<&#47;a> backup setup running entirely over <a href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;IPv6">IPv6<&#47;a>.  It didn't take too long to figure out, but I thought I'd share this here.  The trick is defining the addresses for your storage daemon, file daemon, and director.  The entry looks something like this:</p>
-<pre><code><br />
-DIRAddresses = {<br />
-   ipv6 = {<br />
-     addr = servername;<br />
-     port = 9101;<br />
-   }<br />
- }<br />
-<&#47;code><&#47;pre></p>
-<p>In my case, I have AAAA records set up for my servers, so I'm not using the colon notation, but the <a href="http:&#47;&#47;www.bacula.org&#47;dev-manual&#47;Storage_Daemon_Configuratio.html#SECTION000162000000000000000">documentation<&#47;a> seems to indicate that either is acceptable.  This above example is for my director, found in the bacula-dir.conf file.  Similar entries for the FD and SD are found in their respective files.</p>
+I now have my own <a href="http://www.bacula.org">Bacula</a> backup setup running entirely over <a href="http://en.wikipedia.org/wiki/IPv6">IPv6</a>.  It didn't take too long to figure out, but I thought I'd share this here.  The trick is defining the addresses for your storage daemon, file daemon, and director.  The entry looks something like this:
+
+```
+DIRAddresses = {
+  ipv6 = {
+    addr = servername;
+    port = 9101;
+  }
+}
+```
+
+In my case, I have AAAA records set up for my servers, so I'm not using the colon notation, but the <a href="http://www.bacula.org/dev-manual/Storage_Daemon_Configuratio.html#SECTION000162000000000000000">documentation</a> seems to indicate that either is acceptable.  This above example is for my director, found in the bacula-dir.conf file.  Similar entries for the FD and SD are found in their respective files.

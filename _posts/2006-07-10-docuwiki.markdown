@@ -19,9 +19,9 @@ date: '2006-07-10 10:39:46 -0500'
 date_gmt: '2006-07-10 15:39:46 -0500'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>I ran across <a href="http:&#47;&#47;www.splitbrain.org&#47;projects&#47;dokuwiki">DocuWiki<&#47;a> when viewing the documentation for <a href="http:&#47;&#47;quicksilver.blacktree.com&#47;">Quicksilver<&#47;a>.  The output is very attractive and well organized.  This looks like a great option for software project documentation.  It appears as though it could handle most all documentation needs for small development shops.  From the website:</p>
-<blockquote><p>
-DokuWiki is a simple to use Wiki aimed at a small companies documentation needs. It works on plain texts files and thus needs no database. It has a simple but powerful Syntax which makes sure the datafiles remain readable outside the Wiki.<br />
-<&#47;blockquote></p>
+I ran across <a href="http://www.splitbrain.org/projects/dokuwiki">DocuWiki</a> when viewing the documentation for <a href="http://quicksilver.blacktree.com/">Quicksilver</a>.  The output is very attractive and well organized.  This looks like a great option for software project documentation.  It appears as though it could handle most all documentation needs for small development shops.  From the website:
+
+DokuWiki is a simple to use Wiki aimed at a small companies documentation needs. It works on plain texts files and thus needs no database. It has a simple but powerful Syntax which makes sure the datafiles remain readable outside the Wiki.

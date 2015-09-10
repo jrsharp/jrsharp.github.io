@@ -16,6 +16,7 @@ date: '2005-05-06 07:49:00 -0500'
 date_gmt: '2005-05-06 12:49:00 -0500'
 categories: []
 tags: []
+layout: page
 comments:
 - id: 2243
   author: John Sawyer
@@ -852,7 +853,10 @@ comments:
     rel=\"nofollow\">tylenol 3 while breastfeeding<&#47;a>\r\n \r\n \r\n \r\nHow rapid
     Can easily Results Be anticipated Coming from GER Together with Treatment?"
 ---
-<p>Ok guys, I know what I said earlier about not getting Tiger to install, but I got to thinking about it and I had an idea.  After digging around on the Tiger Install DVD, I found my answer.  Here's what I did to get the installer to install on my Lombard:</p>
-<p>First, I created a CD&#47;DVD master image from the Tiger Install DVD using Disk Utility.  Then, I mounted the image.  Then I found the OSInstall.dist file in &#47;System&#47;Installation&#47;Packages&#47;OSInstall.mpkg&#47;Contents on the image.  Near the top of the file is a line that specifies a list of "badMachines", or some such.  In that list is "PowerBook1,1", the model code for the PowerBook G3 Lombard.  I simply modified that entry to read "PowerBook3,1".  I then unmounted the image and burned it to DVD-R.  My Lombard booted right up the installation DVD as it had before, but this time I received no error messages regarding unsupported hardware.</p>
-<p>So, there you have it!  It turned out to be much simpler than I had expected.  Now, I must admit that I have not performed the installation of Tiger yet, so I cannot yet verify that the installation will complete successfully, but I plan to install a new HD in the machine and test it out at least before going back to Gentoo.  I really don't think Tiger will perform very well on this old machine, but it's fun to try it out.  :)</p>
-<p>Now, a note for Lombard users without a DVD drive:  I would expect that you could perform the same operation on the CD version available as a special order from Apple.</p>
+Ok guys, I know what I said earlier about not getting Tiger to install, but I got to thinking about it and I had an idea.  After digging around on the Tiger Install DVD, I found my answer.  Here's what I did to get the installer to install on my Lombard:
+
+First, I created a CD/DVD master image from the Tiger Install DVD using Disk Utility.  Then, I mounted the image.  Then I found the OSInstall.dist file in /System/Installation/Packages/OSInstall.mpkg/Contents on the image.  Near the top of the file is a line that specifies a list of "badMachines", or some such.  In that list is "PowerBook1,1", the model code for the PowerBook G3 Lombard.  I simply modified that entry to read "PowerBook3,1".  I then unmounted the image and burned it to DVD-R.  My Lombard booted right up the installation DVD as it had before, but this time I received no error messages regarding unsupported hardware.
+
+So, there you have it!  It turned out to be much simpler than I had expected.  Now, I must admit that I have not performed the installation of Tiger yet, so I cannot yet verify that the installation will complete successfully, but I plan to install a new HD in the machine and test it out at least before going back to Gentoo.  I really don't think Tiger will perform very well on this old machine, but it's fun to try it out.  :)
+
+Now, a note for Lombard users without a DVD drive:  I would expect that you could perform the same operation on the CD version available as a special order from Apple.

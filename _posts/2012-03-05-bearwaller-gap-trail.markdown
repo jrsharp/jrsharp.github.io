@@ -17,6 +17,7 @@ date: '2012-03-05 22:36:34 -0600'
 date_gmt: '2012-03-06 03:36:34 -0600'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>Corin and I took our first father-son hike together on the Bearwaller Gap Trail, along Cordell Hull Lake.</p>
+Corin and I took our first father-son hike together on the Bearwaller Gap Trail, along Cordell Hull Lake.

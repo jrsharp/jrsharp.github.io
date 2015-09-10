@@ -16,7 +16,9 @@ date: '2006-02-28 09:54:35 -0600'
 date_gmt: '2006-02-28 14:54:35 -0600'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>I'm probably only one of 3 people crazy enough to run Tiger Server on Beige G3 hardware, but I figure I'll post this for those 2 others that may find this helpful.  I recently applied the 10.4.5 update and was disappointed to see that my screen blanked upon reboot.  As I am running VNC server on the box, I connected remotely to it to discover that the video was indeed messed up, even in VNC.  I had been avoiding the "Patched RagePro" driver provided by XPostFacto because I had seen some artifacts when using it before, but the update has forced me to check that checkbox in XPostFacto to get any video.  Of course, if I happen to notice too many artifacts, I suppose I can always install the 10.4.4 driver.</p>
-<p>BTW, for anyone who may be curious about performance of Tiger Server on such old hardware, it's really not that bad.  I mean, it's useful for browsing, email, testing, etc.  I actually use it as a backup server.  It runs <a href="http:&#47;&#47;www.bacula.org">Bacula<&#47;a> backup software and backs up my network computers to an externally attached FireWire HD.</p>
+I'm probably only one of 3 people crazy enough to run Tiger Server on Beige G3 hardware, but I figure I'll post this for those 2 others that may find this helpful.  I recently applied the 10.4.5 update and was disappointed to see that my screen blanked upon reboot.  As I am running VNC server on the box, I connected remotely to it to discover that the video was indeed messed up, even in VNC.  I had been avoiding the "Patched RagePro" driver provided by XPostFacto because I had seen some artifacts when using it before, but the update has forced me to check that checkbox in XPostFacto to get any video.  Of course, if I happen to notice too many artifacts, I suppose I can always install the 10.4.4 driver.
+
+BTW, for anyone who may be curious about performance of Tiger Server on such old hardware, it's really not that bad.  I mean, it's useful for browsing, email, testing, etc.  I actually use it as a backup server.  It runs [Bacula](http://www.bacula.org) backup software and backs up my network computers to an externally attached FireWire HD.

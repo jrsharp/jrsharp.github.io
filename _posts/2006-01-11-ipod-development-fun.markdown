@@ -16,6 +16,7 @@ date: '2006-01-11 22:14:51 -0600'
 date_gmt: '2006-01-12 03:14:51 -0600'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>It's been a while since I've written anything about my tech exploits, so I thought I'd just mention a bit about one my latest endeavors.  I got an iPod nano a couple of months ago and recently discovered <a href="http:&#47;&#47;www.ipodlinux.org">iPod Linux<&#47;a>.  This is a truly amazing project!  I've gotten my nano to play full-speed, full-color video clips as if it were the new iPod Video.  I've played chess on it, rendered fractals, and taken notes.  I've also begun doing a bit of development for it myself, just to scratch an itch, so to speak.  I'm actually cross-compiling my own kernel as I write this.  If you have an iPod, I encourage you to give it a try, at least if you are a bit technically inclined... it's not for the novice.  (At least not yet)</p>
+It's been a while since I've written anything about my tech exploits, so I thought I'd just mention a bit about one my latest endeavors.  I got an iPod nano a couple of months ago and recently discovered http://www.ipodlinux.org.  This is a truly amazing project!  I've gotten my nano to play full-speed, full-color video clips as if it were the new iPod Video.  I've played chess on it, rendered fractals, and taken notes.  I've also begun doing a bit of development for it myself, just to scratch an itch, so to speak.  I'm actually cross-compiling my own kernel as I write this.  If you have an iPod, I encourage you to give it a try, at least if you are a bit technically inclined... it's not for the novice.  (At least not yet)

@@ -17,5 +17,6 @@ date_gmt: '2004-05-17 22:14:17 -0500'
 categories: []
 tags: []
 comments: []
+layout: page
 ---
-<p>Tie Fighter, one of the only older DOS games I own, apparently doesn't work using dosemu or dosbox.  I was able to get the installer to run and install the game onto the dosemu hard drive image, but I had no luck getting it to run properly.  Oh well, there are plenty of other games to play. :)</p>
+Tie Fighter, one of the only older DOS games I own, apparently doesn't work using dosemu or dosbox.  I was able to get the installer to run and install the game onto the dosemu hard drive image, but I had no luck getting it to run properly.  Oh well, there are plenty of other games to play. :)

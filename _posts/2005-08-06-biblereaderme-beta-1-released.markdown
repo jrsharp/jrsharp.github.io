@@ -16,6 +16,7 @@ date: '2005-08-06 23:15:44 -0500'
 date_gmt: '2005-08-07 04:15:44 -0500'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>I finally got around to releasing Beta 1 of my BibleReaderME application.  BibleReaderME is a J2ME (Java) application for cell phones that brings access to the complete Bible.  <a href="http:&#47;&#47;www.jonsharp.net&#47;BibleReaderME&#47;download.html">Check it out<&#47;a>.</p>
+I finally got around to releasing Beta 1 of my BibleReaderME application.  BibleReaderME is a J2ME (Java) application for cell phones that brings access to the complete Bible.  <a href="http:&#47;&#47;www.jonsharp.net&#47;BibleReaderME&#47;download.html">Check it out<&#47;a>.

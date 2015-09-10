@@ -16,6 +16,7 @@ date: '2006-11-18 17:04:37 -0600'
 date_gmt: '2006-11-18 22:04:37 -0600'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>I just happened to be browsing rather randomly and came across a <a href="http:&#47;&#47;www.ahss.org&#47;News&#47;NewsArticles&#47;tabid&#47;58&#47;ItemID&#47;722&#47;srcmid&#47;1789&#47;Default.aspx">featured article<&#47;a> on the <a href="http:&#47;&#47;ahss.org">AHSS<&#47;a> website for my mother's office.  Pretty cool.</p>
+I just happened to be browsing rather randomly and came across a <a href="http://www.ahss.org/News/NewsArticles/tabid/58/ItemID/722/srcmid/1789/Default.aspx">featured article</a> on the <a href="http://ahss.org">AHSS</a> website for my mother's office.  Pretty cool.

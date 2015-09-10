@@ -16,6 +16,7 @@ date: '2006-04-18 14:20:43 -0500'
 date_gmt: '2006-04-18 19:20:43 -0500'
 categories: []
 tags: []
+layout: page
 comments:
 - id: 3691
   author: Michael
@@ -29,7 +30,10 @@ comments:
     PC.\r\n\r\nThey have a video demo: http:&#47;&#47;www.maxivista.com&#47;demo.htm\r\n\r\nThe
     software is Windows only though and it cost $20. Not free :-(\r\n\r\nMichael"
 ---
-<p>A friend of mine recently got me to try out a piece of software called <a href="http:&#47;&#47;synergy2.sourceforge.net&#47;">Synergy<&#47;a>.  He told me it was like a software KVM switch, only without the "V" part.  He said it was like working with a dual-head computer system, only it worked across separate computers.  He also said that it was cross-platform and provided a shared clipboard!  </p>
-<p>I have to admit that at first, I really didn't fully understand what Synergy did, but it sounded impressive enough that I had to try it out.  Once I got it installed, I was truly amazed!  I was amazed first by the technical aspects of Synergy.  It's not that Synergy is that complicated.  In fact, once I got it running, I understood very well how one could go about constructing such a thing.  The thing that most amazed me, however, was the boost in productivity I found from working with Synergy.</p>
-<p>Like many IT professionals (or hobbyists, for that matter), I have several computers in my office or on my desk.  Several of my machines are laptops.  With this setup, I generally switch back and forth between my desktop(s) and laptop(s) throughout the day.  This process can be rather tedius because it involves moving my hands from one keyboard &#47; mouse to another.  Now, I understand that there are KVM options and other ways to deal with such a problem.  But in my case, these were not entirely feasible.  And, if you give Synergy a go, you'll discover that a movement of the mouse cursor is as convenient as switching a KVM or even more convenient in the case of a KVM without keyboard controls.  What Synergy has allowed me to do is to sit back and use a single keyboard and mouse seamlessly between my desktop PC and my PowerBook, whether my PC happens to be running Windows XP, Linux or Darwin.</p>
-<p>I highly recommend <a href="http:&#47;&#47;synergy2.sourceforge.net">Synergy<&#47;a> for anyone who uses a laptop on their desk next to their desktop computer.  It's not difficult to set up at all and there is even a nice installer for Windows.</p>
+A friend of mine recently got me to try out a piece of software called [Synergy](http://synergy2.sourceforge.net/).  He told me it was like a software KVM switch, only without the "V" part.  He said it was like working with a dual-head computer system, only it worked across separate computers.  He also said that it was cross-platform and provided a shared clipboard! 
+
+I have to admit that at first, I really didn't fully understand what Synergy did, but it sounded impressive enough that I had to try it out.  Once I got it installed, I was truly amazed!  I was amazed first by the technical aspects of Synergy.  It's not that Synergy is that complicated.  In fact, once I got it running, I understood very well how one could go about constructing such a thing.  The thing that most amazed me, however, was the boost in productivity I found from working with Synergy.
+
+Like many IT professionals (or hobbyists, for that matter), I have several computers in my office or on my desk.  Several of my machines are laptops.  With this setup, I generally switch back and forth between my desktop(s) and laptop(s) throughout the day.  This process can be rather tedius because it involves moving my hands from one keyboard &#47; mouse to another.  Now, I understand that there are KVM options and other ways to deal with such a problem.  But in my case, these were not entirely feasible.  And, if you give Synergy a go, you'll discover that a movement of the mouse cursor is as convenient as switching a KVM or even more convenient in the case of a KVM without keyboard controls.  What Synergy has allowed me to do is to sit back and use a single keyboard and mouse seamlessly between my desktop PC and my PowerBook, whether my PC happens to be running Windows XP, Linux or Darwin.
+
+I highly recommend [Synergy](http://synergy2.sourceforge.net) for anyone who uses a laptop on their desk next to their desktop computer.  It's not difficult to set up at all and there is even a nice installer for Windows.

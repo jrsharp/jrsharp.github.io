@@ -16,6 +16,7 @@ date: '2005-02-05 00:02:15 -0600'
 date_gmt: '2005-02-05 05:02:15 -0600'
 categories: []
 tags: []
+layout: page
 comments:
 - id: 827
   author: Jolene
@@ -50,4 +51,4 @@ comments:
   content: Hey man looks great!  Just finished the new design on my site too, let
     me know what you think.
 ---
-<p>As you can see, (or not, if you're only using the RSS feed) I just updated the appearance of the site.  Thanks to my friend, <a href="http:&#47;&#47;dbenton.com&#47;go">David Benton<&#47;a>, I've learned a lot recently about proper modern website design using XHTML&#47;CSS.  I did all of the site design from scratch using <a href="http:&#47;&#47;www.vim.org">Vim<&#47;a>.  The graphic elements were produced using Photoshop 7.  I still have to track down the 3 pixel vertical gap showing up in IE 6.  If you are using IE, just know that that white gap is not supposed to be there.  Also, if you really are still using IE, do yourself a huge favor and <a href="http:&#47;&#47;www.spreadfirefox.com">get Firefox<&#47;a>.  Anyway, enjoy the new improved look and site navigation.</p>
+As you can see, (or not, if you're only using the RSS feed) I just updated the appearance of the site.  Thanks to my friend, [David Benton](http://dbenton.com/go), I've learned a lot recently about proper modern website design using XHTML/CSS.  I did all of the site design from scratch using [Vim](http://www.vim.org).  The graphic elements were produced using Photoshop 7.  I still have to track down the 3 pixel vertical gap showing up in IE 6.  If you are using IE, just know that that white gap is not supposed to be there.  Also, if you really are still using IE, do yourself a huge favor and [get Firefox](http://www.spreadfirefox.com).  Anyway, enjoy the new improved look and site navigation.

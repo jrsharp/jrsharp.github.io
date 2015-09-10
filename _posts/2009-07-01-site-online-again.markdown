@@ -16,6 +16,7 @@ date: '2009-07-01 09:28:42 -0500'
 date_gmt: '2009-07-01 14:28:42 -0500'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>After a long time of being down, I brought the site back online.  It is a little outdated, as it has been neglected for some time, but it's back.  I've been very active on a number of projects while the site has been offline, most notably, <a href="http:&#47;&#47;www.campgroundautomation.com">Campground Automation Systems<&#47;a>.  That project, along with several others I've been working on should give me a lot to blog about in the weeks and months to come.</p>
+After a long time of being down, I brought the site back online.  It is a little outdated, as it has been neglected for some time, but it's back.  I've been very active on a number of projects while the site has been offline, most notably, <a href="http://www.campgroundautomation.com">Campground Automation Systems</a>.  That project, along with several others I've been working on should give me a lot to blog about in the weeks and months to come.

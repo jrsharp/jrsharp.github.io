@@ -16,6 +16,7 @@ date: '2005-05-07 15:30:25 -0500'
 date_gmt: '2005-05-07 20:30:25 -0500'
 categories: []
 tags: []
+layout: page
 comments:
 - id: 2363
   author: Dave Phillips
@@ -46,6 +47,8 @@ comments:
     testing and I just swap them out whenever I want a change.  Anyway, best of luck
     and I am sorry I can't be more helpful."
 ---
-<p>Ok, I've confirmed that Mac OS X 10.4, Tiger will run just fine on the PowerBook G3 Lombard.  I suppose "just fine" is debatable, but it's definitely up and running on my overclocked (466Mhz) Lombard and seems usable to me.  It is a bit sluggish, of course, and the spinning beachball appears more often than I would like.  The machine is even usable with VoiceOver running.</p>
-<p>Anyway, there you have it, folks.  I will go back to running Gentoo PPC on my Lombard, but I know many Lombard users out there want to run Tiger.  Just follow the instructions provided in my previous post for creating a hacked Tiger installation DVD.</p>
-<p>As a side note, there were several other models listed in the OSInstall.dist file that may be made to run Tiger, as well.  Check it out!</p>
+Ok, I've confirmed that Mac OS X 10.4, Tiger will run just fine on the PowerBook G3 Lombard.  I suppose "just fine" is debatable, but it's definitely up and running on my overclocked (466Mhz) Lombard and seems usable to me.  It is a bit sluggish, of course, and the spinning beachball appears more often than I would like.  The machine is even usable with VoiceOver running.
+
+Anyway, there you have it, folks.  I will go back to running Gentoo PPC on my Lombard, but I know many Lombard users out there want to run Tiger.  Just follow the instructions provided in my previous post for creating a hacked Tiger installation DVD.
+
+As a side note, there were several other models listed in the OSInstall.dist file that may be made to run Tiger, as well.  Check it out!

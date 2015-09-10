@@ -17,5 +17,6 @@ date_gmt: '2004-06-30 15:30:56 -0500'
 categories: []
 tags: []
 comments: []
+layout: page
 ---
-<p>I just installed mod_gzip for Apache on jonSharp.net.  It should speed things up slightly.  Thought it would help save some precious bandwidth at home.  After testing it out on jonSharp.net, I plan to set it up for JonandJolene.com.  We get much more traffic to that site, but mod_gzip may not help a whole lot because the site is mostly images and mod_gzip doesn't help very much for compressed graphics.</p>
+I just installed mod_gzip for Apache on jonSharp.net.  It should speed things up slightly.  Thought it would help save some precious bandwidth at home.  After testing it out on jonSharp.net, I plan to set it up for JonandJolene.com.  We get much more traffic to that site, but mod_gzip may not help a whole lot because the site is mostly images and mod_gzip doesn't help very much for compressed graphics.

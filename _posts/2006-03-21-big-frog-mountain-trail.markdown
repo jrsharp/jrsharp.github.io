@@ -18,6 +18,7 @@ date: '2006-03-21 00:05:38 -0600'
 date_gmt: '2006-03-21 05:05:38 -0600'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>David Benton, Bruce Boggess, Phillip Paul and I recently did an 11 Mile long loop backpacking trip in the Big Frog Wilderness.  We traveled on the Big Frog Mountain Trail, Rough Creek Trail and the Benton MacKaye Trail.</p>
+David Benton, Bruce Boggess, Phillip Paul and I recently did an 11 Mile long loop backpacking trip in the Big Frog Wilderness.  We traveled on the Big Frog Mountain Trail, Rough Creek Trail and the Benton MacKaye Trail.

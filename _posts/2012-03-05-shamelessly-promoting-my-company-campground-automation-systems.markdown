@@ -16,10 +16,15 @@ date: '2012-03-05 23:20:01 -0600'
 date_gmt: '2012-03-06 04:20:01 -0600'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>Hey Internets,</p>
-<p>I have this great company I started with my friend, Tyler Duffy, named <a href="http:&#47;&#47;www.campgroundautomation.com">Campground Automation Systems<&#47;a>.  With our team, I've been very busy building <a href="http:&#47;&#47;www.campgroundautomation.com&#47;sunrise-hardware-kiosk-and-control#kiosk">outdoor Kiosks<&#47;a>, designing <a href="http:&#47;&#47;www.campgroundautomation.com&#47;sunrise-hardware-kiosk-and-control#control">wireless utility control<&#47;a> devices, and writing <a href="http:&#47;&#47;www.campgroundautomation.com&#47;sunrise-software">software<&#47;a> to tie it all together for the past 5 years -- which is why this blog has been so neglected.</p>
-<p>We provide <a href="http:&#47;&#47;www.sunrisereservations.com">online reservations<&#47;a> for campgrounds and RV Parks through our <a href="http:&#47;&#47;www.sunrisereservations.com">SunriseReservations.com<&#47;a> portal site.</p>
-<p>We don't just do online reservations through our central reservation system, (CRS) we have a complete <a href="http:&#47;&#47;www.campgroundautomation.com&#47;Sunrise">campground management software<&#47;a> package named <a href="http:&#47;&#47;www.campgroundautomation.com&#47;sunrise-software">Sunrise<&#47;a>.</p>
-<p>Stop by our site and read all about it, then visit us on <a href="http:&#47;&#47;www.facebook.com&#47;pages&#47;Campground-Automation-Systems&#47;110944752283900">Facebook<&#47;a> and "Like" us!</p>
+Hey Internets,
+
+I have this great company I started with my friend, Tyler Duffy, named <a href="http://www.campgroundautomation.com">Campground Automation Systems</a>.  With our team, I've been very busy building <a href="http://www.campgroundautomation.com/sunrise-hardware-kiosk-and-control#kiosk">outdoor Kiosks</a>, designing <a href="http://www.campgroundautomation.com/sunrise-hardware-kiosk-and-control#control">wireless utility control</a> devices, and writing <a href="http://www.campgroundautomation.com/sunrise-software">software</a> to tie it all together for the past 5 years -- which is why this blog has been so neglected.
+
+We provide <a href="http://www.sunrisereservations.com">online reservations</a> for campgrounds and RV Parks through our <a href="http://www.sunrisereservations.com">SunriseReservations.com</a> portal site.
+
+We don't just do online reservations through our central reservation system, (CRS) we have a complete <a href="http://www.campgroundautomation.com/Sunrise">campground management software</a> package named <a href="http://www.campgroundautomation.com/sunrise-software">Sunrise</a>.
+
+Stop by our site and read all about it, then visit us on <a href="http://www.facebook.com/pages/Campground-Automation-Systems/110944752283900">Facebook</a> and "Like" us!

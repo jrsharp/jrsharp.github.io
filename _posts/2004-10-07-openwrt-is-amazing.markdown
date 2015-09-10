@@ -16,6 +16,7 @@ date: '2004-10-07 11:27:55 -0500'
 date_gmt: '2004-10-07 16:27:55 -0500'
 categories: []
 tags: []
+layout: page
 comments:
 - id: 24
   author: Steve Holden
@@ -37,4 +38,4 @@ comments:
     some limitations.  OpenWrt essentially turns my Wrt54G into more of a "real" Linux
     box -- one that I can configure in different ways.  I wish you luck!
 ---
-<p>As you may infer from the headline, I finally got up the courage to install <a href="http:&#47;&#47;openwrt.org">OpenWrt<&#47;a> on my Linksys Wrt54G WAP&#47;router.  I had been running a <a href="http:&#47;&#47;www.sveasoft.com&#47;">Sveasoft<&#47;a> firmware since I purchased the device several months ago.  The sveasoft firmware provided some great extra functionality, but my original intention for this router was to act as an IPv6 router.  OpenWrt was in early development when I bought my Wrt54G, and I knew it wouldn't be long before this functionality was provided by this amazing project.  Today, I am awaiting the activation of my <a href="http:&#47;&#47;tunnelbroker.net">Hurricane Electric<&#47;a> IPv6 tunnel.  My router has been configured for this IPv6 tunnel and will route my assigned &#47;64 onto my home network.  OpenWrt has also allowed me to install <a href="http:&#47;&#47;www.openswan.org">Openswan<&#47;a> on my router to provide IPSEC VPN functionality.  Anyway, I'm thrilled to have all this extra functionality on my little router.</p>
+As you may infer from the headline, I finally got up the courage to install [OpenWrt](http://openwrt.org) on my Linksys Wrt54G WAP/router.  I had been running a [Sveasoft](http://www.sveasoft.com) firmware since I purchased the device several months ago.  The sveasoft firmware provided some great extra functionality, but my original intention for this router was to act as an IPv6 router.  OpenWrt was in early development when I bought my Wrt54G, and I knew it wouldn't be long before this functionality was provided by this amazing project.  Today, I am awaiting the activation of my [Hurricane Electric](http://tunnelbroker.net) IPv6 tunnel.  My router has been configured for this IPv6 tunnel and will route my assigned /64 onto my home network.  OpenWrt has also allowed me to install [Openswan](http://www.openswan.org) on my router to provide IPSEC VPN functionality.  Anyway, I'm thrilled to have all this extra functionality on my little router.

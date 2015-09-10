@@ -17,6 +17,7 @@ date: '2006-03-22 11:16:18 -0600'
 date_gmt: '2006-03-22 16:16:18 -0600'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>With the recent upgrade of my cell phone from the Sanyo 4900 (One of the most reliable and functional cell phones I've used) to a new PalmOne Treo 650, I tested my <a href="http:&#47;&#47;www.jonsharp.net&#47;BibleReaderME">BibleReaderME<&#47;a> application on it using the IBM J2ME JVM for Palm OS.  I'm happy to report that the application functions very well on the Treo.  I'm happy to add another confirmed cell phone model to the list.</p>
+With the recent upgrade of my cell phone from the Sanyo 4900 (One of the most reliable and functional cell phones I've used) to a new PalmOne Treo 650, I tested my BibleReaderME application on it using the IBM J2ME JVM for Palm OS.  I'm happy to report that the application functions very well on the Treo.  I'm happy to add another confirmed cell phone model to the list.

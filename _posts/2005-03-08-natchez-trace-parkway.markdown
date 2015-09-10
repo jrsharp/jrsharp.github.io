@@ -16,7 +16,9 @@ date: '2005-03-08 07:44:04 -0600'
 date_gmt: '2005-03-08 12:44:04 -0600'
 categories: []
 tags: []
+layout: page
 comments: []
 ---
-<p>Jolene and I took a picnic lunch and drove down to the <a href="http:&#47;&#47;www.nps.gov&#47;natr&#47;">Natchez Trace Parkway<&#47;a> last Sabbath.  It was a beautiful day (though perhaps a bit chilly) and we had been meaning to see what the Natchez Trace was like.  We drove through historic Franklin and Leiper's Fork to get to the parkway.  We didn't travel too far south on the parkway, just to the Garrison Creek area.  The dogs played while we ate our lunch and when we were done, we hit the trail.  The hiking trail was quite enjoyable with some beautiful views.  There were several creek crossings and the dogs just loved it.  </p>
-<p>The thing that was perhaps the most impressive, however, was the parkway itself.  It was one of the most scenic drives I've taken.  The parkway is fairly unique in that it remains mostly isolated from the roadways around it.  There were only a few exits we saw in the 30 or so miles of it we traveled to the northern terminus in Nashville.  We shoule be posting some pictures on our website shortly, so <a href="http:&#47;&#47;www.jonandjolene.com">check it out<&#47;a>!</p>
+Jolene and I took a picnic lunch and drove down to the [Natchez Trace Parkway](http://www.nps.gov/natr/) last Sabbath.  It was a beautiful day (though perhaps a bit chilly) and we had been meaning to see what the Natchez Trace was like.  We drove through historic Franklin and Leiper's Fork to get to the parkway.  We didn't travel too far south on the parkway, just to the Garrison Creek area.  The dogs played while we ate our lunch and when we were done, we hit the trail.  The hiking trail was quite enjoyable with some beautiful views.  There were several creek crossings and the dogs just loved it.
+
+The thing that was perhaps the most impressive, however, was the parkway itself.  It was one of the most scenic drives I've taken.  The parkway is fairly unique in that it remains mostly isolated from the roadways around it.  There were only a few exits we saw in the 30 or so miles of it we traveled to the northern terminus in Nashville.  We should be posting some pictures on our website shortly.

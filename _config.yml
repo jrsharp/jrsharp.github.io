@@ -8,15 +8,13 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Feeling Responsive"
-
+title: "JonSharp.net"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
-
+slogan: "Just a few things."
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette."
+description: "Personal Website of Jon Sharp - a Seventh-day Adventist Christian, an enterprise architect, embedded systems engineer, retrocomputing enthusiast, lover of the outdoors, father and husband."
 
 # Main author of the website
 # See > authors.yml
@@ -24,7 +22,7 @@ author: jrsharp
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://blog.jonsharp.net'
+url: 'http://localhost:4000'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -37,12 +35,10 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
-
+urlimg: '/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
-
 
 # Paginates all X entries
 paginate: 5
@@ -111,8 +107,6 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: jrsharp     # Default author for posts
-
-
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
@@ -194,7 +188,7 @@ og_description:                     "Feeling Responsive is built on the fabulous
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+disqus_shortname: jrsharp_d
 
 
 #      _____

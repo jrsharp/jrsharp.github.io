@@ -16,6 +16,7 @@ date: '2005-02-03 14:27:37 -0600'
 date_gmt: '2005-02-03 19:27:37 -0600'
 categories: []
 tags: []
+layout: page
 comments:
 - id: 1487
   author: Mig
@@ -33,5 +34,6 @@ comments:
   content: I think I have a copy. Give me a write at e-mail address.. noting to take
     out the underscores and put in the period.
 ---
-<p>I just got my old Wacom ArtZ II tablet working with my PowerBook 165c.  The tablet uses a Serial (DB9) interface, and I've successfully used it on several Macs running OS 9 using a Keyspan USB-to-serial PDA adapter.  But I just recently got to wondering if I could get it running via the serial port on my older 68k Macs.  The first trick was finding the drivers.  I had to dig around in Wacom's FTP site for a while, but I found the Mac OS 7-compatible drivers.  The second trick was adapting the DB9 to the DIN-8 connector of the Mac.  Fortunately, I hoard serial adapters like that and quickly came up with the winning combination.  Once I installed the drivers, I rebooted and the driver found my tablet just fine!  Anyway, I just thought that I would share with the world that it was possible to use the Serial (non-ADB) Wacom tablets with an old Mac.  Now, I just need a copy of Photoshop 3.  Anyone care to donate? ;)</p>
-<p>Oh, and the truly fascinating part of this story is that the writable area of the tablet is larger than the screen on my PB 165c!</p>
+I just got my old Wacom ArtZ II tablet working with my PowerBook 165c.  The tablet uses a Serial (DB9) interface, and I've successfully used it on several Macs running OS 9 using a Keyspan USB-to-serial PDA adapter.  But I just recently got to wondering if I could get it running via the serial port on my older 68k Macs.  The first trick was finding the drivers.  I had to dig around in Wacom's FTP site for a while, but I found the Mac OS 7-compatible drivers.  The second trick was adapting the DB9 to the DIN-8 connector of the Mac.  Fortunately, I hoard serial adapters like that and quickly came up with the winning combination.  Once I installed the drivers, I rebooted and the driver found my tablet just fine!  Anyway, I just thought that I would share with the world that it was possible to use the Serial (non-ADB) Wacom tablets with an old Mac.  Now, I just need a copy of Photoshop 3.  Anyone care to donate? ;)
+
+Oh, and the truly interesting part of this story is that the writable area of the tablet is larger than the screen on my PB 165c!
