@@ -7,7 +7,7 @@ permalink: "/misc/"
 [Sun](/misc/sun/)
 --------------------------------
 
-Very littl stuff about Sun hardware / Solaris
+Very little stuff about Sun hardware / Solaris
 
 [The Pinhoti Trail](/misc/pinhoti/)
 ---------------------------------------------

@@ -516,8 +516,6 @@
               
             
               
-            
-              
             <ul class="no-bullet shadow-black">
             
               
@@ -533,11 +531,6 @@
               
                 <li class="services-newsletter" >
                   <a href="http://foundation.zurb.com/" target="_blank"  title="Built on Foundation">Built on Foundation</a>
-                </li>
-            
-              
-                <li class="rss-link" >
-                  <a href="http://unsplash.com/" target="_blank"  title="Images by Unsplash">Images by Unsplash</a>
                 </li>
             
               
