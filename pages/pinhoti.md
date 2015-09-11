@@ -4,7 +4,7 @@ title: "The Pinhoti Trail"
 permalink: "/misc/pinhoti/"
 ---
 
-Recently I have become particularly interested in a trail called The Pinhoti.
+About 15 years ago I became particularly interested in a trail called The Pinhoti.
 The Pinhoti trail begins in Alabama and extends through Georgia to meet up
 with the Benton-MacKaye Trail in the Cohutta Wilderness.  The Pinhoti,
 however, is not yet finished completely in Georgia, particularly toward its
@@ -21,7 +21,7 @@ the meantime, I plan to continue to enjoy what I can of the trail during
 shorter weekend trips.  Below is an account of my first backpacking
 trip on the Pinhoti.
 
-I recently backpacked a portion of the GA Pinhoti Trail.  I enjoyed it thoroughly
+I backpacked a portion of the GA Pinhoti Trail some time ago.  I enjoyed it thoroughly
 and have decided to share a little about the experience.  We started our hike
 from the Pilcher's Pond trailhead across from the Keown Falls area on Pocket 
 Road.  We hiked over Horn Mountain, across GA 136, and up Mill Creek Mtn.  On
@@ -81,6 +81,7 @@ of directions at the beginning.  I hope this account will be useful to
 someone.  Enjoy the Pinhoti!
 
 I have thoroughly enjoyed my several hikes along the GA Pinhoti and look
-forward to an opprotunity to hike the AL portion as well.  Someday, I would
-even like to through-hike the entire Pinhoti.  I encourage you to check it
-out if you're ever in the area looking for cool trail.
+forward to an opprotunity to hike the AL portion as well.  Someday, perhaps
+I'll get to through-hike the entire Pinhoti.  I encourage you to check it
+out if you're ever in the area looking for scenic trail with an interesting
+story.

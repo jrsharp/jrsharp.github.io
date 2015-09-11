@@ -4,10 +4,8 @@ title: "Video Game Development"
 permalink: "/projects/vgdev/"
 ---
 
-One of my fond interests is video game / console development.
-I've always thought it was cool how video games were written to
-run on special hardware specifically designed for gaming.
-In the past few years I've dabbled a bit with Nintendo Gameboy
+I really enjoy video game / console development.
+In the past few years I've mostly dabbled with Nintendo Gameboy
 programming.  I have put up this page to highlight a few of the
 consoles that I find particularly interesting.  I also hope to have
 some of my own demos / programs / games / code posted in the future.  

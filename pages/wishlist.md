@@ -5,9 +5,7 @@ permalink: "/misc/wishlist/"
 ---
 
 Most of the things on this page are computers and
-related items.  You don't spend most of your life being a geek without building
-quite a wishlist.  I've seen so many machines at work, school, clients' or
-friends' homes or offices, or online.  Below is a list of some of the more
+related items.  Below is a list of some of the more
 prominent ones I would like to own for my collection.  If you have
 anything on my wishlist and would like to donate it or let me make an offer,
 let me know.  Thanks.
