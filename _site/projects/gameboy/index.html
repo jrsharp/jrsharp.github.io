@@ -1,0 +1,702 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+		<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Gameboy Ethernet Project</title>
+	<link rel="stylesheet" type="text/css" href="http://blog.jonsharp.net/assets/css/styles_feeling_responsive.css" />
+	<script src="http://blog.jonsharp.net/assets/js/modernizr.min.js"></script>
+	
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+  <script>
+    WebFont.load({
+      google: {
+        families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ] 
+      }
+    });
+  </script>
+
+  <noscript>
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic|Volkhov' rel='stylesheet' type='text/css' />
+  </noscript>
+  
+  <meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ" />
+	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" />
+	<meta name="description" content="Personal Website of Jon Sharp - a Seventh-day Adventist Christian, an enterprise architect, embedded systems engineer, retrocomputing enthusiast, lover of the outdoors, father and husband." />
+	
+	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167"/>
+
+	
+
+
+
+	
+	<link rel="icon" sizes="32x32" href="http://blog.jonsharp.net/assets/img/favicon-32x32.png" />
+
+
+
+
+	
+	<link rel="icon" sizes="192x192" href="http://blog.jonsharp.net/assets/img/touch-icon-192x192.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://blog.jonsharp.net/assets/img/apple-touch-icon-180x180-precomposed.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://blog.jonsharp.net/assets/img/apple-touch-icon-152x152-precomposed.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://blog.jonsharp.net/assets/img/apple-touch-icon-144x144-precomposed.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://blog.jonsharp.net/assets/img/apple-touch-icon-120x120-precomposed.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://blog.jonsharp.net/assets/img/apple-touch-icon-114x114-precomposed.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://blog.jonsharp.net/assets/img/apple-touch-icon-76x76-precomposed.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://blog.jonsharp.net/assets/img/apple-touch-icon-72x72-precomposed.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" href="http://blog.jonsharp.net/assets/img/apple-touch-icon-precomposed.png" />	
+
+
+
+
+	
+	<meta name="msapplication-TileImage" content="http://blog.jonsharp.net/assets/img/msapplication_tileimage.png" />
+
+
+
+
+	
+	<meta name="msapplication-TileColor" content="#fabb00" />
+
+
+
+	<!-- Facebook Optimization -->
+	<meta property="og:locale" content="en_EN" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Gameboy Ethernet Project" />
+	<meta property="og:description" content="Personal Website of Jon Sharp - a Seventh-day Adventist Christian, an enterprise architect, embedded systems engineer, retrocomputing enthusiast, lover of the outdoors, father and husband." />
+	<meta property="og:url" content="http://blog.jonsharp.net//projects/gameboy/" />
+	<meta property="og:site_name" content="JonSharp.net" />
+	
+
+	
+
+	<!-- Search Engine Optimization -->
+	
+
+	<link type="text/plain" rel="author" href="http://blog.jonsharp.net/humans.txt" />
+
+	
+</head>
+</head>
+<body id="top-of-page" class="post">
+	
+	
+<div id="navigation" class="sticky">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name">
+      <h1 class="show-for-small-only"><a href="http://blog.jonsharp.net" class="icon-tree"> JonSharp.net</a></h1>
+    </li>
+       <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+
+      <ul class="right">
+        
+
+              
+                
+              
+
+          
+          
+        
+
+              
+                
+              
+
+          
+          
+        
+
+              
+                
+              
+
+          
+          
+        
+
+              
+                
+              
+
+          
+          
+        
+
+              
+                
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a href="http://blog.jonsharp.net/search/">Search</a></li>
+
+            
+            
+          
+        
+
+              
+                
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a href="http://blog.jonsharp.net/contact/">Contact</a></li>
+
+            
+            
+          
+        
+        
+      </ul>
+
+      <ul class="left">
+        
+
+              
+                
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://blog.jonsharp.net/">Home</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+                
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a href="http://blog.jonsharp.net/projects/">Projects</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+                        
+                      
+
+                      <li><a href="http://blog.jonsharp.net/projects/gameboy/">Gameboy</a></li>
+                    
+
+                      
+                        
+                      
+
+                      <li><a href="http://blog.jonsharp.net/projects/laptops/">Laptop Art</a></li>
+                    
+
+                      
+                        
+                      
+
+                      <li><a href="http://blog.jonsharp.net/projects/vgdev/">Video Game Development</a></li>
+                    
+                  </ul>
+                  
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+                
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a href="http://blog.jonsharp.net/blog/">Blog</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+                        
+                      
+
+                      <li><a href="http://blog.jonsharp.net/blog/archive/">Blog Archive</a></li>
+                    
+                  </ul>
+                  
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+                
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a href="http://blog.jonsharp.net/misc/">Misc</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+                        
+                      
+
+                      <li><a href="http://blog.jonsharp.net/misc/pinhoti/">Pinhoti Trail</a></li>
+                    
+
+                      
+                        
+                      
+
+                      <li><a href="http://blog.jonsharp.net/misc/sun/">Sun</a></li>
+                    
+
+                      
+                        
+                      
+
+                      <li><a href="http://blog.jonsharp.net/misc/wishlist/">Wishlist</a></li>
+                    
+                  </ul>
+                  
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+                
+              
+
+          
+          
+        
+
+              
+                
+              
+
+          
+          
+        
+        
+      </ul>
+    </section>
+  </nav>
+</div><!-- /#navigation -->
+
+	
+
+	
+
+<div id="masthead-no-image-header">
+	<div class="row">
+		<div class="small-12 columns">
+			<a id="logo" href="http://blog.jonsharp.net" title="JonSharp.net – Just a few things.">
+				<img src="http://blog.jonsharp.net/assets/img/logo.png" alt="JonSharp.net – Just a few things.">
+			</a>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+
+
+
+
+
+
+
+
+	<div class="row t30">
+	<div class="medium-8 columns medium-offset-2 end">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				
+
+				<span itemprop="name">
+					
+					<h1>Gameboy Ethernet Project</h1>
+				</span>
+			</header>
+
+
+			
+
+			<span itemprop="articleSection">
+			<h2 id="overview">Overview</h2>
+
+<p>The goal of this project was to allow a Nintendo Gameboy Color to 
+function as a remote reporting tool via a standard Ethernet connection. 
+This was accomplished using various hardware. Using a custom built 
+RS232 convertor circuit, the Gameboy connects to the serial port of 
+a special Java embedded device named <a href="http://www.ibutton.com/TINI">TINI</a>. 
+The TINI hardware also includes an Ethernet interface, making the 
+TINI essentially an Ethernet-to-Serial adapter. The TINI establishes 
+a socket connection with our Java server which sends useful information 
+back to the TINI which sends the output directly to the Gameboy’s 
+LCD screen. Read the following sections for the details of each component.</p>
+
+<h2 id="hardware">Hardware</h2>
+
+<ul>
+  <li>Nintendo Gameboy Color</li>
+  <li>Dallas Semiconductor’s TINI</li>
+  <li>Homemade RS232 signal convertor circuit</li>
+</ul>
+
+<h2 id="gb-software">GB Software</h2>
+
+<p>The Gameboy software was written in assembly language (The Gameboy 
+has a Z80 workalike CPU.) and assembled using Rednex Gameboy Development 
+System. <a href="http://www.otakunozoku.com/rgbds/index.html">RGBDS</a>
+The assembled ROM image was then flashed to a 4Mb <a href="http://www.bung.com.hk">Bung</a>
+flash cartridge via Bung’s GB Xchanger. The original design and 
+code are <a href="http://www.geocities.com/kkaarvik/gameboy.html">Ken Kaarvik’s</a>.
+Many thanks go to Ken for the inspiration for this 
+project, his code and permission to expand on his very excellent 
+idea. The original code is available on Ken’s page. Click below 
+for the modified code used in this project.</p>
+
+<ul>
+  <li><a href="/files/commboy.asm">Source</a></li>
+  <li><a href="/files/commboyv09.zip">Full archive</a> (includes build file and include files)</li>
+</ul>
+
+<h2 id="java-client">Java Client</h2>
+
+<p>The Java client code runs on the TINI providing the Gameboy with 
+the connection to the Java server running on our Linux workstation. 
+The client code begins by creating a serial port object and opening 
+it. Then it opens a socket connection to the Java server. When the 
+server sends the information to client, the client then outputs 
+directly to Gameboy over the serial port. This is a simple application 
+providing the Gameboy an Ethernet interface.</p>
+
+<ul>
+  <li><a href="/files/GBClient.java">Source</a></li>
+</ul>
+
+<h2 id="java-server">Java Server</h2>
+
+<p>The Java server is on a Linux system and remains open to connections 
+while running. The server waits until a client connects and then 
+sends out system information such as uptime and cpu temperature. 
+We hope to eventually allow two way communication between the Gameboy 
+and the server so that the server’s host can be controlled by the 
+Gameboy.</p>
+
+<ul>
+  <li><a href="/files/GBServer.java">Source</a></li>
+</ul>
+
+<h2 id="project-notes">Project Notes</h2>
+
+<p>Many things were required to pull this project off. First, we had 
+to learn assembly for which McKee Library proved helpful. Then we 
+had to learn about the Gameboy’s hardware. The Internet is full 
+of <a href="http://www.devrs.com/gb">great resources</a> for that. 
+The MAX232CPE circuit was constructed in under 3 hours. The TINI 
+we used is running TINI Firmware 1.01. In order to allow our Java 
+client software to execute without invoking it manually, (telnet 
+over the Ethernet device) we had to add a line to Slush’s (TINI’s 
+shell) /etc/.startup file. All coding was done using
+<a href="http://www.vim.org">VIM</a>.</p>
+
+<p>Special thanks to <a href="http://www.cs.southern.edu/%7Ehaltermn">Dr. 
+Halterman</a> for his help in this project! Here are some of the 
+project costs: </p>
+
+<ul>
+  <li>TINI w/ board - $75</li>
+  <li>Gameboy Color - $70</li>
+  <li>Bung Flash cart and Xchanger - $90</li>
+  <li>Parts for RS232 circuit - ~$15</li>
+  <li>Hours of mad coding - <em>priceless</em></li>
+</ul>
+
+<h2 id="pictures">Pictures</h2>
+
+<p><img src="/images/proj1.jpg" alt="Gameboy Color" /> “Start with the Gameboy Color”</p>
+
+<p><img src="/images/proj6.jpg" alt="RS232 Converter" /> “Build a circuit around Maxim’s MAX232CPE 16-pin DIP”</p>
+
+<p><img src="/images/proj3.jpg" alt="Project Box" /> “Put it in an attractive project box”</p>
+
+<p><img src="/images/proj4.jpg" alt="The TINI" /> “Get your TINI…”</p>
+
+<p><img src="/images/proj2.jpg" alt="All together" /> “and put it all together!”</p>
+
+<h2 id="summary">Summary</h2>
+
+<p>This was a great project that was a lot of fun. We feel that we’ve 
+done so much that no one has ever done or even thought to do before. 
+It was a great learning experience for us. We had to learn how to 
+implement the various things we’ve learned about in CPTR 328 as 
+code that was useful. We hope to someday improve upon this project 
+with newer features and functionality, but until then we can
+appreciate our accomplishments.</p>
+
+
+			</span>
+
+			
+
+			
+		</article>
+	</div><!-- /.medium-8.columns -->
+
+
+	
+
+
+	
+</div><!-- /.row -->
+
+
+	
+	    <div id="up-to-top" class="row">
+      <div class="small-12 columns" style="text-align: right;">
+        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+
+    <footer id="footer-content" class="bg-grau">
+      <div id="footer">
+        <div class="row">
+          <div class="medium-6 large-5 columns">
+            <h5 class="shadow-black">About This Site</h5>
+
+            <p class="shadow-black">
+              Personal Website of Jon Sharp - a Seventh-day Adventist Christian, an enterprise architect, embedded systems engineer, retrocomputing enthusiast, lover of the outdoors, father and husband.
+              <a href="http://blog.jonsharp.net/info/">More ›</a>
+            </p>
+          </div><!-- /.large-6.columns -->
+
+
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+            
+              
+                <h5 class="shadow-black">Services</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+              <ul class="no-bullet shadow-black">
+              
+                
+                  <li >
+                    <a href=""  title=""></a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="/contact/"  title="Contact">Contact</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                  </li>
+              
+              </ul>
+          </div><!-- /.large-4.columns -->
+
+
+          <div class="small-6 medium-3 large-3 columns">
+            
+              
+                <h5 class="shadow-black">Thank you</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            <ul class="no-bullet shadow-black">
+            
+              
+                <li >
+                  <a href=""  title=""></a>
+                </li>
+            
+              
+                <li class="network-entypo" >
+                  <a href="http://entypo.com/" target="_blank"  title="Icons by Daniel Bruce">Icons by Daniel Bruce</a>
+                </li>
+            
+              
+                <li class="services-newsletter" >
+                  <a href="http://foundation.zurb.com/" target="_blank"  title="Built on Foundation">Built on Foundation</a>
+                </li>
+            
+              
+                <li class="rss-link" >
+                  <a href="http://unsplash.com/" target="_blank"  title="Images by Unsplash">Images by Unsplash</a>
+                </li>
+            
+              
+                <li class="sitemap-link" >
+                  <a href="http://srobbin.com/jquery-plugins/backstretch/" target="_blank"  title="Using Backstretch by Scott Robbin">Using Backstretch by Scott Robbin</a>
+                </li>
+            
+            </ul>
+          </div><!-- /.large-3.columns -->
+        </div><!-- /.row -->
+
+      </div><!-- /#footer -->
+
+
+      <div id="subfooter">
+        <nav class="row">
+          <section id="subfooter-left" class="b30 small-12 medium-6 columns credits">
+            <p>
+              Created with &hearts;
+              by&nbsp;<a href="http://jonsharp.net/">Jon&nbsp;Sharp</a>
+              with&nbsp;<a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
+              based&nbsp;on&nbsp;<a href="http://phlow.github.io/feeling-responsive/">Feeling&nbsp;Responsive</a>.
+            </p>
+          </section>
+
+          <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
+            <ul class="inline-list">
+            
+              <li><a href="http://twitter.com/jrsharp" target="_blank" class="icon-twitter" title="Jon Sharp's Twitter Feed"></a></li>
+            
+              <li><a href="http://github.com/jrsharp" target="_blank" class="icon-github" title="Jon Sharp's GitHub"></a></li>
+            
+            </ul>
+          </section>
+        </nav>
+      </div><!-- /#subfooter -->
+    </footer>
+
+	
+
+	<script src="http://blog.jonsharp.net/assets/js/javascript.min.js"></script>
+
+
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60112281-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+
+
+</body>
+</html>
+

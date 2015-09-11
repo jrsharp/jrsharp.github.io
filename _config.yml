@@ -63,6 +63,8 @@ exclude:
     - README.md
     - INSTALL.md
 
+# Keep these (non-Jekyll-managed) static files around:
+keep_files: [ 'files' ]
 
 # The language setting is used in /includes/header.html for html-settings
 language: "en"

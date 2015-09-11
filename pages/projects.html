@@ -1,0 +1,183 @@
+<?php 
+// added to create "default" page of single category... professional
+if (empty($_SERVER['QUERY_STRING'])) {
+	$cat = '12';
+}
+/* Don't remove this line. */
+require('./wordpress/wp-blog-header.php');
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head profile="http://gmpg.org/xfn/1">
+	<title><?php bloginfo('name'); ?><?php wp_title(); ?></title>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=<?php bloginfo('charset'); ?>" />
+	<meta name="generator" content="WordPress <?php bloginfo('version'); ?>" /> <!-- leave this for stats -->
+
+<?php
+	$stylesheet = "personal.css";
+?>
+	<style type="text/css" media="screen">
+		@import url( <?php echo get_settings('siteurl'); echo '/'.$stylesheet; ?> );
+	</style>
+	
+	<link rel="stylesheet" type="text/css" media="print" href="<?php echo get_settings('siteurl'); ?>/print.css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="<?php bloginfo('rss2_url'); ?>" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="<?php bloginfo('rss_url'); ?>" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="<?php bloginfo('atom_url'); ?>" />
+	
+	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
+    <?php wp_get_archives('type=monthly&format=link'); ?>
+	<?php //comments_popup_script(); // off by default ?>
+	<?php wp_head(); ?>
+</head>
+
+<body bgcolor="FFFFFF">
+
+<!-- main -->
+<div id="main">
+
+	<div id="header">
+<?php
+	echo "		<div><img src=\"/images/Boards_header_2.jpg\" alt=\"Picture of Jon and Tennyson\" width=\"750\" height=\"270\"/></div>";
+	include "htmlinclude/personal_nav.html";
+?>
+	</div> <!-- end of div#header -->
+	<div id="content" class="content">
+
+<!-- BEGIN EDITABLE "main" -->
+
+<h1>Projects</h1>
+
+<p>
+Below is a listing of some of the projects I am working on or have worked on.
+Several of these projects are ongoing, getting attention when I have the time.
+</p>
+
+<div id="BibleReaderME" class="project">
+<h2><a href="http://jonsharp.net/BibleReaderME/">BibleReaderME</a></h2>
+
+<p>
+BibleReaderME is a Java (J2ME) application designed for cell phones or other
+mobile devices with a J2ME JVM runtime environment, providing these devices
+access to the full text of the ESV Bible from Crossway Bibles.
+</p>
+
+</div>
+
+<div id="Freevo" class="project">
+<h2><a href="freevo.html">Freevo Box</a></h2>
+
+<p>
+This project describes the entertainment machine I put together using a
+Mini-ITX computer running Freevo on Slackware Linux.
+</p>
+</div>
+
+<div id="Gameboy" class="project">
+<a href="/gameboy/"><h2>Ethernet Gameboy</h2></a>
+
+<p>
+This project involved providing an ethernet connection to my Gameboy Color
+using an embedded Java computer named TINI.  This involved some simple circuit
+assembly and lots of Java and Z80 assembly code.  This is perhaps the project
+I am most proud of.  I really hope to have some time in the future to do some
+more with it.
+</p>
+</div>
+
+<div id="gameboy2" class="project">
+<a href="vgdev.html"><h2>GBSimpleTerm</h2></a>
+
+<p>
+GBSimpleTerm is an application I developed for the Color Gameboy using Z80
+assembly language.  Currently, it is just a nice user interface intended to
+be married with the communications code from the Ethernet Gameboy project
+above.  Perhaps when I get some more free time I'll finish this up.  :)  This
+page also describes some other video game development I am interested in along
+with some useful links.
+</p>
+
+<div>
+<h2><a href="laptops.html">Painted Laptops</a></h2>
+
+<p>
+I enjoy painting computers.  This page shows the pieces of art I've made out
+of older laptops.  Also included is information regarding using DOS on an
+older 486 laptop.  This information describes how I used a Cisco Aironet 350
+wireless card and Cisco's DOS packet driver to get TCP/IP access under DOS.
+I was able to browse the web and use SSH (v.1) all under DOS!
+</p>
+</div>
+
+<div>
+<h2><a href="mac.html">Macintosh</a></h2>
+
+<p>
+This page describes my interest in Apple's Macintosh computers.  It lists
+the Macs I own or have owned.  It also provides some (perhaps) useful information
+for those interested in running OS X on older Macs.  I describe in detail
+what was required to get OS X running on my PowerComputing PowerWave 604/132.
+Included are screenshots and benchmarks.
+</p>
+</div>
+
+<div>
+<h2><a href="sun.html">Sun Microsystems</a></h2>
+
+<p>
+My Sun page just describes a little about my experience and appreciation for
+Sun hardware (and software, I suppose).  Not much here.
+</p>
+</div>
+
+<div>
+<h2><a href="qnx.html">QNX</a></h2>
+
+<p>
+I am an Operating System fiend, so I will install and play with just about any
+OS that looks interesting.  I began playing with QNX in college and was really
+impressed.  This is a page I started to describe my experience with QNX, but
+I haven't used it much lately, so the page is a bit outdated.
+</p>
+</div>
+
+</div>
+
+<!-- END EDITABLE "main" -->
+
+<div id="footer">
+
+<a href="http://www.spreadfirefox.com/?q=affiliates&amp;id=68250&amp;t=82"><img border="0" alt="Get Firefox!" title="Get Firefox!" src="http://sfx-images.mozilla.org/affiliates/Buttons/80x15/firefox_80x15.png" /></a>
+
+<a href="http://www.spreadfirefox.com/?q=affiliates&amp;id=68250&amp;t=179">
+<img border="0" alt="Get Thunderbird!" title="Get Thunderbird!" src="http://sfx-images.mozilla.org/affiliates/thunderbird/thunderbird_blog2.png" /></a>
+
+<p>
+
+	&copy; Copyright 2005 Jon Sharp.  Site design by Jon Sharp.
+</p>
+
+<?php
+// only print the credit when on the blog page
+
+if ($_SERVER['PHP_SELF'] == "/index.php") {
+
+?>
+	<p class="credit">
+		<!--<?php echo $wpdb->num_queries; ?> queries. <?php timer_stop(1); ?> seconds. --> <cite><?php echo sprintf(__("Powered by <a href='http://wordpress.org' title='%s'><strong>WordPress</strong></a>"), __("Powered by WordPress, state-of-the-art semantic personal publishing platform")); ?>
+	</cite></p>
+<?php
+} else {
+// print nothing
+}
+?>
+
+</div> <!-- end of footer -->
+</div> <!-- end of content -->
+</div> <!-- end of main -->
+
+</body>
+</html>
