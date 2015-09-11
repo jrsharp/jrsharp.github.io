@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Pinhoti"
-meta_title: "The Pinhoti Trail"
+title: "The Pinhoti Trail"
 permalink: "/misc/pinhoti/"
 ---
 

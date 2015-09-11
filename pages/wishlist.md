@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Wishlist"
-meta_title: "Wishlist"
 permalink: "/misc/wishlist/"
 ---
 
@@ -30,4 +29,4 @@ Gear
 
  * Pack cover for my Gregory Shasta
  * Snow Peak Giga Power white gas stove.
- * A Kayak  :)
+ * A Kayak

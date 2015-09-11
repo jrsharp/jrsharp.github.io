@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Gameboy Ethernet Project"
-meta_title: "Gameboy Ethernet Project"
 permalink: "/projects/gameboy/"
 ---
 
@@ -82,8 +81,8 @@ over the Ethernet device) we had to add a line to Slush's (TINI's
 shell) /etc/.startup file. All coding was done using
 [VIM](http://www.vim.org).
 
-Special thanks to <a href="http://www.cs.southern.edu/%7Ehaltermn">Dr. 
-Halterman</a> for his help in this project! Here are some of the 
+Special thanks to [Dr. Halterman](http://www.cs.southern.edu/~haltermn)
+for his help in this project! Here are some of the 
 project costs: 
 
  * TINI w/ board - $75
@@ -95,15 +94,15 @@ project costs:
 Pictures
 --------
 
-![Gameboy Color][proj1] "Start with the Gameboy Color"
+![Gameboy Color][proj1] Start with the Gameboy Color
 
-![RS232 Converter][proj6] "Build a circuit around Maxim's MAX232CPE 16-pin DIP"
+![RS232 Converter][proj6] Build a circuit around Maxim's MAX232CPE 16-pin DIP
 
-![Project Box][proj3] "Put it in an attractive project box"
+![Project Box][proj3] Put it in an attractive project box
 
-![The TINI][proj4] "Get your TINI..."
+![The TINI][proj4] Get your TINI...
 
-![All together][proj2] "and put it all together!"
+![All together][proj2] and put it all together!
 
 Summary
 -------

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Laptop Art"
-meta_title: "Painted Laptops and other goodies"
 permalink: "/projects/laptops/"
 ---
 

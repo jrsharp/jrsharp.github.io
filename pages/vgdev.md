@@ -1,12 +1,8 @@
 ---
 layout: page
 title: "Video Game Development"
-meta_title: "Video Game Development"
 permalink: "/projects/vgdev/"
 ---
-
-Video Game Development
-======================
 
 One of my fond interests is video game / console development.
 I've always thought it was cool how video games were written to

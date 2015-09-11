@@ -3,7 +3,7 @@
 <head>
 		<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>Gameboy Ethernet Project</title>
+	<title>Projects</title>
 	<link rel="stylesheet" type="text/css" href="http://blog.jonsharp.net/assets/css/styles_feeling_responsive.css" />
 	<script src="http://blog.jonsharp.net/assets/js/modernizr.min.js"></script>
 	
@@ -104,9 +104,9 @@
 	<!-- Facebook Optimization -->
 	<meta property="og:locale" content="en_EN" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Gameboy Ethernet Project" />
+	<meta property="og:title" content="Projects" />
 	<meta property="og:description" content="Personal Website of Jon Sharp - a Seventh-day Adventist Christian, an enterprise architect, embedded systems engineer, retrocomputing enthusiast, lover of the outdoors, father and husband." />
-	<meta property="og:url" content="http://blog.jonsharp.net//projects/gameboy/" />
+	<meta property="og:url" content="http://blog.jonsharp.net//projects/" />
 	<meta property="og:site_name" content="JonSharp.net" />
 	
 
@@ -233,7 +233,7 @@
             
             
 
-              <li class="has-dropdown">
+              <li class="has-dropdown active">
                 <a href="http://blog.jonsharp.net/projects/">Projects</a>
 
                   <ul class="dropdown">
@@ -392,7 +392,7 @@
 
 				<span itemprop="name">
 					
-					<h1>Gameboy Ethernet Project</h1>
+					<h1>Projects</h1>
 				</span>
 			</header>
 
@@ -400,119 +400,31 @@
 			
 
 			<span itemprop="articleSection">
-			<h2 id="overview">Overview</h2>
+			<p>Below is a listing of some of the projects I am working on or have worked on.
+Several of these projects are ongoing, getting attention when I have the time.</p>
 
-<p>The goal of this project was to allow a Nintendo Gameboy Color to 
-function as a remote reporting tool via a standard Ethernet connection. 
-This was accomplished using various hardware. Using a custom built 
-RS232 convertor circuit, the Gameboy connects to the serial port of 
-a special Java embedded device named <a href="http://www.ibutton.com/TINI">TINI</a>. 
-The TINI hardware also includes an Ethernet interface, making the 
-TINI essentially an Ethernet-to-Serial adapter. The TINI establishes 
-a socket connection with our Java server which sends useful information 
-back to the TINI which sends the output directly to the Gameboy’s 
-LCD screen. Read the following sections for the details of each component.</p>
+<h2 id="biblereadermebiblereaderme"><a href="/BibleReaderME/">BibleReaderME</a></h2>
 
-<h2 id="hardware">Hardware</h2>
+<p>BibleReaderME is a Java (J2ME) application designed for cell phones or other
+mobile devices with a J2ME JVM runtime environment, providing these devices
+access to the full text of the ESV Bible from Crossway Bibles.</p>
 
-<ul>
-  <li>Nintendo Gameboy Color</li>
-  <li>Dallas Semiconductor’s TINI</li>
-  <li>Homemade RS232 signal convertor circuit</li>
-</ul>
+<h2 id="gameboy-ethernet-projectprojectsgameboy"><a href="/projects/gameboy">Gameboy Ethernet Project</a></h2>
 
-<h2 id="gb-software">GB Software</h2>
+<p>This project involved providing an ethernet connection to my Gameboy Color
+using an embedded Java computer named TINI.  This involved some simple circuit
+assembly and lots of Java and Z80 assembly code.  This is perhaps the project
+I am most proud of.  I really hope to have some time in the future to do some
+more with it.</p>
 
-<p>The Gameboy software was written in assembly language (The Gameboy 
-has a Z80 workalike CPU.) and assembled using Rednex Gameboy Development 
-System. <a href="http://www.otakunozoku.com/rgbds/index.html">RGBDS</a>
-The assembled ROM image was then flashed to a 4Mb <a href="http://www.bung.com.hk">Bung</a>
-flash cartridge via Bung’s GB Xchanger. The original design and 
-code are <a href="http://www.geocities.com/kkaarvik/gameboy.html">Ken Kaarvik’s</a>.
-Many thanks go to Ken for the inspiration for this 
-project, his code and permission to expand on his very excellent 
-idea. The original code is available on Ken’s page. Click below 
-for the modified code used in this project.</p>
+<h2 id="gbsimpletermprojectsvgdev"><a href="/projects/vgdev">GBSimpleTerm</a></h2>
 
-<ul>
-  <li><a href="/files/commboy.asm">Source</a></li>
-  <li><a href="/files/commboyv09.zip">Full archive</a> (includes build file and include files)</li>
-</ul>
-
-<h2 id="java-client">Java Client</h2>
-
-<p>The Java client code runs on the TINI providing the Gameboy with 
-the connection to the Java server running on our Linux workstation. 
-The client code begins by creating a serial port object and opening 
-it. Then it opens a socket connection to the Java server. When the 
-server sends the information to client, the client then outputs 
-directly to Gameboy over the serial port. This is a simple application 
-providing the Gameboy an Ethernet interface.</p>
-
-<ul>
-  <li><a href="/files/GBClient.java">Source</a></li>
-</ul>
-
-<h2 id="java-server">Java Server</h2>
-
-<p>The Java server is on a Linux system and remains open to connections 
-while running. The server waits until a client connects and then 
-sends out system information such as uptime and cpu temperature. 
-We hope to eventually allow two way communication between the Gameboy 
-and the server so that the server’s host can be controlled by the 
-Gameboy.</p>
-
-<ul>
-  <li><a href="/files/GBServer.java">Source</a></li>
-</ul>
-
-<h2 id="project-notes">Project Notes</h2>
-
-<p>Many things were required to pull this project off. First, we had 
-to learn assembly for which McKee Library proved helpful. Then we 
-had to learn about the Gameboy’s hardware. The Internet is full 
-of <a href="http://www.devrs.com/gb">great resources</a> for that. 
-The MAX232CPE circuit was constructed in under 3 hours. The TINI 
-we used is running TINI Firmware 1.01. In order to allow our Java 
-client software to execute without invoking it manually, (telnet 
-over the Ethernet device) we had to add a line to Slush’s (TINI’s 
-shell) /etc/.startup file. All coding was done using
-<a href="http://www.vim.org">VIM</a>.</p>
-
-<p>Special thanks to <a href="http://www.cs.southern.edu/~haltermn">Dr. Halterman</a>
-for his help in this project! Here are some of the 
-project costs: </p>
-
-<ul>
-  <li>TINI w/ board - $75</li>
-  <li>Gameboy Color - $70</li>
-  <li>Bung Flash cart and Xchanger - $90</li>
-  <li>Parts for RS232 circuit - ~$15</li>
-  <li>Hours of mad coding - <em>priceless</em></li>
-</ul>
-
-<h2 id="pictures">Pictures</h2>
-
-<p><img src="/images/proj1.jpg" alt="Gameboy Color" /> Start with the Gameboy Color</p>
-
-<p><img src="/images/proj6.jpg" alt="RS232 Converter" /> Build a circuit around Maxim’s MAX232CPE 16-pin DIP</p>
-
-<p><img src="/images/proj3.jpg" alt="Project Box" /> Put it in an attractive project box</p>
-
-<p><img src="/images/proj4.jpg" alt="The TINI" /> Get your TINI…</p>
-
-<p><img src="/images/proj2.jpg" alt="All together" /> and put it all together!</p>
-
-<h2 id="summary">Summary</h2>
-
-<p>This was a great project that was a lot of fun. We feel that we’ve 
-done so much that no one has ever done or even thought to do before. 
-It was a great learning experience for us. We had to learn how to 
-implement the various things we’ve learned about in CPTR 328 as 
-code that was useful. We hope to someday improve upon this project 
-with newer features and functionality, but until then we can
-appreciate our accomplishments.</p>
-
+<p>GBSimpleTerm is an application I developed for the Color Gameboy using Z80
+assembly language.  Currently, it is just a nice user interface intended to
+be married with the communications code from the Ethernet Gameboy project
+above.  Perhaps when I get some more free time I’ll finish this up.  :)  This
+page also describes some other video game development I am interested in along
+with some useful links.</p>
 
 			</span>
 

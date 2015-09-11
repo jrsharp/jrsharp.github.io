@@ -1,12 +1,8 @@
 ---
 layout: page
 title: "Sun"
-meta_title: "Sun"
 permalink: "/misc/sun/"
 ---
-
-Sun
-===
 
 One of my many interests is in Sun hardware / software.  I own two
 old SparcStation 2's which I used to host this website for about 6
