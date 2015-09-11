@@ -112,7 +112,7 @@
 	<meta property="og:title" content="Atom Feed (Styled)" />
 	<meta property="og:description" content="Personal Website of Jon Sharp - a Seventh-day Adventist Christian, an enterprise architect, embedded systems engineer, retrocomputing enthusiast, lover of the outdoors, father and husband." />
 	<meta property="og:url" content="http://blog.jonsharp.net//assets/xslt/atom.xslt" />
-	<meta property="og:site_name" content="JonSharp.net" />
+	<meta property="og:site_name" content="Jon Sharp, logged on the web" />
 	
 
 	
@@ -133,7 +133,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://blog.jonsharp.net" class="icon-tree"> JonSharp.net</a></h1>
+      <h1 class="show-for-small-only"><a href="http://blog.jonsharp.net" class="icon-tree"> Jon Sharp, logged on the web</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -373,8 +373,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://blog.jonsharp.net" title="JonSharp.net – Just a few things.">
-				<img src="http://blog.jonsharp.net/assets/img/logo.png" alt="JonSharp.net – Just a few things.">
+			<a id="logo" href="http://blog.jonsharp.net" title="Jon Sharp, logged on the web – web log of an Adventist Christian, technology professional, outdoor enthusiast...">
+				<img src="http://blog.jonsharp.net/assets/img/logo.png" alt="Jon Sharp, logged on the web – web log of an Adventist Christian, technology professional, outdoor enthusiast...">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -567,6 +567,8 @@
             <ul class="inline-list">
             
               <li><a href="http://twitter.com/jrsharp" target="_blank" class="icon-twitter" title="Jon Sharp's Twitter Feed"></a></li>
+            
+              <li><a href="https://www.linkedin.com/in/jonsharp1" target="_blank" class="icon-linkedin" title="Jon Sharp's LinkedIn Profile"></a></li>
             
               <li><a href="http://github.com/jrsharp" target="_blank" class="icon-github" title="Jon Sharp's GitHub"></a></li>
             
