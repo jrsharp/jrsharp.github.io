@@ -4,7 +4,7 @@ title: "Laptop Art"
 permalink: "/projects/laptops/"
 ---
 
-This page is for some of my laptop art.
+Some computers start out as works of art.  Others need a little help...
 
 Pentium 133 Laptop
 ------------------

@@ -74,14 +74,12 @@ body.video cite { color: #fff; }
     font-size: rem-calc(54);
     font-family: $header-font-family;
     color: #fff;
-    text-transform: uppercase;
-    text-shadow: 0 2px 3px rgba(0,0,0,.4);
 }
 #masthead-no-image-header {
-    height: 175px;
+    height: 80px;
 }
 #masthead-no-image-header #logo img {
-    margin-top: 60px;
+    margin-top: 0px;
 }
 
 /* Masthead › small-only
@@ -280,7 +278,6 @@ body.video cite { color: #fff; }
     #footer h5 {
         letter-spacing: 1px;
         color: #fff;
-        text-transform: uppercase;
     }
 
 
@@ -300,7 +297,6 @@ body.video cite { color: #fff; }
     #subfooter .credits a {
         color: $subfooter-link-color;
         border: 0;
-        text-transform: uppercase;
         &:hover {
             color: #fff;
         }
