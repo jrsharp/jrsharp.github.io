@@ -214,7 +214,11 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-70325256-1
+# jonsharp.net:
+google_analytics_tracking_id: UA-70305955-1
+
+# jonsharp.io:
+#google_analytics_tracking_id: UA-70325256-1
 
 #   _                 _     _
 #  | |_ __ ___      _| | __| |_ ___
