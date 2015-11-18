@@ -4,9 +4,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://blog.jonsharp.net/</id>
 	<title>Jon Sharp, logged on the web</title>
-	<updated>2015-09-10T23:08:20-05:00</updated>
+	<updated>2015-11-18T04:12:25-06:00</updated>
 
-	<subtitle>Personal Website of Jon Sharp - a Seventh-day Adventist Christian, an enterprise architect, embedded systems engineer, retrocomputing enthusiast, lover of the outdoors, father and husband.</subtitle>
+	<subtitle>Personal Website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast.</subtitle>
 
 	
 		
@@ -24,7 +24,7 @@
 	<link href="http://blog.jonsharp.net/atom.xml" rel="self" type="application/rss+xml" />
 	<link href="http://blog.jonsharp.net/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="2.4.0">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="3.0.0">Jekyll</generator>
 
 	
 		<entry>

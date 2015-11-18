@@ -4,7 +4,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Jon Sharp, logged on the web</title>
-		<description>Personal Website of Jon Sharp - a Seventh-day Adventist Christian, an enterprise architect, embedded systems engineer, retrocomputing enthusiast, lover of the outdoors, father and husband.</description>
+		<description>Personal Website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast.</description>
 		<link>http://blog.jonsharp.net/</link>
 		<atom:link href="http://blog.jonsharp.net/feed.xml" rel="self" type="application/rss+xml" />
 		
