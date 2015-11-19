@@ -8243,12 +8243,12 @@ body.video cite {
 
 /* line 78, /home/jrsharp/src/jrsharp.github.io/_sass/_07_layout.scss */
 #masthead-no-image-header {
-  height: 80px;
+  height: 200px;
 }
 
 /* line 81, /home/jrsharp/src/jrsharp.github.io/_sass/_07_layout.scss */
 #masthead-no-image-header #logo img {
-  margin-top: 0px;
+  margin-top: -40px;
 }
 
 /* Masthead › small-only

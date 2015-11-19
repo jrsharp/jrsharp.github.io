@@ -336,7 +336,7 @@
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="http://localhost:4000" title="Jon Sharp, logged on the web – web log of an Adventist Christian, technology professional, outdoor enthusiast...">
-				<img src="http://localhost:4000/assets/img/logo.png" alt="Jon Sharp, logged on the web – web log of an Adventist Christian, technology professional, outdoor enthusiast...">
+				<img src="http://localhost:4000/assets/img/JSHeader.png" alt="Jon Sharp, logged on the web – web log of an Adventist Christian, technology professional, outdoor enthusiast...">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
