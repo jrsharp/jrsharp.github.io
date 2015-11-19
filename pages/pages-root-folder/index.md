@@ -25,7 +25,7 @@ which I am a member, including Nashville's Down syndrome community, represented 
 [Down Syndrome Association of Middle Tennessee](http://somethingextra.org) and that of
 my local church, [Madison Campus Seventh-day Adventist](http://madisoncampus.org).
 
-If I've handed you one of my cards and you've come here to learn more about what I'm
+If I've handed you one of my cards and you've come here to learn more of what I'm
 about, thank you.  Drop me a line using the contact info here and keep in touch.
 
 Enjoy!
