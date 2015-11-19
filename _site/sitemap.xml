@@ -5,24 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/404.html</loc>
+	<loc>http://blog.jonsharp.net/404.html</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/archive/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,41 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/assets/css/atom.css</loc>
+	<loc>http://blog.jonsharp.net/blog/archive/</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/atom.xml</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/changelog/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -82,24 +35,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/contact/</loc>
+	<loc>http://blog.jonsharp.net/assets/css/atom.css</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -112,189 +50,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/feed.xml</loc>
+	<loc>http://blog.jonsharp.net/atom.xml</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/projects/gameboy/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/headers/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/humans.txt</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/projects/laptops/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/misc/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/misc/pinhoti/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/projects/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/redirect-page/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/robots.txt</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/assets/css/rss.css</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -309,24 +67,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/search/</loc>
+	<loc>http://blog.jonsharp.net/changelog/</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/sitemap.xml</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -339,24 +82,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/assets/css/styles_feeling_responsive.css</loc>
+	<loc>http://blog.jonsharp.net/contact/</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/misc/sun/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -369,24 +97,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/projects/vgdev/</loc>
+	<loc>http://blog.jonsharp.net/design/</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/misc/wishlist/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -399,24 +112,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page2/</loc>
+	<loc>http://blog.jonsharp.net/feed.xml</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page3/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -429,24 +127,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page4/</loc>
+	<loc>http://blog.jonsharp.net/projects/gameboy/</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page5/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -459,24 +142,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page6/</loc>
+	<loc>http://blog.jonsharp.net/headers/</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page7/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -489,24 +157,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page8/</loc>
+	<loc>http://blog.jonsharp.net/humans.txt</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page9/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -519,24 +172,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page10/</loc>
+	<loc>http://blog.jonsharp.net/blog/</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page11/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -549,24 +187,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page12/</loc>
+	<loc>http://blog.jonsharp.net/</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page13/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -579,24 +202,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page14/</loc>
+	<loc>http://blog.jonsharp.net/projects/laptops/</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page15/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -609,24 +217,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page16/</loc>
+	<loc>http://blog.jonsharp.net/misc/</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page17/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -639,24 +232,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page18/</loc>
+	<loc>http://blog.jonsharp.net/misc/pinhoti/</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page19/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -669,24 +247,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page20/</loc>
+	<loc>http://blog.jonsharp.net/projects/</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/page21/</loc>
-	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -699,9 +262,446 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/page22/</loc>
+	<loc>http://blog.jonsharp.net/redirect-page/</loc>
 	
-		<lastmod>2015-11-19T03:40:31-06:00</lastmod>
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/robots.txt</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/assets/css/rss.css</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/search/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/sitemap.xml</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/assets/css/styles_feeling_responsive.css</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/misc/sun/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/projects/vgdev/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/misc/wishlist/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page2/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page3/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page4/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page5/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page6/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page7/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page8/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page9/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page10/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page11/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page12/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page13/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page14/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page15/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page16/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page17/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page18/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page19/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page20/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page21/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://blog.jonsharp.net/blog/page22/</loc>
+	
+		<lastmod>2015-11-19T03:42:55-06:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -717,7 +717,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/impressjs-im-impressed/</loc>
+	<loc>http://blog.jonsharp.net/impressjs-im-impressed/</loc>
 	
 		<lastmod>2012-03-22T00:07:27-05:00</lastmod>
 	
@@ -732,7 +732,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/my-friends-at-weatherate/</loc>
+	<loc>http://blog.jonsharp.net/my-friends-at-weatherate/</loc>
 	
 		<lastmod>2012-03-13T14:00:13-05:00</lastmod>
 	
@@ -747,7 +747,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/retrocomputing-update/</loc>
+	<loc>http://blog.jonsharp.net/retrocomputing-update/</loc>
 	
 		<lastmod>2012-03-12T09:23:41-05:00</lastmod>
 	
@@ -762,7 +762,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/raspberry-pi-ordered/</loc>
+	<loc>http://blog.jonsharp.net/raspberry-pi-ordered/</loc>
 	
 		<lastmod>2012-03-07T09:14:37-06:00</lastmod>
 	
@@ -777,7 +777,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/back-on-ipv6-and-it-feels-so-good/</loc>
+	<loc>http://blog.jonsharp.net/back-on-ipv6-and-it-feels-so-good/</loc>
 	
 		<lastmod>2012-03-06T21:54:58-06:00</lastmod>
 	
@@ -792,7 +792,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/shamelessly-promoting-my-company-campground-automation-systems/</loc>
+	<loc>http://blog.jonsharp.net/shamelessly-promoting-my-company-campground-automation-systems/</loc>
 	
 		<lastmod>2012-03-05T23:20:01-06:00</lastmod>
 	
@@ -807,7 +807,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/bearwaller-gap-trail/</loc>
+	<loc>http://blog.jonsharp.net/bearwaller-gap-trail/</loc>
 	
 		<lastmod>2012-03-05T22:36:34-06:00</lastmod>
 	
@@ -822,7 +822,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/tis-msp430-launchpad-budget-embedded/</loc>
+	<loc>http://blog.jonsharp.net/tis-msp430-launchpad-budget-embedded/</loc>
 	
 		<lastmod>2012-03-05T21:11:13-06:00</lastmod>
 	
@@ -837,7 +837,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/summary-for-retrochallenge-2009/</loc>
+	<loc>http://blog.jonsharp.net/summary-for-retrochallenge-2009/</loc>
 	
 		<lastmod>2009-07-31T18:17:13-05:00</lastmod>
 	
@@ -852,7 +852,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/down-to-the-wireless/</loc>
+	<loc>http://blog.jonsharp.net/down-to-the-wireless/</loc>
 	
 		<lastmod>2009-07-31T11:28:29-05:00</lastmod>
 	
@@ -867,7 +867,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/they-dont-call-it-a-challenge-for-nothing/</loc>
+	<loc>http://blog.jonsharp.net/they-dont-call-it-a-challenge-for-nothing/</loc>
 	
 		<lastmod>2009-07-24T00:49:06-05:00</lastmod>
 	
@@ -882,7 +882,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/getting-down-to-business/</loc>
+	<loc>http://blog.jonsharp.net/getting-down-to-business/</loc>
 	
 		<lastmod>2009-07-20T00:53:37-05:00</lastmod>
 	
@@ -897,7 +897,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/everything-is-on-its-way-to-my-house-except-me/</loc>
+	<loc>http://blog.jonsharp.net/everything-is-on-its-way-to-my-house-except-me/</loc>
 	
 		<lastmod>2009-07-15T09:55:39-05:00</lastmod>
 	
@@ -912,7 +912,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/retrochallenge-update-1/</loc>
+	<loc>http://blog.jonsharp.net/retrochallenge-update-1/</loc>
 	
 		<lastmod>2009-07-09T23:36:59-05:00</lastmod>
 	
@@ -927,7 +927,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/entry-to-retrochallenge-2009/</loc>
+	<loc>http://blog.jonsharp.net/entry-to-retrochallenge-2009/</loc>
 	
 		<lastmod>2009-07-01T09:47:41-05:00</lastmod>
 	
@@ -942,7 +942,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/site-online-again/</loc>
+	<loc>http://blog.jonsharp.net/site-online-again/</loc>
 	
 		<lastmod>2009-07-01T09:28:42-05:00</lastmod>
 	
@@ -957,7 +957,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/article-on-macs-in-the-enterprise/</loc>
+	<loc>http://blog.jonsharp.net/article-on-macs-in-the-enterprise/</loc>
 	
 		<lastmod>2007-05-21T23:18:31-05:00</lastmod>
 	
@@ -972,7 +972,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/gordon-home-care-featured-on-ahss-site/</loc>
+	<loc>http://blog.jonsharp.net/gordon-home-care-featured-on-ahss-site/</loc>
 	
 		<lastmod>2006-11-18T17:04:37-06:00</lastmod>
 	
@@ -987,7 +987,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/openwrt-presentation-at-nlug-meeting-this-wednesday/</loc>
+	<loc>http://blog.jonsharp.net/openwrt-presentation-at-nlug-meeting-this-wednesday/</loc>
 	
 		<lastmod>2006-11-14T14:26:03-06:00</lastmod>
 	
@@ -1002,7 +1002,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/banshee/</loc>
+	<loc>http://blog.jonsharp.net/banshee/</loc>
 	
 		<lastmod>2006-10-31T23:26:52-06:00</lastmod>
 	
@@ -1017,7 +1017,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/how-to-set-the-clock-in-open-firmware/</loc>
+	<loc>http://blog.jonsharp.net/how-to-set-the-clock-in-open-firmware/</loc>
 	
 		<lastmod>2006-10-16T11:29:58-05:00</lastmod>
 	
@@ -1032,7 +1032,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/omniplan/</loc>
+	<loc>http://blog.jonsharp.net/omniplan/</loc>
 	
 		<lastmod>2006-09-06T16:29:41-05:00</lastmod>
 	
@@ -1047,7 +1047,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/tennyson-the-top-dog/</loc>
+	<loc>http://blog.jonsharp.net/tennyson-the-top-dog/</loc>
 	
 		<lastmod>2006-09-01T10:10:46-05:00</lastmod>
 	
@@ -1062,7 +1062,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ralink-mac-driver-support/</loc>
+	<loc>http://blog.jonsharp.net/ralink-mac-driver-support/</loc>
 	
 		<lastmod>2006-08-30T21:30:20-05:00</lastmod>
 	
@@ -1077,7 +1077,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/more-than-open-source/</loc>
+	<loc>http://blog.jonsharp.net/more-than-open-source/</loc>
 	
 		<lastmod>2006-08-29T13:31:16-05:00</lastmod>
 	
@@ -1092,7 +1092,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/opendarwin-project-shutting-down/</loc>
+	<loc>http://blog.jonsharp.net/opendarwin-project-shutting-down/</loc>
 	
 		<lastmod>2006-07-26T11:53:55-05:00</lastmod>
 	
@@ -1107,7 +1107,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ipv6-support-in-bacula/</loc>
+	<loc>http://blog.jonsharp.net/ipv6-support-in-bacula/</loc>
 	
 		<lastmod>2006-07-24T13:56:14-05:00</lastmod>
 	
@@ -1122,7 +1122,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/butterfly-xml/</loc>
+	<loc>http://blog.jonsharp.net/butterfly-xml/</loc>
 	
 		<lastmod>2006-07-24T11:54:12-05:00</lastmod>
 	
@@ -1137,7 +1137,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/wonderland-trail/</loc>
+	<loc>http://blog.jonsharp.net/wonderland-trail/</loc>
 	
 		<lastmod>2006-07-14T23:20:21-05:00</lastmod>
 	
@@ -1152,7 +1152,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/chenuis-falls-trail/</loc>
+	<loc>http://blog.jonsharp.net/chenuis-falls-trail/</loc>
 	
 		<lastmod>2006-07-14T23:13:30-05:00</lastmod>
 	
@@ -1167,7 +1167,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/docuwiki/</loc>
+	<loc>http://blog.jonsharp.net/docuwiki/</loc>
 	
 		<lastmod>2006-07-10T10:39:46-05:00</lastmod>
 	
@@ -1182,7 +1182,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/gardening-is-fun/</loc>
+	<loc>http://blog.jonsharp.net/gardening-is-fun/</loc>
 	
 		<lastmod>2006-06-17T13:53:31-05:00</lastmod>
 	
@@ -1197,7 +1197,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/who-cares-i-do/</loc>
+	<loc>http://blog.jonsharp.net/who-cares-i-do/</loc>
 	
 		<lastmod>2006-06-15T10:49:04-05:00</lastmod>
 	
@@ -1212,7 +1212,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/xml-tools-and-edi-conversion/</loc>
+	<loc>http://blog.jonsharp.net/xml-tools-and-edi-conversion/</loc>
 	
 		<lastmod>2006-05-23T15:12:23-05:00</lastmod>
 	
@@ -1227,7 +1227,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-kernel-for-mac-os-x/</loc>
+	<loc>http://blog.jonsharp.net/new-kernel-for-mac-os-x/</loc>
 	
 		<lastmod>2006-04-26T15:53:07-05:00</lastmod>
 	
@@ -1242,7 +1242,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/apple-pro-keyboard-on-windows-xp/</loc>
+	<loc>http://blog.jonsharp.net/apple-pro-keyboard-on-windows-xp/</loc>
 	
 		<lastmod>2006-04-18T14:51:34-05:00</lastmod>
 	
@@ -1257,7 +1257,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/synergy/</loc>
+	<loc>http://blog.jonsharp.net/synergy/</loc>
 	
 		<lastmod>2006-04-18T14:20:43-05:00</lastmod>
 	
@@ -1272,7 +1272,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/earthlinks-ipv6-in-the-home/</loc>
+	<loc>http://blog.jonsharp.net/earthlinks-ipv6-in-the-home/</loc>
 	
 		<lastmod>2006-04-07T00:36:32-05:00</lastmod>
 	
@@ -1287,7 +1287,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/high-performance-computing-for-mac-os-x/</loc>
+	<loc>http://blog.jonsharp.net/high-performance-computing-for-mac-os-x/</loc>
 	
 		<lastmod>2006-03-23T15:43:33-06:00</lastmod>
 	
@@ -1302,7 +1302,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/biblereaderme-tested-on-treo-650/</loc>
+	<loc>http://blog.jonsharp.net/biblereaderme-tested-on-treo-650/</loc>
 	
 		<lastmod>2006-03-22T11:16:18-06:00</lastmod>
 	
@@ -1317,7 +1317,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-trail-log-added/</loc>
+	<loc>http://blog.jonsharp.net/new-trail-log-added/</loc>
 	
 		<lastmod>2006-03-21T09:10:19-06:00</lastmod>
 	
@@ -1332,7 +1332,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/big-frog-mountain-trail/</loc>
+	<loc>http://blog.jonsharp.net/big-frog-mountain-trail/</loc>
 	
 		<lastmod>2006-03-21T00:05:38-06:00</lastmod>
 	
@@ -1347,7 +1347,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/whigg-meadow/</loc>
+	<loc>http://blog.jonsharp.net/whigg-meadow/</loc>
 	
 		<lastmod>2006-03-20T23:25:22-06:00</lastmod>
 	
@@ -1362,7 +1362,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/big-frog-mountain-trail-2/</loc>
+	<loc>http://blog.jonsharp.net/big-frog-mountain-trail-2/</loc>
 	
 		<lastmod>2006-03-20T23:06:50-06:00</lastmod>
 	
@@ -1377,7 +1377,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/we-need-mosix-for-darwin-mac-os-x/</loc>
+	<loc>http://blog.jonsharp.net/we-need-mosix-for-darwin-mac-os-x/</loc>
 	
 		<lastmod>2006-03-20T10:35:01-06:00</lastmod>
 	
@@ -1392,7 +1392,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/desperation-in-the-form-of-bot-activity/</loc>
+	<loc>http://blog.jonsharp.net/desperation-in-the-form-of-bot-activity/</loc>
 	
 		<lastmod>2006-03-17T09:09:17-06:00</lastmod>
 	
@@ -1407,7 +1407,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/to-the-top-of-big-frog-and-back/</loc>
+	<loc>http://blog.jonsharp.net/to-the-top-of-big-frog-and-back/</loc>
 	
 		<lastmod>2006-02-28T10:01:27-06:00</lastmod>
 	
@@ -1422,7 +1422,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/mac-os-x-server-1045-update-breaks-ragepro/</loc>
+	<loc>http://blog.jonsharp.net/mac-os-x-server-1045-update-breaks-ragepro/</loc>
 	
 		<lastmod>2006-02-28T09:54:35-06:00</lastmod>
 	
@@ -1437,7 +1437,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/pleased-with-applecare/</loc>
+	<loc>http://blog.jonsharp.net/pleased-with-applecare/</loc>
 	
 		<lastmod>2006-02-08T15:32:33-06:00</lastmod>
 	
@@ -1452,7 +1452,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/great-observations-on-event-driven-church/</loc>
+	<loc>http://blog.jonsharp.net/great-observations-on-event-driven-church/</loc>
 	
 		<lastmod>2006-02-02T12:07:31-06:00</lastmod>
 	
@@ -1467,7 +1467,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/safari-and-cacti/</loc>
+	<loc>http://blog.jonsharp.net/safari-and-cacti/</loc>
 	
 		<lastmod>2006-02-02T11:53:04-06:00</lastmod>
 	
@@ -1482,7 +1482,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ipod-development-fun/</loc>
+	<loc>http://blog.jonsharp.net/ipod-development-fun/</loc>
 	
 		<lastmod>2006-01-11T22:14:51-06:00</lastmod>
 	
@@ -1497,7 +1497,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/overclocked-macintosh-server-g3-running-darwin-801/</loc>
+	<loc>http://blog.jonsharp.net/overclocked-macintosh-server-g3-running-darwin-801/</loc>
 	
 		<lastmod>2005-09-27T08:40:14-05:00</lastmod>
 	
@@ -1512,7 +1512,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/refurbing-my-own-powerbook-battery/</loc>
+	<loc>http://blog.jonsharp.net/refurbing-my-own-powerbook-battery/</loc>
 	
 		<lastmod>2005-09-27T08:39:59-05:00</lastmod>
 	
@@ -1527,7 +1527,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/apples-mighty-mouse/</loc>
+	<loc>http://blog.jonsharp.net/apples-mighty-mouse/</loc>
 	
 		<lastmod>2005-08-23T08:28:59-05:00</lastmod>
 	
@@ -1542,7 +1542,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/too-busy-to-write-about-it/</loc>
+	<loc>http://blog.jonsharp.net/too-busy-to-write-about-it/</loc>
 	
 		<lastmod>2005-08-17T13:08:20-05:00</lastmod>
 	
@@ -1557,7 +1557,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/biblereaderme-beta-1-released/</loc>
+	<loc>http://blog.jonsharp.net/biblereaderme-beta-1-released/</loc>
 	
 		<lastmod>2005-08-06T23:15:44-05:00</lastmod>
 	
@@ -1572,7 +1572,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/backpacking-with-ticks/</loc>
+	<loc>http://blog.jonsharp.net/backpacking-with-ticks/</loc>
 	
 		<lastmod>2005-06-01T12:42:02-05:00</lastmod>
 	
@@ -1587,7 +1587,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/uptime-lament/</loc>
+	<loc>http://blog.jonsharp.net/uptime-lament/</loc>
 	
 		<lastmod>2005-05-24T11:55:58-05:00</lastmod>
 	
@@ -1602,7 +1602,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/tiger-confirmed-to-run-on-powerbook-g3-lombard/</loc>
+	<loc>http://blog.jonsharp.net/tiger-confirmed-to-run-on-powerbook-g3-lombard/</loc>
 	
 		<lastmod>2005-05-07T15:30:25-05:00</lastmod>
 	
@@ -1617,7 +1617,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/installing-tiger-on-lombard/</loc>
+	<loc>http://blog.jonsharp.net/installing-tiger-on-lombard/</loc>
 	
 		<lastmod>2005-05-06T07:49:00-05:00</lastmod>
 	
@@ -1632,7 +1632,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/xserve-g5-hardware-raid-pains/</loc>
+	<loc>http://blog.jonsharp.net/xserve-g5-hardware-raid-pains/</loc>
 	
 		<lastmod>2005-05-05T21:46:21-05:00</lastmod>
 	
@@ -1647,7 +1647,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/im-your-firestarter/</loc>
+	<loc>http://blog.jonsharp.net/im-your-firestarter/</loc>
 	
 		<lastmod>2005-05-04T11:49:05-05:00</lastmod>
 	
@@ -1662,7 +1662,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/openwrt-upgrade/</loc>
+	<loc>http://blog.jonsharp.net/openwrt-upgrade/</loc>
 	
 		<lastmod>2005-05-04T11:45:13-05:00</lastmod>
 	
@@ -1677,7 +1677,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/reporting-tiger-on-lombard/</loc>
+	<loc>http://blog.jonsharp.net/reporting-tiger-on-lombard/</loc>
 	
 		<lastmod>2005-05-03T13:41:55-05:00</lastmod>
 	
@@ -1692,7 +1692,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/scsi-ethernet/</loc>
+	<loc>http://blog.jonsharp.net/scsi-ethernet/</loc>
 	
 		<lastmod>2005-04-14T12:24:08-05:00</lastmod>
 	
@@ -1707,7 +1707,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/localtalk-bridge-and-macip-routing/</loc>
+	<loc>http://blog.jonsharp.net/localtalk-bridge-and-macip-routing/</loc>
 	
 		<lastmod>2005-04-11T13:55:09-05:00</lastmod>
 	
@@ -1722,7 +1722,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/realtor-plug/</loc>
+	<loc>http://blog.jonsharp.net/realtor-plug/</loc>
 	
 		<lastmod>2005-03-25T02:50:33-06:00</lastmod>
 	
@@ -1737,7 +1737,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/natchez-trace-parkway/</loc>
+	<loc>http://blog.jonsharp.net/natchez-trace-parkway/</loc>
 	
 		<lastmod>2005-03-08T07:44:04-06:00</lastmod>
 	
@@ -1752,7 +1752,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/do-you-feel-lucky/</loc>
+	<loc>http://blog.jonsharp.net/do-you-feel-lucky/</loc>
 	
 		<lastmod>2005-02-25T16:51:16-06:00</lastmod>
 	
@@ -1767,7 +1767,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-site-design/</loc>
+	<loc>http://blog.jonsharp.net/new-site-design/</loc>
 	
 		<lastmod>2005-02-05T00:02:15-06:00</lastmod>
 	
@@ -1782,7 +1782,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/biblereaderme-site-launched/</loc>
+	<loc>http://blog.jonsharp.net/biblereaderme-site-launched/</loc>
 	
 		<lastmod>2005-02-05T00:00:25-06:00</lastmod>
 	
@@ -1797,7 +1797,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/wacom-artz-ii-working-with-68k-mac-os-755/</loc>
+	<loc>http://blog.jonsharp.net/wacom-artz-ii-working-with-68k-mac-os-755/</loc>
 	
 		<lastmod>2005-02-03T14:27:37-06:00</lastmod>
 	
@@ -1812,7 +1812,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/type-3-errors/</loc>
+	<loc>http://blog.jonsharp.net/type-3-errors/</loc>
 	
 		<lastmod>2005-01-18T11:10:06-06:00</lastmod>
 	
@@ -1827,7 +1827,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/replaced-the-68lc040-with-a-68040/</loc>
+	<loc>http://blog.jonsharp.net/replaced-the-68lc040-with-a-68040/</loc>
 	
 		<lastmod>2005-01-06T10:05:28-06:00</lastmod>
 	
@@ -1842,7 +1842,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/the-best-of-both-worlds/</loc>
+	<loc>http://blog.jonsharp.net/the-best-of-both-worlds/</loc>
 	
 		<lastmod>2004-12-14T00:17:37-06:00</lastmod>
 	
@@ -1857,7 +1857,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ahoy-magazine-from-1986/</loc>
+	<loc>http://blog.jonsharp.net/ahoy-magazine-from-1986/</loc>
 	
 		<lastmod>2004-12-01T12:01:39-06:00</lastmod>
 	
@@ -1872,7 +1872,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/even-more-mac-overclocking/</loc>
+	<loc>http://blog.jonsharp.net/even-more-mac-overclocking/</loc>
 	
 		<lastmod>2004-12-01T11:46:50-06:00</lastmod>
 	
@@ -1887,7 +1887,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/making-use-of-my-powerbook-1400/</loc>
+	<loc>http://blog.jonsharp.net/making-use-of-my-powerbook-1400/</loc>
 	
 		<lastmod>2004-11-11T12:02:01-06:00</lastmod>
 	
@@ -1902,7 +1902,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/donating-to-firefox/</loc>
+	<loc>http://blog.jonsharp.net/donating-to-firefox/</loc>
 	
 		<lastmod>2004-10-28T11:04:49-05:00</lastmod>
 	
@@ -1917,7 +1917,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/backpacking-again/</loc>
+	<loc>http://blog.jonsharp.net/backpacking-again/</loc>
 	
 		<lastmod>2004-10-15T09:55:48-05:00</lastmod>
 	
@@ -1932,7 +1932,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ipv6-tunnel-back-up/</loc>
+	<loc>http://blog.jonsharp.net/ipv6-tunnel-back-up/</loc>
 	
 		<lastmod>2004-10-14T16:47:45-05:00</lastmod>
 	
@@ -1947,7 +1947,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/openwrt-is-amazing/</loc>
+	<loc>http://blog.jonsharp.net/openwrt-is-amazing/</loc>
 	
 		<lastmod>2004-10-07T11:27:55-05:00</lastmod>
 	
@@ -1962,7 +1962,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/gifts-from-novell/</loc>
+	<loc>http://blog.jonsharp.net/gifts-from-novell/</loc>
 	
 		<lastmod>2004-09-29T16:55:57-05:00</lastmod>
 	
@@ -1977,7 +1977,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/openwrt-ready-to-go/</loc>
+	<loc>http://blog.jonsharp.net/openwrt-ready-to-go/</loc>
 	
 		<lastmod>2004-09-29T16:55:49-05:00</lastmod>
 	
@@ -1992,7 +1992,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/successful-iisi-clock-chipping/</loc>
+	<loc>http://blog.jonsharp.net/successful-iisi-clock-chipping/</loc>
 	
 		<lastmod>2004-08-30T22:36:20-05:00</lastmod>
 	
@@ -2007,7 +2007,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/more-opendarwin-shenanigans/</loc>
+	<loc>http://blog.jonsharp.net/more-opendarwin-shenanigans/</loc>
 	
 		<lastmod>2004-08-23T15:33:03-05:00</lastmod>
 	
@@ -2022,7 +2022,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/opendarwin-721-on-latitude-d600/</loc>
+	<loc>http://blog.jonsharp.net/opendarwin-721-on-latitude-d600/</loc>
 	
 		<lastmod>2004-08-18T16:22:03-05:00</lastmod>
 	
@@ -2037,7 +2037,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/clock-chipping-update/</loc>
+	<loc>http://blog.jonsharp.net/clock-chipping-update/</loc>
 	
 		<lastmod>2004-08-18T16:13:57-05:00</lastmod>
 	
@@ -2052,7 +2052,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/back-on-the-6bone/</loc>
+	<loc>http://blog.jonsharp.net/back-on-the-6bone/</loc>
 	
 		<lastmod>2004-08-05T09:42:02-05:00</lastmod>
 	
@@ -2067,7 +2067,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ordered-a-50mhz-full-size-ttl-crystal-oscillator/</loc>
+	<loc>http://blog.jonsharp.net/ordered-a-50mhz-full-size-ttl-crystal-oscillator/</loc>
 	
 		<lastmod>2004-08-04T14:07:19-05:00</lastmod>
 	
@@ -2082,7 +2082,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/caffe-nonna/</loc>
+	<loc>http://blog.jonsharp.net/caffe-nonna/</loc>
 	
 		<lastmod>2004-08-03T11:44:21-05:00</lastmod>
 	
@@ -2097,7 +2097,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/getting-greedy/</loc>
+	<loc>http://blog.jonsharp.net/getting-greedy/</loc>
 	
 		<lastmod>2004-07-21T19:06:47-05:00</lastmod>
 	
@@ -2112,7 +2112,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/overclocked-powerbook-g3-lombard/</loc>
+	<loc>http://blog.jonsharp.net/overclocked-powerbook-g3-lombard/</loc>
 	
 		<lastmod>2004-07-21T00:58:30-05:00</lastmod>
 	
@@ -2127,7 +2127,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/web-browsers-for-68k-macs/</loc>
+	<loc>http://blog.jonsharp.net/web-browsers-for-68k-macs/</loc>
 	
 		<lastmod>2004-07-13T23:38:18-05:00</lastmod>
 	
@@ -2142,7 +2142,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/i-found-a-real-live-bbs/</loc>
+	<loc>http://blog.jonsharp.net/i-found-a-real-live-bbs/</loc>
 	
 		<lastmod>2004-07-13T23:29:54-05:00</lastmod>
 	
@@ -2157,7 +2157,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/impressions-of-safari-20-preview/</loc>
+	<loc>http://blog.jonsharp.net/impressions-of-safari-20-preview/</loc>
 	
 		<lastmod>2004-07-10T15:57:32-05:00</lastmod>
 	
@@ -2172,7 +2172,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog-migration/</loc>
+	<loc>http://blog.jonsharp.net/blog-migration/</loc>
 	
 		<lastmod>2004-07-09T10:47:46-05:00</lastmod>
 	
@@ -2187,7 +2187,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/mac-os-x-104-tiger-preview-installed-on-powerbook-g3-lombard/</loc>
+	<loc>http://blog.jonsharp.net/mac-os-x-104-tiger-preview-installed-on-powerbook-g3-lombard/</loc>
 	
 		<lastmod>2004-07-08T17:19:37-05:00</lastmod>
 	
@@ -2202,7 +2202,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/divx-movies-on-a-sparcstation-2/</loc>
+	<loc>http://blog.jonsharp.net/divx-movies-on-a-sparcstation-2/</loc>
 	
 		<lastmod>2004-06-30T10:35:22-05:00</lastmod>
 	
@@ -2217,7 +2217,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/mod_gzip-added-to-jonsharpnet/</loc>
+	<loc>http://blog.jonsharp.net/mod_gzip-added-to-jonsharpnet/</loc>
 	
 		<lastmod>2004-06-30T10:30:56-05:00</lastmod>
 	
@@ -2232,7 +2232,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/repaired-powerbook-g3/</loc>
+	<loc>http://blog.jonsharp.net/repaired-powerbook-g3/</loc>
 	
 		<lastmod>2004-06-29T10:04:19-05:00</lastmod>
 	
@@ -2247,7 +2247,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ipv6-devices-multiplying-at-home/</loc>
+	<loc>http://blog.jonsharp.net/ipv6-devices-multiplying-at-home/</loc>
 	
 		<lastmod>2004-06-09T09:30:29-05:00</lastmod>
 	
@@ -2262,7 +2262,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/no-tie-fighter/</loc>
+	<loc>http://blog.jonsharp.net/no-tie-fighter/</loc>
 	
 		<lastmod>2004-05-17T17:14:17-05:00</lastmod>
 	
@@ -2277,7 +2277,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/itunes-45-has-ipv6-support/</loc>
+	<loc>http://blog.jonsharp.net/itunes-45-has-ipv6-support/</loc>
 	
 		<lastmod>2004-05-11T08:52:21-05:00</lastmod>
 	
@@ -2292,7 +2292,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/chernobyl-mentioned-on-slashdot/</loc>
+	<loc>http://blog.jonsharp.net/chernobyl-mentioned-on-slashdot/</loc>
 	
 		<lastmod>2004-04-30T09:13:29-05:00</lastmod>
 	
@@ -2307,7 +2307,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/apple-iigs-mini-itx/</loc>
+	<loc>http://blog.jonsharp.net/apple-iigs-mini-itx/</loc>
 	
 		<lastmod>2004-04-30T09:03:48-05:00</lastmod>
 	
@@ -2322,7 +2322,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/chernobyl-ghost-town/</loc>
+	<loc>http://blog.jonsharp.net/chernobyl-ghost-town/</loc>
 	
 		<lastmod>2004-04-14T16:58:34-05:00</lastmod>
 	
@@ -2337,7 +2337,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/tie-fighter-and-apple-ii/</loc>
+	<loc>http://blog.jonsharp.net/tie-fighter-and-apple-ii/</loc>
 	
 		<lastmod>2004-04-13T09:44:17-05:00</lastmod>
 	
@@ -2352,7 +2352,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/omnigraffle-webpage-skeleton-applescript/</loc>
+	<loc>http://blog.jonsharp.net/omnigraffle-webpage-skeleton-applescript/</loc>
 	
 		<lastmod>2004-04-06T09:35:12-05:00</lastmod>
 	
