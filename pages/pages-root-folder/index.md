@@ -9,7 +9,7 @@ architecture, etc.  As an outdoors enthusiast, I also try to share some of my hi
 backpacking, camping and canoeing exploits with the family, as well.
 
 This current iteration of jonsharp.net brings with it a host of legacy content.  
-The older blog entries and project pages sometime reflect interests and projects long 
+The older blog entries and project pages sometimes reflect interests and projects long 
 since abandoned, but some of this content was once very popular and useful to a 
 number of people, and I hope that it may be still.  I intend to provide frequent 
 updates to the blog and project content moving forward, as well as filling in the 
