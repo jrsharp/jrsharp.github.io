@@ -33,6 +33,8 @@ $ci-6: #A1D044;     // green
 $ci-7: #333333;     // 80% Gray
 $darkp: #6e00a2;     // JS's dark purple
 $lightp: #dc91ff;     // JS's dark purple
+$yellow: #ecd459;     // JS's yellow
+$green: #2a531a;     // JS's green
 
 
 /* Foundation Color Variables
@@ -73,29 +75,29 @@ $grey-16: #0B0B0B;
 
 $topbar-bg-color: #fff;
 
-$topbar-dropdown-toggle-color: $lightp;
+$topbar-dropdown-toggle-color: $yellow;
 
 $topbar-link-color: #fff;
 $topbar-link-color-hover: #fff;
 $topbar-link-color-active: #fff;
 $topbar-link-color-active-hover: #fff;
 
-$topbar-dropdown-label-color: $darkp;
-$topbar-dropdown-link-bg-hover: $darkp;
+$topbar-dropdown-label-color: $green;
+$topbar-dropdown-link-bg-hover: $green;
 
-$topbar-link-bg-active: $darkp; // Active Navigation Link
-$topbar-link-bg-hover: $lightp;
-$topbar-link-bg-active-hover: $darkp;
+$topbar-link-bg-active: $green; // Active Navigation Link
+$topbar-link-bg-hover: $yellow;
+$topbar-link-bg-active-hover: $green;
 
-$topbar-dropdown-bg: $lightp; // Background Mobile Navigation
+$topbar-dropdown-bg: $yellow; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $lightp;
+$topbar-dropdown-link-bg: $yellow;
 
-$topbar-menu-link-color-toggled: $lightp;
+$topbar-menu-link-color-toggled: $yellow;
 $topbar-menu-icon-color-toggled: #fff;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #fff;
-$topbar-menu-link-color-toggled: $darkp;
+$topbar-menu-link-color-toggled: $green;
 $topbar-menu-icon-color-toggled: #fff;
 
 /* Footer
