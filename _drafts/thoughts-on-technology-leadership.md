@@ -6,9 +6,6 @@ layout: page
 subheadline: ""
 title: "Thoughts on technology leadership"
 teaser: ""
-categories:
-  - 
+categories: [tech]
 tags: [technology,leadership,coding,talent]
-  - 
 ---
-

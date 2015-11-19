@@ -8,7 +8,7 @@
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
     </ul>
-    <section class="top-bar-section">
+    <section style="z-index: 1000;" class="top-bar-section">
 {% comment %}
 
     ____  _       __    __     _   __            _             __  _           

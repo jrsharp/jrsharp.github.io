@@ -5,141 +5,116 @@
 	<channel>
 		<title>Jon Sharp, logged on the web</title>
 		<description>Personal website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast.</description>
-		<link>http://blog.jonsharp.net/</link>
-		<atom:link href="http://blog.jonsharp.net/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://172.21.21.105:4000/</link>
+		<atom:link href="http://172.21.21.105:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>impress.js - I&#39;m impressed.</title>
-				<link>http://blog.jonsharp.net/impressjs-im-impressed/</link>
-				<pubDate>Thu, 22 Mar 2012 00:07:27 -0500</pubDate>
-				<description>&lt;p&gt;I thought I’d mention a new tool that my brother, Justin, recommended we use at http://www.campgroundautomation.com for a recent presentation we were putting together.  We had been using Apple’s Keynote, which is certainly a slick piece of software, and miles ahead of PowerPoint, but I recently found it wanting.  In attempting to update our previous corporate Keynote template, I became frustrated with the cumbersome tools and process required.  I wanted to more easily adapt some of the web styles of corporate site into our presentation.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Enter http://bartaz.github.com/impress.js.  I was already somewhat familiar with Prezi, and found Prezi presentations to be a bit more interesting than previous generous products could produce, but impress.js has blown me away.  After viewing all of the example presentations, I was convinced this would suit our needs well.  I was able to produce a presentation that reused a good deal of our corporate branding in the form of existing images and css and without going too crazy with the effects, I was able to produce a very dynamic and engaging presentation.  I was able to work in familiar technologies (HTML/CSS) and code in my favorite editor, http://www.vim.org.&lt;/p&gt;
-
-&lt;p&gt;We found Safari worked best for the effects we were using, with Chrome choking on a couple of “slides”.  It also just performed better.  Anyway, I can definitely recommend checking out impress.js.  There’s a slight learning curve, but I have found it was easy to pick up once you get started, and well worth it.&lt;/p&gt;
+				<title></title>
+				<link>http://172.21.21.105:4000/video/</link>
+				<pubDate>Thu, 19 Nov 2015 16:07:56 -0600</pubDate>
+				<description>
 </description>
-				<guid isPermaLink="true">http://blog.jonsharp.net/impressjs-im-impressed/</guid>
+				<guid isPermaLink="true">http://172.21.21.105:4000/video/</guid>
 			</item>
 		
 			<item>
-				<title>Another great startup: WeatheRate</title>
-				<link>http://blog.jonsharp.net/my-friends-at-weatherate/</link>
-				<pubDate>Tue, 13 Mar 2012 14:00:13 -0500</pubDate>
-				<description>&lt;p&gt;Hi everyone,&lt;/p&gt;
-
-&lt;p&gt;I just wanted to take the opportunity to highlight the startup effort of several friends of mine.  Their company / service is called WeatheRate, and in their words:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We specialize in the rating of overhead transmission and distribution lines for the electricity distribution sector. Our services enable our clients to defer capital and increase operational flexibility using existing network infrastructure.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Please, head over to their &lt;a href=&quot;http://www.facebook.com/pages/WeatheRate/205493752885372&quot;&gt;Facebook page&lt;/a&gt; and give them a “Like.”  And if you have a need for weather-related monitoring of overhead transmission and distribution lines, sign on up! ;)&lt;/p&gt;
+				<title>Thoughts on technology leadership</title>
+				<link>http://172.21.21.105:4000/tech/thoughts-on-technology-leadership/</link>
+				<pubDate>Thu, 19 Nov 2015 16:07:56 -0600</pubDate>
+				<description>
 </description>
-				<guid isPermaLink="true">http://blog.jonsharp.net/my-friends-at-weatherate/</guid>
+				<guid isPermaLink="true">http://172.21.21.105:4000/tech/thoughts-on-technology-leadership/</guid>
 			</item>
 		
 			<item>
-				<title>Retrocomputing Update</title>
-				<link>http://blog.jonsharp.net/retrocomputing-update/</link>
-				<pubDate>Mon, 12 Mar 2012 09:23:41 -0500</pubDate>
-				<description>&lt;p&gt;Since &lt;a href=&quot;http://www.linkedin.com/in/campgroundautomation&quot;&gt;Tyler&lt;/a&gt; and &lt;a href=&quot;http://www.linkedin.com/pub/jon-sharp/0/2a1/a4b&quot;&gt;I&lt;/a&gt; began our startup venture, &lt;a href=&quot;http://www.campgroundautomation.com&quot;&gt;Campground Automation Systems&lt;/a&gt;, 5 years ago, I may have neglected this blog, but I’ve managed to stay active in my retrocomputing/collecting efforts.  I’m always on the lookout for unique, rare or otherwise interesting vintage computer items on Craigslist and eBay and I’ve managed to find some real gems over the past several years.  As I strive to keep this site more current, I plan to feature some of these items in greater depth over the next several months.&lt;/p&gt;
-
-&lt;p&gt;Recent acquisitions to my collection include: a Commodore 8032-SK, Apple IIc, IIe, Macintosh Portable, Mac 128K, Apple 1 Replica (Replica 1), TRS-80 Model 100, and a Canon Cat.  The Macintosh Portable required some restoration, and I’ve performed various upgrades on each of these.  I attempt to use them all, if only for a few minutes at a time.  I don’t want to see them all simply collecting dust.  I’m proud of each of them, though if I were honest, I’d have to say I’m most proud of the Cat.  It’s such a unique computer, quite unlike anything I’d used previously.  In my next Retrocomputing post, I plan to showcase the Cat and the modifications I’ve made with the help of some of the members of the Canon Cat group. (Thanks Dwight!)&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://blog.jonsharp.net/retrocomputing-update/</guid>
+				<title></title>
+				<link>http://172.21.21.105:4000/post_without_image/</link>
+				<pubDate>Thu, 19 Nov 2015 16:07:56 -0600</pubDate>
+				<description></description>
+				<guid isPermaLink="true">http://172.21.21.105:4000/post_without_image/</guid>
 			</item>
 		
 			<item>
-				<title>Raspberry Pi Ordered</title>
-				<link>http://blog.jonsharp.net/raspberry-pi-ordered/</link>
-				<pubDate>Wed, 07 Mar 2012 09:14:37 -0600</pubDate>
-				<description>&lt;p&gt;Like many, I have been following the developments of the &lt;a href=&quot;http://raspberrypi.org&quot;&gt;Raspberry Pi project&lt;/a&gt; with anticipation.  When the RPi was released recently, I was ready to try to get my order in at the earliest possible moment.  Unfortunately, it seems that the chosen distributors underestimated the demand and I ended up participating in the “DDOS” that crippled these sites.  In the end, I was able to “register my interest” and that allowed me several days later to place a pre-order myself.&lt;/p&gt;
-
-&lt;p&gt;My Raspberry Pi is expected to ship in May, so I’ll have a bit of a wait, yet, but after waiting this long, what’s a few more weeks?  I have a number of ideas in mind for mine, and I’m sure like-minded geeks are going to find endless uses for the innovative device, but I’m most excited about the foundation’s vision for using the Pi as a tool for getting kids interested in programming.  I applaud their efforts and look forward to seeing the fruits of their labor in the months ahead.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://blog.jonsharp.net/raspberry-pi-ordered/</guid>
+				<title></title>
+				<link>http://172.21.21.105:4000/post_with_image/</link>
+				<pubDate>Thu, 19 Nov 2015 16:07:56 -0600</pubDate>
+				<description></description>
+				<guid isPermaLink="true">http://172.21.21.105:4000/post_with_image/</guid>
 			</item>
 		
 			<item>
-				<title>Back on IPv6, and it feels so good</title>
-				<link>http://blog.jonsharp.net/back-on-ipv6-and-it-feels-so-good/</link>
-				<pubDate>Tue, 06 Mar 2012 21:54:58 -0600</pubDate>
-				<description>&lt;p&gt;I had let my &lt;a href=&quot;http://he.net&quot;&gt;Hurricane Electric&lt;/a&gt; tunnelbroker account lapse several years ago when shuffling around my OpenWrt builds.  At that time I determined that I didn’t need the extra overhead imposed by the tunnelbroker.&lt;/p&gt;
-
-&lt;p&gt;Having recently upgraded from my trusty Linksys WRT54G, to an x86 Alix router platform, I decided to reactivate my IPv6 tunnel.  It was a piece o’ cake.  I was then able to update my DNS records and bring JonSharp.net and JonandJolene.com back on IPv6.  It feels good to be back. ;)&lt;/p&gt;
+				<title></title>
+				<link>http://172.21.21.105:4000/page_without_image/</link>
+				<pubDate>Thu, 19 Nov 2015 16:07:56 -0600</pubDate>
+				<description>
 </description>
-				<guid isPermaLink="true">http://blog.jonsharp.net/back-on-ipv6-and-it-feels-so-good/</guid>
+				<guid isPermaLink="true">http://172.21.21.105:4000/page_without_image/</guid>
 			</item>
 		
 			<item>
-				<title>Shamelessly promoting my company, Campground Automation Systems</title>
-				<link>http://blog.jonsharp.net/shamelessly-promoting-my-company-campground-automation-systems/</link>
-				<pubDate>Mon, 05 Mar 2012 23:20:01 -0600</pubDate>
-				<description>&lt;p&gt;Hey Internets,&lt;/p&gt;
+				<title></title>
+				<link>http://172.21.21.105:4000/page_with_table_of_contents/</link>
+				<pubDate>Thu, 19 Nov 2015 16:07:56 -0600</pubDate>
+				<description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
+    &lt;div class=&quot;panel radius&quot;&gt;
+      &lt;p id=&quot;toc&quot;&gt;Inhalt&lt;/p&gt;
 
-&lt;p&gt;I have this great company I started with my friend, Tyler Duffy, named &lt;a href=&quot;http://www.campgroundautomation.com&quot;&gt;Campground Automation Systems&lt;/a&gt;.  With our team, I’ve been very busy building &lt;a href=&quot;http://www.campgroundautomation.com/sunrise-hardware-kiosk-and-control#kiosk&quot;&gt;outdoor Kiosks&lt;/a&gt;, designing &lt;a href=&quot;http://www.campgroundautomation.com/sunrise-hardware-kiosk-and-control#control&quot;&gt;wireless utility control&lt;/a&gt; devices, and writing &lt;a href=&quot;http://www.campgroundautomation.com/sunrise-software&quot;&gt;software&lt;/a&gt; to tie it all together for the past 5 years – which is why this blog has been so neglected.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
 
-&lt;p&gt;We provide &lt;a href=&quot;http://www.sunrisereservations.com&quot;&gt;online reservations&lt;/a&gt; for campgrounds and RV Parks through our &lt;a href=&quot;http://www.sunrisereservations.com&quot;&gt;SunriseReservations.com&lt;/a&gt; portal site.&lt;/p&gt;
 
-&lt;p&gt;We don’t just do online reservations through our central reservation system, (CRS) we have a complete &lt;a href=&quot;http://www.campgroundautomation.com/Sunrise&quot;&gt;campground management software&lt;/a&gt; package named &lt;a href=&quot;http://www.campgroundautomation.com/sunrise-software&quot;&gt;Sunrise&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Stop by our site and read all about it, then visit us on &lt;a href=&quot;http://www.facebook.com/pages/Campground-Automation-Systems/110944752283900&quot;&gt;Facebook&lt;/a&gt; and “Like” us!&lt;/p&gt;
+&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+  &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
+&lt;/div&gt;
+&lt;!-- /.row --&gt;
+
 </description>
-				<guid isPermaLink="true">http://blog.jonsharp.net/shamelessly-promoting-my-company-campground-automation-systems/</guid>
+				<guid isPermaLink="true">http://172.21.21.105:4000/page_with_table_of_contents/</guid>
 			</item>
 		
 			<item>
-				<title>Bearwaller Gap Trail</title>
-				<link>http://blog.jonsharp.net/bearwaller-gap-trail/</link>
-				<pubDate>Mon, 05 Mar 2012 22:36:34 -0600</pubDate>
-				<description>&lt;p&gt;Corin and I took our first father-son hike together on the Bearwaller Gap Trail, along Cordell Hull Lake.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://blog.jonsharp.net/bearwaller-gap-trail/</guid>
+				<title></title>
+				<link>http://172.21.21.105:4000/page_with_image/</link>
+				<pubDate>Thu, 19 Nov 2015 16:07:56 -0600</pubDate>
+				<description></description>
+				<guid isPermaLink="true">http://172.21.21.105:4000/page_with_image/</guid>
 			</item>
 		
 			<item>
-				<title>TI&#39;s MSP430 Launchpad: Budget Embedded</title>
-				<link>http://blog.jonsharp.net/tis-msp430-launchpad-budget-embedded/</link>
-				<pubDate>Mon, 05 Mar 2012 21:11:13 -0600</pubDate>
-				<description>&lt;p&gt;I recently ran across an ad for &lt;a href=&quot;http://www.ti.com/tool/msp-exp430g2&quot;&gt;TI’s MSP430 Launchpad&lt;/a&gt; 16-bit embedded microcontroller kit.  How did I miss this before now?  $4.30 for a complete 16-bit microcontroller development kit?  Needless to say, I ordered one.  I probably should’ve ordered several. ;)  Don’t get me wrong, I still love my trusty &lt;a href=&quot;http://en.wikipedia.org/wiki/Atmel_AVR&quot;&gt;8-bit AVRs&lt;/a&gt;, but for the price, you can’t go wrong.  Surely you can find something to do with another micro?&lt;/p&gt;
-
-&lt;p&gt;Obviously, the price has a strong appeal here, but the true draw (pun intended) is the amazing power budget afforded by this micro.  TI has posted several Youtube vids demonstrating the device running on things like grapes and potatoes, just to show off.  Real-world applications might require more juice than that, but the MSP430 starts to make small-scale &lt;a href=&quot;http://en.wikipedia.org/wiki/Energy_harvesting&quot;&gt;energy harvesting&lt;/a&gt; look practical.  And &lt;i&gt;this&lt;/i&gt; is what really starts capturing &lt;i&gt;my&lt;/i&gt; imagination.&lt;/p&gt;
-
-&lt;p&gt;I’ve only barely begun to play with my Launchpad, having tested the various examples using each of the major toolchains available.  So far, I’m impressed.  For now, the Launchpad’s in the drawer, waiting for my next low-power / energy-harvesting application.  What will it be?&lt;/p&gt;
+				<title></title>
+				<link>http://172.21.21.105:4000/page_simple/</link>
+				<pubDate>Thu, 19 Nov 2015 16:07:56 -0600</pubDate>
+				<description>
 </description>
-				<guid isPermaLink="true">http://blog.jonsharp.net/tis-msp430-launchpad-budget-embedded/</guid>
+				<guid isPermaLink="true">http://172.21.21.105:4000/page_simple/</guid>
 			</item>
 		
 			<item>
-				<title>Summary for RetroChallenge 2009</title>
-				<link>http://blog.jonsharp.net/summary-for-retrochallenge-2009/</link>
-				<pubDate>Fri, 31 Jul 2009 18:17:13 -0500</pubDate>
-				<description>&lt;p&gt;Wow, what a fun challenge this has been!  While I certainly ran into a number of difficulties, for my first RetroChallenge, I’m pleased to say that I consider my project a relative success.  After all, I was able to get my //e talking to my wife’s Sanyo Katana without issue.  And I even managed to get it to talk to my Treo, I just couldn’t get the Treo to talk back. ;)  I have created a &lt;a href=&quot;http://www.jonsharp.net/projects-personal/blueooth-project/&quot;&gt;separate project page&lt;/a&gt; for this project, complete with more pictures, that I will use to continue the project beyond the challenge.  I’ll continue to post updates there, as well.  Check out that page for a more detailed summary of the project.&lt;/p&gt;
-
-&lt;p&gt;So I ended up proving that the //e could use the bluetooth module to talk to phones supporting the DUN profile without issue, and I received confirmation that it works with other Treos. (just not mine, for some reason)  I never managed to determine the exact cause of my Treo’s failures.  I do not know if it is a problem that affects all Sprint Treos, or ones with a certain firmware, but it certainly doesn’t affect all Treo’s.&lt;/p&gt;
-
-&lt;p&gt;As far as my goal to have a full design prepared for the interface card, I just didn’t get there.  Wrestling with the Treo really slowed me down there.  Not to mention the fact that my most important prototyping parts that I ordered from ReactiveMicro.com still have not arrived.  I suppose it was just bad timing, with KFest going on and all.  I have the design mostly done and I posted a pic to the project page.&lt;/p&gt;
-
-&lt;p&gt;I definitely had a great time with this project and learned a tremendous amount.  While I didn’t get to complete as much of the project this month as I had hoped, my success to this point encourages me to continue the project to its eventual completion in the weeks to come.  I also have some additional ideas for features I’d like to add to the design and should have the time now to see about those.  So please, stay tuned for more updates.&lt;/p&gt;
+				<title></title>
+				<link>http://172.21.21.105:4000/page_all_frontmatter/</link>
+				<pubDate>Thu, 19 Nov 2015 16:07:56 -0600</pubDate>
+				<description>
 </description>
-				<guid isPermaLink="true">http://blog.jonsharp.net/summary-for-retrochallenge-2009/</guid>
+				<guid isPermaLink="true">http://172.21.21.105:4000/page_all_frontmatter/</guid>
 			</item>
 		
 			<item>
-				<title>Down to the Wire(less)</title>
-				<link>http://blog.jonsharp.net/down-to-the-wireless/</link>
-				<pubDate>Fri, 31 Jul 2009 11:28:29 -0500</pubDate>
-				<description>&lt;p&gt;Hey everybody…  I haven’t posted more recently because I have had some pretty major roadblocks.  Most of the things I expected to be easy have been anything but.  Also, I have been awaiting several prototyping components for the actual Apple II card for weeks now and alas, after having just checked the mail, I know that I won’t even have a few minutes to put the parts together for a quick test today.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, the real problem appears to be my Treo itself.  It seems to have some serious objections to communicating with either Bluetooth module I picked up.  (Though I have received confirmation that other Treos work fine.)  I am awaiting some last minute support from Bluegiga regarding this issue and am hopeful for good news.&lt;/p&gt;
-
-&lt;p&gt;The circuit design and board layout are still in early stages, as these other problems have been such a challenge.&lt;/p&gt;
-
-&lt;p&gt;I will also be doing a complete writeup/summary of the project later today, and while I am disappointed that some things have been such a challenge, I am also very encouraged that none of these things have proved impossible to overcome.  I have confidence that I’ll be able to resolve them soon.  As for the competition, I think there are some accomplishments/revelations worthy of note, and will detail those in my later summary.&lt;/p&gt;
+				<title></title>
+				<link>http://172.21.21.105:4000/gallery/</link>
+				<pubDate>Thu, 19 Nov 2015 16:07:56 -0600</pubDate>
+				<description>&lt;ul class=&quot;clearing-thumbs small-block-grid-3&quot; data-clearing=&quot;&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;/images/unsplash_1.jpg&quot;&gt;&lt;img data-caption=&quot;&quot; class=&quot;th&quot; src=&quot;/images/unsplash_1_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/images/unsplash_2.jpg&quot;&gt;&lt;img data-caption=&quot;&quot; class=&quot;th&quot; src=&quot;/images/unsplash_2_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/images/unsplash_3.jpg&quot;&gt;&lt;img data-caption=&quot;&quot; class=&quot;th&quot; src=&quot;/images/unsplash_3_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/images/unsplash_4.jpg&quot;&gt;&lt;img data-caption=&quot;&quot; class=&quot;th&quot; src=&quot;/images/unsplash_4_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/images/unsplash_5.jpg&quot;&gt;&lt;img data-caption=&quot;&quot; class=&quot;th&quot; src=&quot;/images/unsplash_5_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/images/unsplash_6.jpg&quot;&gt;&lt;img data-caption=&quot;&quot; class=&quot;th&quot; src=&quot;/images/unsplash_6_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-				<guid isPermaLink="true">http://blog.jonsharp.net/down-to-the-wireless/</guid>
+				<guid isPermaLink="true">http://172.21.21.105:4000/gallery/</guid>
 			</item>
 		
 	</channel>
