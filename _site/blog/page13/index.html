@@ -105,8 +105,8 @@
 	<meta property="og:locale" content="en_EN" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Blog" />
-	<meta property="og:description" content="Personal Website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast." />
-	<meta property="og:url" content="http://blog.jonsharp.net//blog/page13/" />
+	<meta property="og:description" content="Personal website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast." />
+	<meta property="og:url" content="http://blog.jonsharp.net//blog/page13/index.html" />
 	<meta property="og:site_name" content="Jon Sharp, logged on the web" />
 	<meta property="og:image" content="/images/unsplash_6_thumb.jpg" />
 
@@ -138,11 +138,7 @@
         
 
               
-
-          
-          
-        
-
+                
               
 
           
@@ -150,17 +146,31 @@
         
 
               
-
-          
-          
-        
-
+                
               
 
           
           
         
 
+              
+                
+              
+
+          
+          
+        
+
+              
+                
+              
+
+          
+          
+        
+
+              
+                
               
 
           
@@ -175,6 +185,8 @@
           
         
 
+              
+                
               
 
           
@@ -195,6 +207,8 @@
         
 
               
+                
+              
 
           
           
@@ -210,6 +224,8 @@
         
 
               
+                
+              
 
           
           
@@ -224,15 +240,21 @@
                     
 
                       
+                        
+                      
 
                       <li><a href="http://blog.jonsharp.net/projects/gameboy/">Gameboy</a></li>
                     
 
                       
+                        
+                      
 
                       <li><a href="http://blog.jonsharp.net/projects/laptops/">Laptop Art</a></li>
                     
 
+                      
+                        
                       
 
                       <li><a href="http://blog.jonsharp.net/projects/vgdev/">Video Game Development</a></li>
@@ -245,6 +267,8 @@
           
         
 
+              
+                
               
 
           
@@ -260,6 +284,8 @@
                     
 
                       
+                        
+                      
 
                       <li><a href="http://blog.jonsharp.net/blog/archive/">Blog Archive</a></li>
                     
@@ -271,6 +297,8 @@
           
         
 
+              
+                
               
 
           
@@ -286,15 +314,21 @@
                     
 
                       
+                        
+                      
 
                       <li><a href="http://blog.jonsharp.net/misc/pinhoti/">Pinhoti Trail</a></li>
                     
 
                       
+                        
+                      
 
                       <li><a href="http://blog.jonsharp.net/misc/sun/">Sun</a></li>
                     
 
+                      
+                        
                       
 
                       <li><a href="http://blog.jonsharp.net/misc/wishlist/">Wishlist</a></li>
@@ -308,11 +342,15 @@
         
 
               
+                
+              
 
           
           
         
 
+              
+                
               
 
           
@@ -369,6 +407,7 @@
 <p>Now, a note for Lombard users without a DVD drive:  I would expect that you could perform the same operation on the CD version available as a special order from Apple.</p>
 
 
+
         <a href="http://blog.jonsharp.net/installing-tiger-on-lombard/" title="Read Installing Tiger on Lombard"><strong>Read More&nbsp;›</strong></a>
       </p>
     </div><!-- /.small-12.columns -->
@@ -383,7 +422,7 @@
 
         
 
-	<p>Who knew it could be so hard to install a PCI hardware RAID controller in an Xserve G5?  Well, I learned about this unexpected difficulty today.  I write about it here because I think the experience may be useful to others.</p>
+	<p>Who knew it could be so hard to install a PCI hardware RAID controller in an Xserve G5?  Well, I learned about this unexpected difficulty today.  I write about it here because I think the experience may be useful to others. </p>
 
 <p>The task for today was to upgrade from a single 80GB SATA drive to 3 80GB SATA drives in a hardware RAID-5 configuration.  (I chose the hardware RAID solution because I just don’t quite trust software RAID.)  I really didn’t this task would be as challenging as it turned out to be.  The first major roadblock came when I discovered that I needed a video card installed in order to perform the reinstallation of Mac OS X Server.  You see, Xserve G5s don’t come equipped with video cards.  These are entirely optional.  Now, that wouldn’t normally be a problem, as I would perform the installation on my powerbook, with the Xserve in Firewire Target Disk Mode.  However, because the new drives would be connected to the new PCI RAID controller, and not the main SATA controller, Firewire Target Disk Mode would not work.  The only way to do the install was to use a PCI video card.  So, I ran down to the local Mac store and picked up an ATI Radeon 9200 PCI ME w/ 128MB DDR.  (Yes, quite a bit of overkill for my purposes, but it was all that was available.  The Xserve booted up to the new video card just fine and I thought that was the last of my challenges.</p>
 
@@ -394,6 +433,7 @@
 <p>Sad ending, isn’t it?  I really got creative and thought I had it licked so many times.  I investigated a serial console installation, ssh-based remote install, ASR, netboot, etc., but I had to get that video card.  And I managed to keep overcoming the hurdles put in front of me, but then to be set back in the end was a real bummer.</p>
 
 <p>Well, on the way home, I realized I had one more option.  And I really wish I would’ve thought of this sooner, because I think it has a real chance of working.  I should be able to boot up to my 10.3.9 (non-Server) installation on my PowerBook again from the Xserve and format the array and perform the install from the CD by simply installing the .mpkg on the CD.  I had to do the same thing in order to get the Tiger WWDC build to install on my 17” PowerBook.  Anyway, I think it has a real chance, but we’ll see.  Anyway, I hope this story has helped someone else out there with this task.  Remember, you need a video card.  Also, make sure you have the Mac OS X Server 10.3.5 or higher installation CDs.</p>
+
 
 
         <a href="http://blog.jonsharp.net/xserve-g5-hardware-raid-pains/" title="Read Xserve G5 Hardware RAID pains"><strong>Read More&nbsp;›</strong></a>
@@ -417,6 +457,7 @@
 <p>It is a “Swedish FireSteel.”  That’s a cool toy.  I’m generally quite successful using matches, and I don’t often go camping during monsoon or blizzard seasons, so it may not be the most practical gadget, but if I ever were caught in a freezing monsoon, I know that I could have a roaring fire, or at least a spark.</p>
 
 
+
         <a href="http://blog.jonsharp.net/im-your-firestarter/" title="Read I'm your firestarter"><strong>Read More&nbsp;›</strong></a>
       </p>
     </div><!-- /.small-12.columns -->
@@ -434,6 +475,7 @@
 	<p>I recently upgraded to the latest CVS of <a href="http://www.openwrt.org">OpenWrt</a>, a custom Linux distribution designed for the Linksys Wrt54G wireless access point / router and similar devices.  I’ve got to say that the new build process is incredible!  Great job guys!  I, for one, am one very happy user.  Using a “make menuconfig” build process, I was able to select the specific packages and kernel options/modules I wanted on my custom firmware.  I wanted IPv6, Openswan IPsec, and wondershaper QOS.  So far, everything looks great and I was able to bring my iptables config over from the old OpenWrt installation.  I may add things like a simple SIP router or BGP routing.  After all, I still have 500kB left on the flash. ;)</p>
 
 <p>The only thing I’m really wondering about at this point is if there is any way to install shorewall on another Linux box simply for the setup of the rules for my router.  I don’t want shorewall actually running on the other Linux host.  I just want to be able to use the shorewall scripts to create my iptables rules for my router.  Anyway, if anyone knows how to do such a thing, let me know.  In the meantime, I’ll just try to figure it out as I have time.</p>
+
 
 
         <a href="http://blog.jonsharp.net/openwrt-upgrade/" title="Read OpenWrt upgrade"><strong>Read More&nbsp;›</strong></a>
@@ -457,6 +499,7 @@
 <p>In the meantime, someone may find a way to trick the installer into installing on the Lombard.  (Someone always does)  And when they do, I will be interested in reading about it.</p>
 
 <p>I do hope this helps the Lombard users out there who had been wondering about this.</p>
+
 
 
         <a href="http://blog.jonsharp.net/reporting-tiger-on-lombard/" title="Read Reporting: Tiger on Lombard"><strong>Read More&nbsp;›</strong></a>
@@ -503,7 +546,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              Personal Website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast.
+              Personal website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast.
               <a href="http://blog.jonsharp.net/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->

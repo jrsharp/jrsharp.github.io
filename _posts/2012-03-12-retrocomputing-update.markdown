@@ -15,7 +15,7 @@ wordpress_url: http://www.jonsharp.net/archives/2012/03/12/retrocomputing-update
 date: '2012-03-12 09:23:41 -0500'
 date_gmt: '2012-03-12 14:23:41 -0500'
 categories: []
-tags: []
+tags: [retrocomputing,apple ii]
 layout: page
 comments: []
 ---

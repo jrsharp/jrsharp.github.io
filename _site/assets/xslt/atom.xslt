@@ -27,7 +27,7 @@
   
   <meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ" />
 	
-	<meta name="description" content="Personal Website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast." />
+	<meta name="description" content="Personal website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast." />
 	
 	
 
@@ -110,7 +110,7 @@
 	<meta property="og:locale" content="en_EN" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Atom Feed (Styled)" />
-	<meta property="og:description" content="Personal Website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast." />
+	<meta property="og:description" content="Personal website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast." />
 	<meta property="og:url" content="http://blog.jonsharp.net//assets/xslt/atom.xslt" />
 	<meta property="og:site_name" content="Jon Sharp, logged on the web" />
 	
@@ -144,11 +144,7 @@
         
 
               
-
-          
-          
-        
-
+                
               
 
           
@@ -156,17 +152,31 @@
         
 
               
-
-          
-          
-        
-
+                
               
 
           
           
         
 
+              
+                
+              
+
+          
+          
+        
+
+              
+                
+              
+
+          
+          
+        
+
+              
+                
               
 
           
@@ -181,6 +191,8 @@
           
         
 
+              
+                
               
 
           
@@ -201,6 +213,8 @@
         
 
               
+                
+              
 
           
           
@@ -216,6 +230,8 @@
         
 
               
+                
+              
 
           
           
@@ -230,15 +246,21 @@
                     
 
                       
+                        
+                      
 
                       <li><a href="http://blog.jonsharp.net/projects/gameboy/">Gameboy</a></li>
                     
 
                       
+                        
+                      
 
                       <li><a href="http://blog.jonsharp.net/projects/laptops/">Laptop Art</a></li>
                     
 
+                      
+                        
                       
 
                       <li><a href="http://blog.jonsharp.net/projects/vgdev/">Video Game Development</a></li>
@@ -251,6 +273,8 @@
           
         
 
+              
+                
               
 
           
@@ -266,6 +290,8 @@
                     
 
                       
+                        
+                      
 
                       <li><a href="http://blog.jonsharp.net/blog/archive/">Blog Archive</a></li>
                     
@@ -277,6 +303,8 @@
           
         
 
+              
+                
               
 
           
@@ -292,15 +320,21 @@
                     
 
                       
+                        
+                      
 
                       <li><a href="http://blog.jonsharp.net/misc/pinhoti/">Pinhoti Trail</a></li>
                     
 
                       
+                        
+                      
 
                       <li><a href="http://blog.jonsharp.net/misc/sun/">Sun</a></li>
                     
 
+                      
+                        
                       
 
                       <li><a href="http://blog.jonsharp.net/misc/wishlist/">Wishlist</a></li>
@@ -314,11 +348,15 @@
         
 
               
+                
+              
 
           
           
         
 
+              
+                
               
 
           
@@ -413,7 +451,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              Personal Website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast.
+              Personal website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast.
               <a href="http://blog.jonsharp.net/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->

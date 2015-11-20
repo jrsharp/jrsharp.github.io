@@ -4,9 +4,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://blog.jonsharp.net/</id>
 	<title>Jon Sharp, logged on the web</title>
-	<updated>2015-11-19T05:37:56-06:00</updated>
+	<updated>2015-11-19T20:47:57-06:00</updated>
 
-	<subtitle>Personal Website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast.</subtitle>
+	<subtitle>Personal website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast.</subtitle>
 
 	
 		
@@ -24,7 +24,7 @@
 	<link href="http://blog.jonsharp.net/atom.xml" rel="self" type="application/rss+xml" />
 	<link href="http://blog.jonsharp.net/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="3.0.1">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="2.4.0">Jekyll</generator>
 
 	
 		<entry>
@@ -116,6 +116,10 @@
 </content>
 
 			
+			
+				<category term="retrocomputing" />
+			
+				<category term="apple ii" />
 			
 
 			<published>2012-03-12T09:23:41-05:00</published>
