@@ -3,7 +3,7 @@
 <head>
 		<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>Jon Sharp, logged on the web</title>
+	<title>Blog</title>
 	<link rel="stylesheet" type="text/css" href="http://172.21.21.105:4000/assets/css/styles_feeling_responsive.css" />
 	<script src="http://172.21.21.105:4000/assets/js/modernizr.min.js"></script>
 	
@@ -22,7 +22,7 @@
   
   <meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ" />
 	
-	<meta name="description" content="Personal website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast." />
+	<meta name="description" content="This is the Feeling Responsive Blog Template." />
 	
 	
 
@@ -104,23 +104,23 @@
 	<!-- Facebook Optimization -->
 	<meta property="og:locale" content="en_EN" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Jon Sharp, logged on the web" />
+	<meta property="og:title" content="Blog" />
 	<meta property="og:description" content="Personal website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast." />
-	<meta property="og:url" content="http://172.21.21.105:4000//index.html" />
+	<meta property="og:url" content="http://172.21.21.105:4000//blog/page23/" />
 	<meta property="og:site_name" content="Jon Sharp, logged on the web" />
-	
+	<meta property="og:image" content="/images/unsplash_6_thumb.jpg" />
 
 	
 
 	<!-- Search Engine Optimization -->
-	
+	<meta name="robots" content="noindex" />
 
 	<link type="text/plain" rel="author" href="http://172.21.21.105:4000/humans.txt" />
 
 	
 </head>
 </head>
-<body id="top-of-page" class="post">
+<body id="top-of-page" class="blog-index">
 	
 	
 <div id="navigation" class="sticky">
@@ -346,68 +346,121 @@
 
 
 
-	<div class="row t30">
-	<div class="medium-8 columns medium-offset-2 end">
-		<article itemscope itemtype="http://schema.org/Article">
-			<header>
-				
-
-				<span itemprop="name">
-					
-					<h1></h1>
-				</span>
-			</header>
+	<div class="row">
+	<div class="medium-8 columns t30">
+		
 
 
-			
+  <div class="row">
+    <div class="small-12 columns b60">
+      <p class="subheadline"><span class="subheader"></span> – </p>
+      <h2><a href="http://172.21.21.105:4000/divx-movies-on-a-sparcstation-2/">Divx movies on a SparcStation 2</a></h2>
+      <p>
+        
 
-			<span itemprop="articleSection">
-			<p>Welcome to my home online, in which I share a little of my interests, experience, 
-faith and philosophy.  Much of the content centers on technology, and my life-long 
-pursuit of mastery in all manner of software and hardware engineering, design, 
-architecture, etc.  As an outdoors enthusiast, I also try to share some of my 
-family’s hiking, backpacking, camping and canoeing exploits, as well.</p>
+        
 
-<p>This current iteration of jonsharp.net brings with it a host of legacy content.<br />
-The older blog entries and project pages sometimes reflect interests and projects long 
-since abandoned, but some of this content was once very popular and useful to a 
-number of people, and I hope that it may be still.  I intend to provide frequent 
-updates to the blog and project content moving forward, as well as filling in the 
-large gap left by my entrepreneurial ventures of the past nine years or so.</p>
-
-<p>The technology content itself will feature topics such as digital design, embedded 
-systems development, microcontrollers, wearable computing, robotics, programmable 
-logic (FPGAs), Java, Linux, open source, technology leadership, enterprise architecture 
-and retrocomputing, to name a few.</p>
-
-<p>Outside of technology, I may occasionally share a bit about some of the communities of
-which I am a member, including Nashville’s Down syndrome community, represented by the
-<a href="http://somethingextra.org">Down Syndrome Association of Middle Tennessee</a> and that of
-my local church, <a href="http://madisoncampus.org">Madison Campus Seventh-day Adventist Church</a>.</p>
-
-<p>If I’ve handed you one of my cards and you’ve come here to learn more of what I’m
-about, thank you.  Drop me a line using the contact info here and keep in touch.</p>
-
-<p>Enjoy!</p>
-
-<blockquote>
-  <p>Then Jesus spoke to them again: “I am the light of the world. Anyone who follows Me
-will never walk in the darkness but will have the light of life.” - John 8:12, HCSB</p>
-</blockquote>
-
-			</span>
-
-			
-
-			
-		</article>
-	</div><!-- /.medium-8.columns -->
+	<p>I just tested out watching a divx movie on my SparcStation 2.  It has a 40Mhz SPARC CPU and 28MB of RAM.  I ssh’d into another, faster machine and invoked mplayer with the “-vo aa” option to get ASCII art output over the console.  The refresh was a little slow (partly the framebuffer of the sparc, partly the slow connection to the other computer), but the images were very recognizable.  Anyway, it was a fun little exercise.</p>
 
 
-	
+        <a href="http://172.21.21.105:4000/divx-movies-on-a-sparcstation-2/" title="Read Divx movies on a SparcStation 2"><strong>Read More&nbsp;›</strong></a>
+      </p>
+    </div><!-- /.small-12.columns -->
+  </div><!-- /.row -->
+
+  <div class="row">
+    <div class="small-12 columns b60">
+      <p class="subheadline"><span class="subheader"></span> – </p>
+      <h2><a href="http://172.21.21.105:4000/mod_gzip-added-to-jonsharpnet/">mod_gzip added to jonSharp.net</a></h2>
+      <p>
+        
+
+        
+
+	<p>I just installed mod_gzip for Apache on jonSharp.net.  It should speed things up slightly.  Thought it would help save some precious bandwidth at home.  After testing it out on jonSharp.net, I plan to set it up for JonandJolene.com.  We get much more traffic to that site, but mod_gzip may not help a whole lot because the site is mostly images and mod_gzip doesn’t help very much for compressed graphics.</p>
 
 
-	
+        <a href="http://172.21.21.105:4000/mod_gzip-added-to-jonsharpnet/" title="Read mod_gzip added to jonSharp.net"><strong>Read More&nbsp;›</strong></a>
+      </p>
+    </div><!-- /.small-12.columns -->
+  </div><!-- /.row -->
+
+  <div class="row">
+    <div class="small-12 columns b60">
+      <p class="subheadline"><span class="subheader"></span> – </p>
+      <h2><a href="http://172.21.21.105:4000/repaired-powerbook-g3/">Repaired PowerBook G3</a></h2>
+      <p>
+        
+
+        
+
+	<p>The PowerBook G3 Lombard that I picked up almost two years ago died on us several months ago.  My wife had been using it for all her computing needs and it was working great until she unplugged it one day from the wall and it never would power up again.  I carefully dismantled it to try to determine the problem, and surmised that it must be the small board connecting the power adapter to the logic board.  I really didn’t have the time to try to get a part and attempt to fix it, so I decided to sell it off for parts on eBay.  But I apparently didn’t have the time for that, either, because it sat around until I decided to buy a spare power board from eBay for $20.  Well, the part sat around for about a month before I could get time to install it, but I finally got around to it last night.  Repairing any laptop is a challenge, and the PowerBook is no exception.  In order to get to the power board, you have to remove virtually every other part of the machine.  After replacing the part and reassembling the computer, I was delighted to hear the signature Apple chime when I powered it up.  I started reinstalling Mac OS X Panther immediately and it booted right up.  But then I noticed a bad thing.  The ethernet doesn’t appear to be working now.  I don’t know if it was damaged by ESD or what could’ve caused it.  Before the machine went bad, we almost exclusively used a Cisco wireless card in it, so perhaps it hasn’t been operable for some time.  At any rate, I’ll try to see if it is repairable and if not, I’ll just continue to use the Cisco card and/or another PCMCIA ethernet card.  Anyway, I’m just thrilled that I was able to repair it for as little as $20!  It’s still a great machine with great value.</p>
+
+<p>Edit:  The ethernet works just fine.  It was a problem with my switch at work.</p>
+
+
+        <a href="http://172.21.21.105:4000/repaired-powerbook-g3/" title="Read Repaired PowerBook G3"><strong>Read More&nbsp;›</strong></a>
+      </p>
+    </div><!-- /.small-12.columns -->
+  </div><!-- /.row -->
+
+  <div class="row">
+    <div class="small-12 columns b60">
+      <p class="subheadline"><span class="subheader"></span> – </p>
+      <h2><a href="http://172.21.21.105:4000/ipv6-devices-multiplying-at-home/">IPv6 Devices Multiplying at Home!</a></h2>
+      <p>
+        
+
+        
+
+	<p>Every computer / device on my home network is now running IPv6 and is routable via the 6bone.  I have added my dual-celeron machine running apache2, (none of the following links will work for you unless you are on the 6bone)  [<a href="http://monstersix.jonsharp.net">monstersix.jonsharp.net</a>] my 68-pin TINI [<a href="http://tini68.jonsharp.net">tini68.jonsharp.net</a>], and my 72-pin TINI-based device [<a href="http://tad.jonsharp.net">tad.jonsharp.net</a>].</p>
+
+<p>The really cool part of this post is that I now have a servlet running on my TAD device which allows users to put a message up on the LCD display of the device.  I wrote this simple servlet over the past few days and plan to add more features to it as time allows.  I am not aware of any other TINIs out there on the 6bone, so I am going to boldly declare that mine is the first! ;)  Certainly it is the only one with a servlet that interfaces with an LCD display.  Browsing the 6bone can be boring sometimes because there are relatively few sites out there right now, so I hope this provides yet another novel experience for other 6boners out there.  If you’re not on the 6bone, check it out!</p>
+
+
+        <a href="http://172.21.21.105:4000/ipv6-devices-multiplying-at-home/" title="Read IPv6 Devices Multiplying at Home!"><strong>Read More&nbsp;›</strong></a>
+      </p>
+    </div><!-- /.small-12.columns -->
+  </div><!-- /.row -->
+
+  <div class="row">
+    <div class="small-12 columns b60">
+      <p class="subheadline"><span class="subheader"></span> – </p>
+      <h2><a href="http://172.21.21.105:4000/no-tie-fighter/">No Tie Fighter</a></h2>
+      <p>
+        
+
+        
+
+	<p>Tie Fighter, one of the only older DOS games I own, apparently doesn’t work using dosemu or dosbox.  I was able to get the installer to run and install the game onto the dosemu hard drive image, but I had no luck getting it to run properly.  Oh well, there are plenty of other games to play. :)</p>
+
+
+        <a href="http://172.21.21.105:4000/no-tie-fighter/" title="Read No Tie Fighter"><strong>Read More&nbsp;›</strong></a>
+      </p>
+    </div><!-- /.small-12.columns -->
+  </div><!-- /.row -->
+
+
+
+<nav id="pagination">
+    
+      
+      <a class="radius button small" href="http://172.21.21.105:4000/blog/page22/" title="Previous Posts">&laquo; Previous</a>
+      
+    
+
+    <a class="radius button small" href="http://172.21.21.105:4000/blog/archive/" title="Blog Archive">Blog Archive</a>
+
+    
+    <a class="radius button small" href="http://172.21.21.105:4000/blog/page24/" title="Next Posts">Next &raquo;</a>
+    
+  </nav>
+
+
+	</div><!-- /.medium-7.columns -->
+
+	<div class="medium-4 columns t30">
+	</div><!-- /.medium-5.columns -->
 </div><!-- /.row -->
 
 

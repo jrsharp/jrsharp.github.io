@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://172.21.21.105:4000/</id>
 	<title>Jon Sharp, logged on the web</title>
-	<updated>2015-11-19T16:07:56-06:00</updated>
+	<updated>2015-11-24T15:08:28-06:00</updated>
 
 	<subtitle>Personal website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast.</subtitle>
 
@@ -31,7 +31,7 @@
 			<id>http://172.21.21.105:4000/video/</id>
 			<title></title>
 			<link href="http://172.21.21.105:4000/video/" rel="alternate" type="text/html" title="" />
-			<updated>2015-11-19T16:07:56-06:00</updated>
+			<updated>2015-11-24T15:08:28-06:00</updated>
 
 			
 				
@@ -58,14 +58,14 @@
 				<category term="video" />
 			
 
-			<published>2015-11-19T16:07:56-06:00</published>
+			<published>2015-11-24T15:08:28-06:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://172.21.21.105:4000/tech/thoughts-on-technology-leadership/</id>
 			<title>Thoughts on technology leadership</title>
 			<link href="http://172.21.21.105:4000/tech/thoughts-on-technology-leadership/" rel="alternate" type="text/html" title="Thoughts on technology leadership" />
-			<updated>2015-11-19T16:07:56-06:00</updated>
+			<updated>2015-11-24T15:08:28-06:00</updated>
 
 			
 				
@@ -96,14 +96,14 @@
 				<category term="talent" />
 			
 
-			<published>2015-11-19T16:07:56-06:00</published>
+			<published>2015-11-24T15:08:28-06:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://172.21.21.105:4000/post_without_image/</id>
 			<title></title>
 			<link href="http://172.21.21.105:4000/post_without_image/" rel="alternate" type="text/html" title="" />
-			<updated>2015-11-19T16:07:56-06:00</updated>
+			<updated>2015-11-24T15:08:28-06:00</updated>
 
 			
 				
@@ -127,14 +127,14 @@
 			
 			
 
-			<published>2015-11-19T16:07:56-06:00</published>
+			<published>2015-11-24T15:08:28-06:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://172.21.21.105:4000/post_with_image/</id>
 			<title></title>
 			<link href="http://172.21.21.105:4000/post_with_image/" rel="alternate" type="text/html" title="" />
-			<updated>2015-11-19T16:07:56-06:00</updated>
+			<updated>2015-11-24T15:08:28-06:00</updated>
 
 			
 				
@@ -158,14 +158,14 @@
 			
 			
 
-			<published>2015-11-19T16:07:56-06:00</published>
+			<published>2015-11-24T15:08:28-06:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://172.21.21.105:4000/page_without_image/</id>
 			<title></title>
 			<link href="http://172.21.21.105:4000/page_without_image/" rel="alternate" type="text/html" title="" />
-			<updated>2015-11-19T16:07:56-06:00</updated>
+			<updated>2015-11-24T15:08:28-06:00</updated>
 
 			
 				
@@ -190,14 +190,14 @@
 			
 			
 
-			<published>2015-11-19T16:07:56-06:00</published>
+			<published>2015-11-24T15:08:28-06:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://172.21.21.105:4000/page_with_table_of_contents/</id>
 			<title></title>
 			<link href="http://172.21.21.105:4000/page_with_table_of_contents/" rel="alternate" type="text/html" title="" />
-			<updated>2015-11-19T16:07:56-06:00</updated>
+			<updated>2015-11-24T15:08:28-06:00</updated>
 
 			
 				
@@ -237,14 +237,14 @@
 			
 			
 
-			<published>2015-11-19T16:07:56-06:00</published>
+			<published>2015-11-24T15:08:28-06:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://172.21.21.105:4000/page_with_image/</id>
 			<title></title>
 			<link href="http://172.21.21.105:4000/page_with_image/" rel="alternate" type="text/html" title="" />
-			<updated>2015-11-19T16:07:56-06:00</updated>
+			<updated>2015-11-24T15:08:28-06:00</updated>
 
 			
 				
@@ -268,14 +268,14 @@
 			
 			
 
-			<published>2015-11-19T16:07:56-06:00</published>
+			<published>2015-11-24T15:08:28-06:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://172.21.21.105:4000/page_simple/</id>
 			<title></title>
 			<link href="http://172.21.21.105:4000/page_simple/" rel="alternate" type="text/html" title="" />
-			<updated>2015-11-19T16:07:56-06:00</updated>
+			<updated>2015-11-24T15:08:28-06:00</updated>
 
 			
 				
@@ -296,14 +296,14 @@
 			
 			
 
-			<published>2015-11-19T16:07:56-06:00</published>
+			<published>2015-11-24T15:08:28-06:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://172.21.21.105:4000/page_all_frontmatter/</id>
 			<title></title>
 			<link href="http://172.21.21.105:4000/page_all_frontmatter/" rel="alternate" type="text/html" title="" />
-			<updated>2015-11-19T16:07:56-06:00</updated>
+			<updated>2015-11-24T15:08:28-06:00</updated>
 
 			
 				
@@ -328,14 +328,14 @@
 			
 			
 
-			<published>2015-11-19T16:07:56-06:00</published>
+			<published>2015-11-24T15:08:28-06:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://172.21.21.105:4000/gallery/</id>
 			<title></title>
 			<link href="http://172.21.21.105:4000/gallery/" rel="alternate" type="text/html" title="" />
-			<updated>2015-11-19T16:07:56-06:00</updated>
+			<updated>2015-11-24T15:08:28-06:00</updated>
 
 			
 				
@@ -367,7 +367,7 @@
 			
 			
 
-			<published>2015-11-19T16:07:56-06:00</published>
+			<published>2015-11-24T15:08:28-06:00</published>
 		</entry>
 	
 </feed>
