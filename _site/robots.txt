@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://172.21.21.105:4000/sitemap.xml
+Sitemap: http://blog.jonsharp.net/sitemap.xml
