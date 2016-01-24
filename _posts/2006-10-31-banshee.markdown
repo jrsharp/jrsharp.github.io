@@ -1,0 +1,26 @@
+---
+status: publish
+published: true
+title: Banshee
+author:
+  display_name: admin
+  login: admin
+  email: jon@jonsharp.net
+  url: http://jonsharp.net
+author_login: admin
+author_email: jon@jonsharp.net
+author_url: http://jonsharp.net
+wordpress_id: 165
+wordpress_url: http://jonsharp.net/archives/2006/10/31/banshee/
+date: '2006-10-31 23:26:52 -0600'
+date_gmt: '2006-11-01 04:26:52 -0600'
+categories: []
+tags: []
+layout: page
+comments: []
+---
+http://banshee-project.org/Main_Page
+
+I recently tried out this open source music management application as an alternative to iTunes on my Gentoo PPC box.  My initial impression is quite favorable.  One of the features I found most compelling was its ability to connect to iTunes shares via DAAP and Bonjour.  The only problem I experienced with this feature at present is the lack of support for iTunes 7 shares, as Apple has altered the DAAP protocol in 7.  This is currently being worked on and an update is expected soon.
+
+Anyway, as I said, I'm very impressed with this app.  Not only does it have some great features, it's written in C# for Mono!  How cool is that?  Another real app written for Mono!

@@ -1,0 +1,14 @@
+- name: Twitter
+  url: http://twitter.com/jrsharp
+  class: icon-twitter
+  title: "Jon Sharp's Twitter Feed"
+
+- name: LinkedIn
+  url: https://www.linkedin.com/in/jonsharp1
+  class: icon-linkedin
+  title: "Jon Sharp's LinkedIn Profile"
+
+- name: GitHub
+  url: http://github.com/jrsharp
+  class: icon-github
+  title: "Jon Sharp's GitHub"

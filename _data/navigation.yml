@@ -1,0 +1,40 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Projects"
+  url: "/projects/"
+  side: left
+  dropdown:
+  - title: "Gameboy"
+    url: "/projects/gameboy/"
+  - title: "Laptop Art"
+    url: "/projects/laptops/"
+  - title: "Video Game Development"
+    url: "/projects/vgdev/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: Misc
+  url: "/misc/"
+  side: left
+  dropdown:
+  - title: "Pinhoti Trail"
+    url: "/misc/pinhoti/"
+  - title: "Sun"
+    url: "/misc/sun/"
+  - title: "Wishlist"
+    url: "/misc/wishlist/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

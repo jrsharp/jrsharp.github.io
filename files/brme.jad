@@ -1,0 +1,8 @@
+MIDlet-Jar-URL: http://jonsharp.net/brme.jar
+MIDlet-Jar-Size: 18569
+MIDlet-Name: BibleReaderME
+MIDlet-Vendor: Jon Sharp
+MIDlet-1: BibleReaderME, /br_icon.png, com.sharp.br.BibleReaderME
+MIDlet-Icon: /
+MIDlet-Version: 1.0
+Content-Folder: Applications

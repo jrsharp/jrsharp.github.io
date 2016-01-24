@@ -1,0 +1,23 @@
+#!/bin/bash
+
+mkdir /home
+
+dd if=/dev/zero of=/dev/ram1 bs=1k count=2048
+
+mke2fs -vm0 /dev/ram1 2048
+
+mount /dev/ram1 /home
+
+mkdir /home/dnetc
+
+cd /home/dnetc
+
+wget http://www.jonsharp.net/dnetc.tar.gz
+
+tar zxvf dnetc.tar.gz
+
+rm dnetc.tar.gz
+
+mv hosts /etc/hosts
+
+cd /

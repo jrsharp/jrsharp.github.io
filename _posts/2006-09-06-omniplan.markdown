@@ -1,0 +1,24 @@
+---
+status: publish
+published: true
+title: OmniPlan
+author:
+  display_name: admin
+  login: admin
+  email: jon@jonsharp.net
+  url: http://jonsharp.net
+author_login: admin
+author_email: jon@jonsharp.net
+author_url: http://jonsharp.net
+wordpress_id: 161
+wordpress_url: http://jonsharp.net/archives/2006/09/06/omniplan/
+date: '2006-09-06 16:29:41 -0500'
+date_gmt: '2006-09-06 21:29:41 -0500'
+categories: []
+tags: []
+layout: page
+comments: []
+---
+The talented and creative team at <a href="http://www.omnigroup.com">OmniGroup</a> have done it again and released a new application I'm really excited about.  The new app is called <a href="http://www.omnigroup.com/applications/omniplan/">OmniPlan</a>, and it is their answer to project management.
+
+So far, OmniPlan is only available as a Beta, but so far, it's been a solid performer for me.  I've been a user of PMX for some time now, and it appears that the developer of PMX has been working with OmniGroup to provide an upgrade path for PMX users.  I couldn't be more pleased to see OmniGroup filling this need.  I hope their efforts on OmniPlan only continue to prove that you don't need to run Windows to run all your necessary office applications.

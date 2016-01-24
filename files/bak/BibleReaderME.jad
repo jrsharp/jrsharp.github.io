@@ -1,0 +1,9 @@
+MIDlet-1: BibleReaderME, /br_icon.png, BibleReaderME
+MIDlet-Name: BibleReaderME
+MIDlet-Version: 1.00.00
+MIDlet-Vendor: Jon Sharp
+MIDlet-Jar-URL: BibleReaderME.jar
+MIDlet-Jar-Size: 41967
+MIDlet-Description: BibleReaderME
+MIDlet-Icon: /br_icon.png
+MIDlet-Info-URL: http://www.jonsharp.net/
