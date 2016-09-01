@@ -3,17 +3,17 @@ layout: page
 permalink: /index.html
 ---
 Welcome to my home online, in which I share a little of my interests, experience, 
-faith and philosophy.  Much of the content centers on technology, and my life-long 
-pursuit of mastery in all manner of software and hardware engineering, design, 
+faith and philosophy.  Much of the content centers on technology, and my  
+efforts in software and hardware engineering, design, 
 architecture, etc.  As an outdoors enthusiast, I also try to share some of my 
 family's hiking, backpacking, camping and canoeing exploits, as well.
 
 This current iteration of jonsharp.net brings with it a host of legacy content.  
 The older blog entries and project pages sometimes reflect interests and projects long 
-since abandoned, but some of this content was once very popular and useful to a 
-number of people, and I hope that it may be still.  I intend to provide frequent 
+since abandoned, but some of this content was once popular and useful, and I hope
+that it may be still.  I intend to provide more-frequent 
 updates to the blog and project content moving forward, as well as filling in the 
-large gap left by my entrepreneurial ventures of the past nine years or so. 
+large gap left by my entrepreneurial ventures of the past several years.
 
 The technology content itself will feature topics such as digital design, embedded 
 systems development, microcontrollers, wearable computing, robotics, programmable 
