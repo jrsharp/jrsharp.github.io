@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://172.21.21.114:4000/</id>
+	<id>http://jonsharp.net/</id>
 	<title>Jon Sharp, logged on the web</title>
-	<updated>2016-09-03T21:40:44+00:00</updated>
+	<updated>2016-09-03T21:47:12+00:00</updated>
 
 	<subtitle>Personal website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast.</subtitle>
 
@@ -21,100 +21,16 @@
 		</author>
 	
 
-	<link href="http://172.21.21.114:4000/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://172.21.21.114:4000/" rel="alternate" type="text/html" />
+	<link href="http://jonsharp.net/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://jonsharp.net/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://172.21.21.114:4000/embedded/end-of-the-analog-trail/</id>
-			<title>The End of the Analog Trail</title>
-			<link href="http://172.21.21.114:4000/embedded/end-of-the-analog-trail/" rel="alternate" type="text/html" title="The End of the Analog Trail" />
-			<updated>2016-09-02T00:00:00+00:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jon Sharp</name>
-					
-					
-					
-						<uri>http://jonsharp.net/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://172.21.21.114:4000/embedded/end-of-the-analog-trail/">&lt;p&gt;I recently had the privilege to work with a local artist on what turned out to
-be a very fun project.  Having been introduced through our local maker group,
-&lt;a href=&quot;https://plus.google.com/u/0/communities/113168301409955370802&quot;&gt;NashMicro&lt;/a&gt;,
-Phil and I sat down for a coffee and he laid out his vision for a new piece he
-was sketching out.  Phil is a woodcarver, and a fine one, at that.  His work is
-at times whimsical and at others, thought-provoking. (And sometimes both at once)
-He was looking to incorporate points of light into his new piece that would
-primarily serve as a starry (and stormy) night sky above a carving of a cowboy, 
-riding his horse, face lit by the unnatural blue glow of a smartphone.  &lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;I immediately began thinking of LED cubes and other means to address many
-individual LEDs, but landed in the end on NeoPixels (ws2812’s) for my solution.
-Many of you are no doubt familiar with these great little 
-individually-addressable, chainable RGB LEDs.  I had myself seen projects using 
-NeoPixels, but was previously unfamiliar with what made them so special.&lt;/p&gt;
-
-&lt;p&gt;In the end, we used a combination of nearly 250 flat, SMD and 5mm round ws2812 
-RGB LEDs.  I considered a number of microcontrollers, but settled on the PSoC4
-from Cypress Semiconductor.  The PSoC4 4200 is a unique part, with a Cortex-M0
-core married with a modest amount of programmable logic.  &lt;/p&gt;
-
-&lt;p&gt;The code is written in C, and is responsible for a variety of visual elements,
-driving the behavior of four discrete groups of LEDs – a large number of 
-“stars”, another large group of “lightning” LEDs, a few “campfire” lights and a
-single LED for the lit smartphone.  The stars twinkle and fade, through a 
-(pseudo-)random pattern of hues, durations and frequencies.  The lightning
-fires through another set of randomizations, giving an effect of distant,
-cloud-to-cloud lightning. (suggestive of storms on the horizon?)  The campfire
-LEDs cycle through random reds, oranges and yellows, suggesting a slowly fading
-fire, while the smartphone LED burns a mostly steady blue glow against the face
-of the piece’s central figure.&lt;/p&gt;
-
-&lt;p&gt;In the end, I was proud of how the lighting elements came together, and feel
-privileged to have gotten to work together with Phil on this project.  He was
-even gracious enough to give me credit on the piece and invite me to the
-gallery show where it debuted.  I have to say that it looked great on the
-gallery wall and I imagine it will soon add something truly unique to someone’s 
-home or office.&lt;/p&gt;
-
-&lt;p&gt;But without further ado, here are some photographs and video:&lt;/p&gt;
-
-</content>
-
-			
-				<category term="embedded" />
-			
-			
-				<category term="tech" />
-			
-				<category term="embedded" />
-			
-				<category term="art" />
-			
-				<category term="ws2812" />
-			
-				<category term="neopixel" />
-			
-				<category term="psoc4" />
-			
-
-			<published>2016-09-02T00:00:00+00:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://172.21.21.114:4000/retrocomputing/bare-metal-macintosh-programming-part-1/</id>
+			<id>http://jonsharp.net/retrocomputing/bare-metal-macintosh-programming-part-1/</id>
 			<title>Bare-metal Macintosh Programming - Part 1</title>
-			<link href="http://172.21.21.114:4000/retrocomputing/bare-metal-macintosh-programming-part-1/" rel="alternate" type="text/html" title="Bare-metal Macintosh Programming - Part 1" />
+			<link href="http://jonsharp.net/retrocomputing/bare-metal-macintosh-programming-part-1/" rel="alternate" type="text/html" title="Bare-metal Macintosh Programming - Part 1" />
 			<updated>2016-08-31T00:00:00+00:00</updated>
 
 			
@@ -130,7 +46,7 @@ home or office.&lt;/p&gt;
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://172.21.21.114:4000/retrocomputing/bare-metal-macintosh-programming-part-1/">&lt;p&gt;The original compact Macintoshes (128k, 512k, and Plus) have long been a 
+			<content type="html" xml:base="http://jonsharp.net/retrocomputing/bare-metal-macintosh-programming-part-1/">&lt;p&gt;The original compact Macintoshes (128k, 512k, and Plus) have long been a 
 subject of my collection and study, but after acquiring a Canon Cat, I began
 to see the Mac in a slightly new light.  The original Macintosh may be a truly
 unique blend of hardware and software engineering, but what if you looked at 
@@ -186,7 +102,7 @@ systems.  And that’s roughly the approach I’ve taken in thinking of the hard
 
 &lt;p&gt;Here’s the result:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://172.21.21.114:4000/images/HappyJon1.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jonsharp.net/images/HappyJon1.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;I’m smiling becuase it works ;)&lt;/em&gt;&lt;/p&gt;
 
@@ -381,9 +297,9 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 		</entry>
 	
 		<entry>
-			<id>http://172.21.21.114:4000/impressjs-im-impressed/</id>
+			<id>http://jonsharp.net/impressjs-im-impressed/</id>
 			<title>impress.js - I'm impressed.</title>
-			<link href="http://172.21.21.114:4000/impressjs-im-impressed/" rel="alternate" type="text/html" title="impress.js - I'm impressed." />
+			<link href="http://jonsharp.net/impressjs-im-impressed/" rel="alternate" type="text/html" title="impress.js - I'm impressed." />
 			<updated>2012-03-22T05:07:27+00:00</updated>
 
 			
@@ -397,7 +313,7 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://172.21.21.114:4000/impressjs-im-impressed/">&lt;p&gt;I thought I’d mention a new tool that my brother, Justin, recommended we use at http://www.campgroundautomation.com for a recent presentation we were putting together.  We had been using Apple’s Keynote, which is certainly a slick piece of software, and miles ahead of PowerPoint, but I recently found it wanting.  In attempting to update our previous corporate Keynote template, I became frustrated with the cumbersome tools and process required.  I wanted to more easily adapt some of the web styles of corporate site into our presentation.&lt;/p&gt;
+			<content type="html" xml:base="http://jonsharp.net/impressjs-im-impressed/">&lt;p&gt;I thought I’d mention a new tool that my brother, Justin, recommended we use at http://www.campgroundautomation.com for a recent presentation we were putting together.  We had been using Apple’s Keynote, which is certainly a slick piece of software, and miles ahead of PowerPoint, but I recently found it wanting.  In attempting to update our previous corporate Keynote template, I became frustrated with the cumbersome tools and process required.  I wanted to more easily adapt some of the web styles of corporate site into our presentation.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -413,9 +329,9 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 		</entry>
 	
 		<entry>
-			<id>http://172.21.21.114:4000/my-friends-at-weatherate/</id>
+			<id>http://jonsharp.net/my-friends-at-weatherate/</id>
 			<title>Another great startup: WeatheRate</title>
-			<link href="http://172.21.21.114:4000/my-friends-at-weatherate/" rel="alternate" type="text/html" title="Another great startup: WeatheRate" />
+			<link href="http://jonsharp.net/my-friends-at-weatherate/" rel="alternate" type="text/html" title="Another great startup: WeatheRate" />
 			<updated>2012-03-13T19:00:13+00:00</updated>
 
 			
@@ -429,7 +345,7 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://172.21.21.114:4000/my-friends-at-weatherate/">&lt;p&gt;Hi everyone,&lt;/p&gt;
+			<content type="html" xml:base="http://jonsharp.net/my-friends-at-weatherate/">&lt;p&gt;Hi everyone,&lt;/p&gt;
 
 &lt;p&gt;I just wanted to take the opportunity to highlight the startup effort of several friends of mine.  Their company / service is called WeatheRate, and in their words:&lt;/p&gt;
 
@@ -447,9 +363,9 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 		</entry>
 	
 		<entry>
-			<id>http://172.21.21.114:4000/retrocomputing-update/</id>
+			<id>http://jonsharp.net/retrocomputing-update/</id>
 			<title>Retrocomputing Update</title>
-			<link href="http://172.21.21.114:4000/retrocomputing-update/" rel="alternate" type="text/html" title="Retrocomputing Update" />
+			<link href="http://jonsharp.net/retrocomputing-update/" rel="alternate" type="text/html" title="Retrocomputing Update" />
 			<updated>2012-03-12T14:23:41+00:00</updated>
 
 			
@@ -463,7 +379,7 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://172.21.21.114:4000/retrocomputing-update/">&lt;p&gt;Since &lt;a href=&quot;http://www.linkedin.com/in/campgroundautomation&quot;&gt;Tyler&lt;/a&gt; and &lt;a href=&quot;http://www.linkedin.com/pub/jon-sharp/0/2a1/a4b&quot;&gt;I&lt;/a&gt; began our startup venture, &lt;a href=&quot;http://www.campgroundautomation.com&quot;&gt;Campground Automation Systems&lt;/a&gt;, 5 years ago, I may have neglected this blog, but I’ve managed to stay active in my retrocomputing/collecting efforts.  I’m always on the lookout for unique, rare or otherwise interesting vintage computer items on Craigslist and eBay and I’ve managed to find some real gems over the past several years.  As I strive to keep this site more current, I plan to feature some of these items in greater depth over the next several months.&lt;/p&gt;
+			<content type="html" xml:base="http://jonsharp.net/retrocomputing-update/">&lt;p&gt;Since &lt;a href=&quot;http://www.linkedin.com/in/campgroundautomation&quot;&gt;Tyler&lt;/a&gt; and &lt;a href=&quot;http://www.linkedin.com/pub/jon-sharp/0/2a1/a4b&quot;&gt;I&lt;/a&gt; began our startup venture, &lt;a href=&quot;http://www.campgroundautomation.com&quot;&gt;Campground Automation Systems&lt;/a&gt;, 5 years ago, I may have neglected this blog, but I’ve managed to stay active in my retrocomputing/collecting efforts.  I’m always on the lookout for unique, rare or otherwise interesting vintage computer items on Craigslist and eBay and I’ve managed to find some real gems over the past several years.  As I strive to keep this site more current, I plan to feature some of these items in greater depth over the next several months.&lt;/p&gt;
 
 &lt;p&gt;Recent acquisitions to my collection include: a Commodore 8032-SK, Apple IIc, IIe, Macintosh Portable, Mac 128K, Apple 1 Replica (Replica 1), TRS-80 Model 100, and a Canon Cat.  The Macintosh Portable required some restoration, and I’ve performed various upgrades on each of these.  I attempt to use them all, if only for a few minutes at a time.  I don’t want to see them all simply collecting dust.  I’m proud of each of them, though if I were honest, I’d have to say I’m most proud of the Cat.  It’s such a unique computer, quite unlike anything I’d used previously.  In my next Retrocomputing post, I plan to showcase the Cat and the modifications I’ve made with the help of some of the members of the Canon Cat group. (Thanks Dwight!)&lt;/p&gt;
 </content>
@@ -479,9 +395,9 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 		</entry>
 	
 		<entry>
-			<id>http://172.21.21.114:4000/raspberry-pi-ordered/</id>
+			<id>http://jonsharp.net/raspberry-pi-ordered/</id>
 			<title>Raspberry Pi Ordered</title>
-			<link href="http://172.21.21.114:4000/raspberry-pi-ordered/" rel="alternate" type="text/html" title="Raspberry Pi Ordered" />
+			<link href="http://jonsharp.net/raspberry-pi-ordered/" rel="alternate" type="text/html" title="Raspberry Pi Ordered" />
 			<updated>2012-03-07T15:14:37+00:00</updated>
 
 			
@@ -495,7 +411,7 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://172.21.21.114:4000/raspberry-pi-ordered/">&lt;p&gt;Like many, I have been following the developments of the &lt;a href=&quot;http://raspberrypi.org&quot;&gt;Raspberry Pi project&lt;/a&gt; with anticipation.  When the RPi was released recently, I was ready to try to get my order in at the earliest possible moment.  Unfortunately, it seems that the chosen distributors underestimated the demand and I ended up participating in the “DDOS” that crippled these sites.  In the end, I was able to “register my interest” and that allowed me several days later to place a pre-order myself.&lt;/p&gt;
+			<content type="html" xml:base="http://jonsharp.net/raspberry-pi-ordered/">&lt;p&gt;Like many, I have been following the developments of the &lt;a href=&quot;http://raspberrypi.org&quot;&gt;Raspberry Pi project&lt;/a&gt; with anticipation.  When the RPi was released recently, I was ready to try to get my order in at the earliest possible moment.  Unfortunately, it seems that the chosen distributors underestimated the demand and I ended up participating in the “DDOS” that crippled these sites.  In the end, I was able to “register my interest” and that allowed me several days later to place a pre-order myself.&lt;/p&gt;
 
 &lt;p&gt;My Raspberry Pi is expected to ship in May, so I’ll have a bit of a wait, yet, but after waiting this long, what’s a few more weeks?  I have a number of ideas in mind for mine, and I’m sure like-minded geeks are going to find endless uses for the innovative device, but I’m most excited about the foundation’s vision for using the Pi as a tool for getting kids interested in programming.  I applaud their efforts and look forward to seeing the fruits of their labor in the months ahead.&lt;/p&gt;
 </content>
@@ -507,9 +423,9 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 		</entry>
 	
 		<entry>
-			<id>http://172.21.21.114:4000/back-on-ipv6-and-it-feels-so-good/</id>
+			<id>http://jonsharp.net/back-on-ipv6-and-it-feels-so-good/</id>
 			<title>Back on IPv6, and it feels so good</title>
-			<link href="http://172.21.21.114:4000/back-on-ipv6-and-it-feels-so-good/" rel="alternate" type="text/html" title="Back on IPv6, and it feels so good" />
+			<link href="http://jonsharp.net/back-on-ipv6-and-it-feels-so-good/" rel="alternate" type="text/html" title="Back on IPv6, and it feels so good" />
 			<updated>2012-03-07T03:54:58+00:00</updated>
 
 			
@@ -523,7 +439,7 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://172.21.21.114:4000/back-on-ipv6-and-it-feels-so-good/">&lt;p&gt;I had let my &lt;a href=&quot;http://he.net&quot;&gt;Hurricane Electric&lt;/a&gt; tunnelbroker account lapse several years ago when shuffling around my OpenWrt builds.  At that time I determined that I didn’t need the extra overhead imposed by the tunnelbroker.&lt;/p&gt;
+			<content type="html" xml:base="http://jonsharp.net/back-on-ipv6-and-it-feels-so-good/">&lt;p&gt;I had let my &lt;a href=&quot;http://he.net&quot;&gt;Hurricane Electric&lt;/a&gt; tunnelbroker account lapse several years ago when shuffling around my OpenWrt builds.  At that time I determined that I didn’t need the extra overhead imposed by the tunnelbroker.&lt;/p&gt;
 
 &lt;p&gt;Having recently upgraded from my trusty Linksys WRT54G, to an x86 Alix router platform, I decided to reactivate my IPv6 tunnel.  It was a piece o’ cake.  I was then able to update my DNS records and bring JonSharp.net and JonandJolene.com back on IPv6.  It feels good to be back. ;)&lt;/p&gt;
 </content>
@@ -535,9 +451,9 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 		</entry>
 	
 		<entry>
-			<id>http://172.21.21.114:4000/shamelessly-promoting-my-company-campground-automation-systems/</id>
+			<id>http://jonsharp.net/shamelessly-promoting-my-company-campground-automation-systems/</id>
 			<title>Shamelessly promoting my company, Campground Automation Systems</title>
-			<link href="http://172.21.21.114:4000/shamelessly-promoting-my-company-campground-automation-systems/" rel="alternate" type="text/html" title="Shamelessly promoting my company, Campground Automation Systems" />
+			<link href="http://jonsharp.net/shamelessly-promoting-my-company-campground-automation-systems/" rel="alternate" type="text/html" title="Shamelessly promoting my company, Campground Automation Systems" />
 			<updated>2012-03-06T05:20:01+00:00</updated>
 
 			
@@ -551,7 +467,7 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://172.21.21.114:4000/shamelessly-promoting-my-company-campground-automation-systems/">&lt;p&gt;Hey Internets,&lt;/p&gt;
+			<content type="html" xml:base="http://jonsharp.net/shamelessly-promoting-my-company-campground-automation-systems/">&lt;p&gt;Hey Internets,&lt;/p&gt;
 
 &lt;p&gt;I have this great company I started with my friend, Tyler Duffy, named &lt;a href=&quot;http://www.campgroundautomation.com&quot;&gt;Campground Automation Systems&lt;/a&gt;.  With our team, I’ve been very busy building &lt;a href=&quot;http://www.campgroundautomation.com/sunrise-hardware-kiosk-and-control#kiosk&quot;&gt;outdoor Kiosks&lt;/a&gt;, designing &lt;a href=&quot;http://www.campgroundautomation.com/sunrise-hardware-kiosk-and-control#control&quot;&gt;wireless utility control&lt;/a&gt; devices, and writing &lt;a href=&quot;http://www.campgroundautomation.com/sunrise-software&quot;&gt;software&lt;/a&gt; to tie it all together for the past 5 years – which is why this blog has been so neglected.&lt;/p&gt;
 
@@ -569,9 +485,9 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 		</entry>
 	
 		<entry>
-			<id>http://172.21.21.114:4000/bearwaller-gap-trail/</id>
+			<id>http://jonsharp.net/bearwaller-gap-trail/</id>
 			<title>Bearwaller Gap Trail</title>
-			<link href="http://172.21.21.114:4000/bearwaller-gap-trail/" rel="alternate" type="text/html" title="Bearwaller Gap Trail" />
+			<link href="http://jonsharp.net/bearwaller-gap-trail/" rel="alternate" type="text/html" title="Bearwaller Gap Trail" />
 			<updated>2012-03-06T04:36:34+00:00</updated>
 
 			
@@ -585,7 +501,7 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://172.21.21.114:4000/bearwaller-gap-trail/">&lt;p&gt;Corin and I took our first father-son hike together on the Bearwaller Gap Trail, along Cordell Hull Lake.&lt;/p&gt;
+			<content type="html" xml:base="http://jonsharp.net/bearwaller-gap-trail/">&lt;p&gt;Corin and I took our first father-son hike together on the Bearwaller Gap Trail, along Cordell Hull Lake.&lt;/p&gt;
 </content>
 
 			
@@ -595,9 +511,9 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 		</entry>
 	
 		<entry>
-			<id>http://172.21.21.114:4000/tis-msp430-launchpad-budget-embedded/</id>
+			<id>http://jonsharp.net/tis-msp430-launchpad-budget-embedded/</id>
 			<title>TI's MSP430 Launchpad: Budget Embedded</title>
-			<link href="http://172.21.21.114:4000/tis-msp430-launchpad-budget-embedded/" rel="alternate" type="text/html" title="TI's MSP430 Launchpad: Budget Embedded" />
+			<link href="http://jonsharp.net/tis-msp430-launchpad-budget-embedded/" rel="alternate" type="text/html" title="TI's MSP430 Launchpad: Budget Embedded" />
 			<updated>2012-03-06T03:11:13+00:00</updated>
 
 			
@@ -611,7 +527,7 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://172.21.21.114:4000/tis-msp430-launchpad-budget-embedded/">&lt;p&gt;I recently ran across an ad for &lt;a href=&quot;http://www.ti.com/tool/msp-exp430g2&quot;&gt;TI’s MSP430 Launchpad&lt;/a&gt; 16-bit embedded microcontroller kit.  How did I miss this before now?  $4.30 for a complete 16-bit microcontroller development kit?  Needless to say, I ordered one.  I probably should’ve ordered several. ;)  Don’t get me wrong, I still love my trusty &lt;a href=&quot;http://en.wikipedia.org/wiki/Atmel_AVR&quot;&gt;8-bit AVRs&lt;/a&gt;, but for the price, you can’t go wrong.  Surely you can find something to do with another micro?&lt;/p&gt;
+			<content type="html" xml:base="http://jonsharp.net/tis-msp430-launchpad-budget-embedded/">&lt;p&gt;I recently ran across an ad for &lt;a href=&quot;http://www.ti.com/tool/msp-exp430g2&quot;&gt;TI’s MSP430 Launchpad&lt;/a&gt; 16-bit embedded microcontroller kit.  How did I miss this before now?  $4.30 for a complete 16-bit microcontroller development kit?  Needless to say, I ordered one.  I probably should’ve ordered several. ;)  Don’t get me wrong, I still love my trusty &lt;a href=&quot;http://en.wikipedia.org/wiki/Atmel_AVR&quot;&gt;8-bit AVRs&lt;/a&gt;, but for the price, you can’t go wrong.  Surely you can find something to do with another micro?&lt;/p&gt;
 
 &lt;p&gt;Obviously, the price has a strong appeal here, but the true draw (pun intended) is the amazing power budget afforded by this micro.  TI has posted several Youtube vids demonstrating the device running on things like grapes and potatoes, just to show off.  Real-world applications might require more juice than that, but the MSP430 starts to make small-scale &lt;a href=&quot;http://en.wikipedia.org/wiki/Energy_harvesting&quot;&gt;energy harvesting&lt;/a&gt; look practical.  And &lt;i&gt;this&lt;/i&gt; is what really starts capturing &lt;i&gt;my&lt;/i&gt; imagination.&lt;/p&gt;
 
@@ -622,6 +538,38 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 			
 
 			<published>2012-03-06T03:11:13+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://jonsharp.net/summary-for-retrochallenge-2009/</id>
+			<title>Summary for RetroChallenge 2009</title>
+			<link href="http://jonsharp.net/summary-for-retrochallenge-2009/" rel="alternate" type="text/html" title="Summary for RetroChallenge 2009" />
+			<updated>2009-07-31T23:17:13+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>{&quot;display_name&quot;=&gt;&quot;admin&quot;, &quot;login&quot;=&gt;&quot;admin&quot;, &quot;email&quot;=&gt;&quot;jon@jonsharp.net&quot;, &quot;url&quot;=&gt;&quot;http://jonsharp.net&quot;}</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://jonsharp.net/summary-for-retrochallenge-2009/">&lt;p&gt;Wow, what a fun challenge this has been!  While I certainly ran into a number of difficulties, for my first RetroChallenge, I’m pleased to say that I consider my project a relative success.  After all, I was able to get my //e talking to my wife’s Sanyo Katana without issue.  And I even managed to get it to talk to my Treo, I just couldn’t get the Treo to talk back. ;)  I have created a &lt;a href=&quot;http://www.jonsharp.net/projects-personal/blueooth-project/&quot;&gt;separate project page&lt;/a&gt; for this project, complete with more pictures, that I will use to continue the project beyond the challenge.  I’ll continue to post updates there, as well.  Check out that page for a more detailed summary of the project.&lt;/p&gt;
+
+&lt;p&gt;So I ended up proving that the //e could use the bluetooth module to talk to phones supporting the DUN profile without issue, and I received confirmation that it works with other Treos. (just not mine, for some reason)  I never managed to determine the exact cause of my Treo’s failures.  I do not know if it is a problem that affects all Sprint Treos, or ones with a certain firmware, but it certainly doesn’t affect all Treo’s.&lt;/p&gt;
+
+&lt;p&gt;As far as my goal to have a full design prepared for the interface card, I just didn’t get there.  Wrestling with the Treo really slowed me down there.  Not to mention the fact that my most important prototyping parts that I ordered from ReactiveMicro.com still have not arrived.  I suppose it was just bad timing, with KFest going on and all.  I have the design mostly done and I posted a pic to the project page.&lt;/p&gt;
+
+&lt;p&gt;I definitely had a great time with this project and learned a tremendous amount.  While I didn’t get to complete as much of the project this month as I had hoped, my success to this point encourages me to continue the project to its eventual completion in the weeks to come.  I also have some additional ideas for features I’d like to add to the design and should have the time now to see about those.  So please, stay tuned for more updates.&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2009-07-31T23:17:13+00:00</published>
 		</entry>
 	
 </feed>

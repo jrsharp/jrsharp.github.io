@@ -5,63 +5,12 @@
 	<channel>
 		<title>Jon Sharp, logged on the web</title>
 		<description>Personal website of Jon Sharp - a Seventh-day Adventist Christian, family man, lover of the outdoors, technology leader, enterprise architect, embedded systems engineer, and retrocomputing enthusiast.</description>
-		<link>http://172.21.21.114:4000/</link>
-		<atom:link href="http://172.21.21.114:4000/feed.xml" rel="self" type="application/rss+xml" />
-		
-			<item>
-				<title>The End of the Analog Trail</title>
-				<link>http://172.21.21.114:4000/embedded/end-of-the-analog-trail/</link>
-				<pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;I recently had the privilege to work with a local artist on what turned out to
-be a very fun project.  Having been introduced through our local maker group,
-&lt;a href=&quot;https://plus.google.com/u/0/communities/113168301409955370802&quot;&gt;NashMicro&lt;/a&gt;,
-Phil and I sat down for a coffee and he laid out his vision for a new piece he
-was sketching out.  Phil is a woodcarver, and a fine one, at that.  His work is
-at times whimsical and at others, thought-provoking. (And sometimes both at once)
-He was looking to incorporate points of light into his new piece that would
-primarily serve as a starry (and stormy) night sky above a carving of a cowboy, 
-riding his horse, face lit by the unnatural blue glow of a smartphone.  &lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;I immediately began thinking of LED cubes and other means to address many
-individual LEDs, but landed in the end on NeoPixels (ws2812’s) for my solution.
-Many of you are no doubt familiar with these great little 
-individually-addressable, chainable RGB LEDs.  I had myself seen projects using 
-NeoPixels, but was previously unfamiliar with what made them so special.&lt;/p&gt;
-
-&lt;p&gt;In the end, we used a combination of nearly 250 flat, SMD and 5mm round ws2812 
-RGB LEDs.  I considered a number of microcontrollers, but settled on the PSoC4
-from Cypress Semiconductor.  The PSoC4 4200 is a unique part, with a Cortex-M0
-core married with a modest amount of programmable logic.  &lt;/p&gt;
-
-&lt;p&gt;The code is written in C, and is responsible for a variety of visual elements,
-driving the behavior of four discrete groups of LEDs – a large number of 
-“stars”, another large group of “lightning” LEDs, a few “campfire” lights and a
-single LED for the lit smartphone.  The stars twinkle and fade, through a 
-(pseudo-)random pattern of hues, durations and frequencies.  The lightning
-fires through another set of randomizations, giving an effect of distant,
-cloud-to-cloud lightning. (suggestive of storms on the horizon?)  The campfire
-LEDs cycle through random reds, oranges and yellows, suggesting a slowly fading
-fire, while the smartphone LED burns a mostly steady blue glow against the face
-of the piece’s central figure.&lt;/p&gt;
-
-&lt;p&gt;In the end, I was proud of how the lighting elements came together, and feel
-privileged to have gotten to work together with Phil on this project.  He was
-even gracious enough to give me credit on the piece and invite me to the
-gallery show where it debuted.  I have to say that it looked great on the
-gallery wall and I imagine it will soon add something truly unique to someone’s 
-home or office.&lt;/p&gt;
-
-&lt;p&gt;But without further ado, here are some photographs and video:&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">http://172.21.21.114:4000/embedded/end-of-the-analog-trail/</guid>
-			</item>
+		<link>http://jonsharp.net/</link>
+		<atom:link href="http://jonsharp.net/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Bare-metal Macintosh Programming - Part 1</title>
-				<link>http://172.21.21.114:4000/retrocomputing/bare-metal-macintosh-programming-part-1/</link>
+				<link>http://jonsharp.net/retrocomputing/bare-metal-macintosh-programming-part-1/</link>
 				<pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;The original compact Macintoshes (128k, 512k, and Plus) have long been a 
 subject of my collection and study, but after acquiring a Canon Cat, I began
@@ -119,7 +68,7 @@ systems.  And that’s roughly the approach I’ve taken in thinking of the hard
 
 &lt;p&gt;Here’s the result:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://172.21.21.114:4000/images/HappyJon1.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jonsharp.net/images/HappyJon1.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;I’m smiling becuase it works ;)&lt;/em&gt;&lt;/p&gt;
 
@@ -296,12 +245,12 @@ Can we start a new Macintosh demoscene? ;)&lt;/p&gt;
 where I begin to explore something more useful on my sans-MacOS Plus.  To do
 anything meaningful I will need to break out of my 1024-byte boot block jail…&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://172.21.21.114:4000/retrocomputing/bare-metal-macintosh-programming-part-1/</guid>
+				<guid isPermaLink="true">http://jonsharp.net/retrocomputing/bare-metal-macintosh-programming-part-1/</guid>
 			</item>
 		
 			<item>
 				<title>impress.js - I'm impressed.</title>
-				<link>http://172.21.21.114:4000/impressjs-im-impressed/</link>
+				<link>http://jonsharp.net/impressjs-im-impressed/</link>
 				<pubDate>Thu, 22 Mar 2012 05:07:27 +0000</pubDate>
 				<description>&lt;p&gt;I thought I’d mention a new tool that my brother, Justin, recommended we use at http://www.campgroundautomation.com for a recent presentation we were putting together.  We had been using Apple’s Keynote, which is certainly a slick piece of software, and miles ahead of PowerPoint, but I recently found it wanting.  In attempting to update our previous corporate Keynote template, I became frustrated with the cumbersome tools and process required.  I wanted to more easily adapt some of the web styles of corporate site into our presentation.&lt;/p&gt;
 
@@ -311,12 +260,12 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 
 &lt;p&gt;We found Safari worked best for the effects we were using, with Chrome choking on a couple of “slides”.  It also just performed better.  Anyway, I can definitely recommend checking out impress.js.  There’s a slight learning curve, but I have found it was easy to pick up once you get started, and well worth it.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://172.21.21.114:4000/impressjs-im-impressed/</guid>
+				<guid isPermaLink="true">http://jonsharp.net/impressjs-im-impressed/</guid>
 			</item>
 		
 			<item>
 				<title>Another great startup: WeatheRate</title>
-				<link>http://172.21.21.114:4000/my-friends-at-weatherate/</link>
+				<link>http://jonsharp.net/my-friends-at-weatherate/</link>
 				<pubDate>Tue, 13 Mar 2012 19:00:13 +0000</pubDate>
 				<description>&lt;p&gt;Hi everyone,&lt;/p&gt;
 
@@ -328,45 +277,45 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 
 &lt;p&gt;Please, head over to their &lt;a href=&quot;http://www.facebook.com/pages/WeatheRate/205493752885372&quot;&gt;Facebook page&lt;/a&gt; and give them a “Like.”  And if you have a need for weather-related monitoring of overhead transmission and distribution lines, sign on up! ;)&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://172.21.21.114:4000/my-friends-at-weatherate/</guid>
+				<guid isPermaLink="true">http://jonsharp.net/my-friends-at-weatherate/</guid>
 			</item>
 		
 			<item>
 				<title>Retrocomputing Update</title>
-				<link>http://172.21.21.114:4000/retrocomputing-update/</link>
+				<link>http://jonsharp.net/retrocomputing-update/</link>
 				<pubDate>Mon, 12 Mar 2012 14:23:41 +0000</pubDate>
 				<description>&lt;p&gt;Since &lt;a href=&quot;http://www.linkedin.com/in/campgroundautomation&quot;&gt;Tyler&lt;/a&gt; and &lt;a href=&quot;http://www.linkedin.com/pub/jon-sharp/0/2a1/a4b&quot;&gt;I&lt;/a&gt; began our startup venture, &lt;a href=&quot;http://www.campgroundautomation.com&quot;&gt;Campground Automation Systems&lt;/a&gt;, 5 years ago, I may have neglected this blog, but I’ve managed to stay active in my retrocomputing/collecting efforts.  I’m always on the lookout for unique, rare or otherwise interesting vintage computer items on Craigslist and eBay and I’ve managed to find some real gems over the past several years.  As I strive to keep this site more current, I plan to feature some of these items in greater depth over the next several months.&lt;/p&gt;
 
 &lt;p&gt;Recent acquisitions to my collection include: a Commodore 8032-SK, Apple IIc, IIe, Macintosh Portable, Mac 128K, Apple 1 Replica (Replica 1), TRS-80 Model 100, and a Canon Cat.  The Macintosh Portable required some restoration, and I’ve performed various upgrades on each of these.  I attempt to use them all, if only for a few minutes at a time.  I don’t want to see them all simply collecting dust.  I’m proud of each of them, though if I were honest, I’d have to say I’m most proud of the Cat.  It’s such a unique computer, quite unlike anything I’d used previously.  In my next Retrocomputing post, I plan to showcase the Cat and the modifications I’ve made with the help of some of the members of the Canon Cat group. (Thanks Dwight!)&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://172.21.21.114:4000/retrocomputing-update/</guid>
+				<guid isPermaLink="true">http://jonsharp.net/retrocomputing-update/</guid>
 			</item>
 		
 			<item>
 				<title>Raspberry Pi Ordered</title>
-				<link>http://172.21.21.114:4000/raspberry-pi-ordered/</link>
+				<link>http://jonsharp.net/raspberry-pi-ordered/</link>
 				<pubDate>Wed, 07 Mar 2012 15:14:37 +0000</pubDate>
 				<description>&lt;p&gt;Like many, I have been following the developments of the &lt;a href=&quot;http://raspberrypi.org&quot;&gt;Raspberry Pi project&lt;/a&gt; with anticipation.  When the RPi was released recently, I was ready to try to get my order in at the earliest possible moment.  Unfortunately, it seems that the chosen distributors underestimated the demand and I ended up participating in the “DDOS” that crippled these sites.  In the end, I was able to “register my interest” and that allowed me several days later to place a pre-order myself.&lt;/p&gt;
 
 &lt;p&gt;My Raspberry Pi is expected to ship in May, so I’ll have a bit of a wait, yet, but after waiting this long, what’s a few more weeks?  I have a number of ideas in mind for mine, and I’m sure like-minded geeks are going to find endless uses for the innovative device, but I’m most excited about the foundation’s vision for using the Pi as a tool for getting kids interested in programming.  I applaud their efforts and look forward to seeing the fruits of their labor in the months ahead.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://172.21.21.114:4000/raspberry-pi-ordered/</guid>
+				<guid isPermaLink="true">http://jonsharp.net/raspberry-pi-ordered/</guid>
 			</item>
 		
 			<item>
 				<title>Back on IPv6, and it feels so good</title>
-				<link>http://172.21.21.114:4000/back-on-ipv6-and-it-feels-so-good/</link>
+				<link>http://jonsharp.net/back-on-ipv6-and-it-feels-so-good/</link>
 				<pubDate>Wed, 07 Mar 2012 03:54:58 +0000</pubDate>
 				<description>&lt;p&gt;I had let my &lt;a href=&quot;http://he.net&quot;&gt;Hurricane Electric&lt;/a&gt; tunnelbroker account lapse several years ago when shuffling around my OpenWrt builds.  At that time I determined that I didn’t need the extra overhead imposed by the tunnelbroker.&lt;/p&gt;
 
 &lt;p&gt;Having recently upgraded from my trusty Linksys WRT54G, to an x86 Alix router platform, I decided to reactivate my IPv6 tunnel.  It was a piece o’ cake.  I was then able to update my DNS records and bring JonSharp.net and JonandJolene.com back on IPv6.  It feels good to be back. ;)&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://172.21.21.114:4000/back-on-ipv6-and-it-feels-so-good/</guid>
+				<guid isPermaLink="true">http://jonsharp.net/back-on-ipv6-and-it-feels-so-good/</guid>
 			</item>
 		
 			<item>
 				<title>Shamelessly promoting my company, Campground Automation Systems</title>
-				<link>http://172.21.21.114:4000/shamelessly-promoting-my-company-campground-automation-systems/</link>
+				<link>http://jonsharp.net/shamelessly-promoting-my-company-campground-automation-systems/</link>
 				<pubDate>Tue, 06 Mar 2012 05:20:01 +0000</pubDate>
 				<description>&lt;p&gt;Hey Internets,&lt;/p&gt;
 
@@ -378,21 +327,21 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 
 &lt;p&gt;Stop by our site and read all about it, then visit us on &lt;a href=&quot;http://www.facebook.com/pages/Campground-Automation-Systems/110944752283900&quot;&gt;Facebook&lt;/a&gt; and “Like” us!&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://172.21.21.114:4000/shamelessly-promoting-my-company-campground-automation-systems/</guid>
+				<guid isPermaLink="true">http://jonsharp.net/shamelessly-promoting-my-company-campground-automation-systems/</guid>
 			</item>
 		
 			<item>
 				<title>Bearwaller Gap Trail</title>
-				<link>http://172.21.21.114:4000/bearwaller-gap-trail/</link>
+				<link>http://jonsharp.net/bearwaller-gap-trail/</link>
 				<pubDate>Tue, 06 Mar 2012 04:36:34 +0000</pubDate>
 				<description>&lt;p&gt;Corin and I took our first father-son hike together on the Bearwaller Gap Trail, along Cordell Hull Lake.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://172.21.21.114:4000/bearwaller-gap-trail/</guid>
+				<guid isPermaLink="true">http://jonsharp.net/bearwaller-gap-trail/</guid>
 			</item>
 		
 			<item>
 				<title>TI's MSP430 Launchpad: Budget Embedded</title>
-				<link>http://172.21.21.114:4000/tis-msp430-launchpad-budget-embedded/</link>
+				<link>http://jonsharp.net/tis-msp430-launchpad-budget-embedded/</link>
 				<pubDate>Tue, 06 Mar 2012 03:11:13 +0000</pubDate>
 				<description>&lt;p&gt;I recently ran across an ad for &lt;a href=&quot;http://www.ti.com/tool/msp-exp430g2&quot;&gt;TI’s MSP430 Launchpad&lt;/a&gt; 16-bit embedded microcontroller kit.  How did I miss this before now?  $4.30 for a complete 16-bit microcontroller development kit?  Needless to say, I ordered one.  I probably should’ve ordered several. ;)  Don’t get me wrong, I still love my trusty &lt;a href=&quot;http://en.wikipedia.org/wiki/Atmel_AVR&quot;&gt;8-bit AVRs&lt;/a&gt;, but for the price, you can’t go wrong.  Surely you can find something to do with another micro?&lt;/p&gt;
 
@@ -400,7 +349,22 @@ anything meaningful I will need to break out of my 1024-byte boot block jail…&
 
 &lt;p&gt;I’ve only barely begun to play with my Launchpad, having tested the various examples using each of the major toolchains available.  So far, I’m impressed.  For now, the Launchpad’s in the drawer, waiting for my next low-power / energy-harvesting application.  What will it be?&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://172.21.21.114:4000/tis-msp430-launchpad-budget-embedded/</guid>
+				<guid isPermaLink="true">http://jonsharp.net/tis-msp430-launchpad-budget-embedded/</guid>
+			</item>
+		
+			<item>
+				<title>Summary for RetroChallenge 2009</title>
+				<link>http://jonsharp.net/summary-for-retrochallenge-2009/</link>
+				<pubDate>Fri, 31 Jul 2009 23:17:13 +0000</pubDate>
+				<description>&lt;p&gt;Wow, what a fun challenge this has been!  While I certainly ran into a number of difficulties, for my first RetroChallenge, I’m pleased to say that I consider my project a relative success.  After all, I was able to get my //e talking to my wife’s Sanyo Katana without issue.  And I even managed to get it to talk to my Treo, I just couldn’t get the Treo to talk back. ;)  I have created a &lt;a href=&quot;http://www.jonsharp.net/projects-personal/blueooth-project/&quot;&gt;separate project page&lt;/a&gt; for this project, complete with more pictures, that I will use to continue the project beyond the challenge.  I’ll continue to post updates there, as well.  Check out that page for a more detailed summary of the project.&lt;/p&gt;
+
+&lt;p&gt;So I ended up proving that the //e could use the bluetooth module to talk to phones supporting the DUN profile without issue, and I received confirmation that it works with other Treos. (just not mine, for some reason)  I never managed to determine the exact cause of my Treo’s failures.  I do not know if it is a problem that affects all Sprint Treos, or ones with a certain firmware, but it certainly doesn’t affect all Treo’s.&lt;/p&gt;
+
+&lt;p&gt;As far as my goal to have a full design prepared for the interface card, I just didn’t get there.  Wrestling with the Treo really slowed me down there.  Not to mention the fact that my most important prototyping parts that I ordered from ReactiveMicro.com still have not arrived.  I suppose it was just bad timing, with KFest going on and all.  I have the design mostly done and I posted a pic to the project page.&lt;/p&gt;
+
+&lt;p&gt;I definitely had a great time with this project and learned a tremendous amount.  While I didn’t get to complete as much of the project this month as I had hoped, my success to this point encourages me to continue the project to its eventual completion in the weeks to come.  I also have some additional ideas for features I’d like to add to the design and should have the time now to see about those.  So please, stay tuned for more updates.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://jonsharp.net/summary-for-retrochallenge-2009/</guid>
 			</item>
 		
 	</channel>
