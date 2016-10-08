@@ -65,8 +65,8 @@ of subsequent disk reads. (if at the expense of initial load time)
 For this I am again borrowing from the 
 [Emile project](http://www.gryphel.com/c/minivmac/) for its second-stage loader
 code.  In the highlight below, we allocate enough memory to accommodate 
-our floppy image and use the PBReadSync Toolbox routine to read the floppy data
-into the allocated RAM location and finally jump to it.
+our floppy image and use the `PBReadSync` Toolbox routine to read the floppy 
+data into the allocated RAM location and finally jump to it.
 
 {% highlight asm %}
 
@@ -110,10 +110,10 @@ malloc_ok:
 ## Relocatable code
 
 The other thing to note about executing our code in memory is to ensure that it
-is as relocatable as possible.  (this was also true for our first demo, but
-less significant given its size)  We want our compiler/linker to produce code
-that can be executed from any location in memory, now that we rely on `NewPtr`
-to set up our memory for us.
+is relocatable.  (this was also true for our first demo, but less significant 
+given its size)  We want our compiler/linker to produce code that can be 
+executed from any location in memory, now that we rely on `NewPtr` to set up 
+our memory for us.
 
 First, we want to be using PC-relative addressing wherever we can.  It appears
 that gcc for m68k has evolved a fair bit through the years, leaving some gaps
