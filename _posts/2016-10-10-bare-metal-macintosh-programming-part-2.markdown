@@ -346,3 +346,12 @@ the challenges in getting GCC to generate relocatable code, along with my
 efforts to link these output routines to newlib's stubs for terminal output,
 which allows us to use things like `puts()`.
 
+...so stay tuned for part 3:
+
+ - GCC linker scripts and relocatable code
+ - Newlib port/implementation
+ - Keyboard input routine?
+
+And in the meantime, please feel free to checkout out 
+[the repository](https://github.com/jrsharp/HappyJon) and lend a hand.  I'm
+hopeful that these efforts will prove useful to others.
