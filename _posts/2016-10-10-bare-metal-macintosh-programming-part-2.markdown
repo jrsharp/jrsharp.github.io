@@ -107,7 +107,7 @@ malloc_ok:
 
 {% endhighlight %}
 
-## Relocatable code
+## Building
 
 The other thing to note about executing our code in memory is to ensure that it
 is relocatable.  (this was also true for our first demo, but less significant 
