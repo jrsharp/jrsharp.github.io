@@ -101,16 +101,45 @@ malloc_ok:
 
 {% endhighlight %}
 
+## Relocatable code
+
+The other thing to note about executing our code in memory is to ensure that it
+is as relocatable as possible.  (this was also true for our first demo, but
+less significant given its size)  We want our compiler/linker to produce code
+that can be executed from any location in memory, now that we rely on `NewPtr`
+to set up our memory for us.
+
+First, we want to be using PC-relative addressing wherever we can.  It appears
+that gcc for m68k has evolved a fair bit through the years, leaving some gaps
+in the documentation on some of these compiler + arch features.  It took some
+trial and error and getting familiar with `m68k-elf-objdump`'s output
+to arrive at the right combination of flags to produce code that didn't result
+in jumps to invalid instructions:
+
+
+```
+m68k-elf-gcc -g -o demo demo.s chars.c -nostdlib -fomit-frame-pointer -mno-rtd -m68000 -msoft-float -mpcrel
+m68k-elf-objcopy -O binary demo floppy.img
+```
+
+There are several things going on here, and I'm sure I can't explain them all
+properly, but basically, I'm making sure that gcc is producing code that is
+safe for a pure 68000 CPU (without FPU or MMU) and uses PC-relative addressing.
+
+_It turns out this part was more complicated than it seemed at first, as gcc 
+was producing absolute address jumps when linking to newlib.  I ended up
+addressing this another way with a new linker script and memory allocation
+method.  I will try to spend some time describing this in part 3._
+
 # Output
 
-I had already started on the output side of the equation with my framebuffer
-graphics demo, so the next logical step was to begin thinking of ways to get
-text onto the Mac's screen.  One of the things I use my real Mac Plus for is
-a serial terminal using ZTerm, but even with the smallest available font, the
-maximum terminal size is smaller than I'd prefer.  So now that I have control
-over the complete display, (no system menu or windowing elements) I want to
-choose a condensed font that will make the most of the Mac's meager 512x342
-resolution.
+Since I had already started on the output side with my framebuffer graphics 
+demo, the next logical step was to begin thinking of ways to get text onto the 
+Mac's screen.  One of the things I use my real Mac Plus for is a serial 
+terminal using ZTerm, but even with the smallest available font, the maximum 
+terminal size is smaller than I'd prefer.  So now that I have control over the 
+complete display, (no system menu or windowing elements) I want to choose a 
+condensed font that will make the most of the Mac's meager 512x342 resolution.
 
 ## Font
 
