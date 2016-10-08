@@ -147,7 +147,7 @@ terminal size is smaller than I'd prefer.  So now that I have control over the
 complete display, (no system menu or windowing elements) I want to choose a 
 condensed font that will make the most of the Mac's meager 512x342 resolution.
 
-## Font
+## A Condensed Font
 
 After some searching, I came across 
 [Christian Neukirchen](http://chneukirchen.org)'s 
@@ -302,7 +302,7 @@ draw_done:
 
 {% endhighlight %}
 
-## Strings
+## The Strings Section
 
 What good is a `draw_char` without a `draw_string`?  The next obvious step was 
 to implement a routine that would print a string to a given X/Y location using 
