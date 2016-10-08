@@ -36,17 +36,29 @@ At the end of this next round of hacking, I managed to get this:
 
 Now on to how I did this...
 
+# _A note on "bare metal"_
+
+While my eventual goal _might_ be to replace the ROM entirely, I'm certainly
+content to leverage the portions of the ROM that are particularly useful or
+expeditious.  I'm not really interested in the GUI Toolbox functions, but the
+disk driver is kinda nice.  My goal isn't to boycott Apple's fine code, but
+simply to explore the possibilities of an alternative operating environment
+for the Mac.  So, for the record, I'll be using at least one of those useful
+ROM routines in this post...
+
 # &gt; 1024 bytes
 
 We left off at the end of part one needing to overcome the confines of the 
 1024-byte boot block that the ROM startup code loads off of the floppy into
 memory automatically for us.  In order to do _anything_ useful, we need to
 use the ROM routines (floppy driver) to read the rest of our code from disk
-into memory.
+into memory.  In this case, I only need to do this once, as I'm working with
+a Mac Plus, that can hold a full 800K disk in RAM.  This saves us the trouble
+of subsequent disk reads. (if at the expense of initial load time)
 
 For this I am again borrowing from the 
-[Emile project](http://www.gryphel.com/c/minivmac/) for its second-stage
-loader code.  In the highlight below, we allocate enough memory to accommodate 
+[Emile project](http://www.gryphel.com/c/minivmac/) for its second-stage loader
+code.  In the highlight below, we allocate enough memory to accommodate 
 our floppy image and use the PBReadSync Toolbox routine to read the floppy data
 into the allocated RAM location and finally jump to it.
 
@@ -105,9 +117,9 @@ resolution.
 After some searching, I came across 
 [Christian Neukirchen](http://chneukirchen.org)'s 
 [5x13 font](https://github.com/chneukirchen/5x13).  This font seemed like the 
-right mix of efficient and readable.  If done properly, it would yield an 
-*effective terminal size of 102x26*, (512 / 5 = 102, 342 / 13 = 26) more than 
-adequate for my needs.
+right mix of efficient and readable.  It should yield an *effective terminal 
+size of 102x26*, (512 / 5 = 102, 342 / 13 = 26) more than adequate for my 
+needs.
 
 I used [bdfe](https://github.com/achilikin/bdfe) to convert the .bdf font data 
 into a C header file suitable for use with my gcc project.  bdfe generated each
@@ -258,9 +270,9 @@ draw_done:
 
 ## Strings
 
-What good is a `draw_char` without a `draw_str`?  The next obvious step was to
-implement a routine that would print a string to a given X/Y location using a
-pointer to a null-terminated string:
+What good is a `draw_char` without a `draw_string`?  The next obvious step was 
+to implement a routine that would print a string to a given X/Y location using 
+a pointer to a null-terminated string:
 
 {% highlight asm %}
 
@@ -296,3 +308,13 @@ dsproceed:
 	...
 
 {% endhighlight %}
+
+# Next steps
+
+Ok, so this seems like as good a place as any to pause and summarize.  This 
+represents a fair amount of work and a necessary step towards my goal to do
+something _really_ useful.  In the next installment, I'll describe some of
+the challenges in getting GCC to generate relocatable code, along with my
+efforts to link these output routines to newlib's stubs for terminal output,
+which allows us to use things like `puts()`.
+
