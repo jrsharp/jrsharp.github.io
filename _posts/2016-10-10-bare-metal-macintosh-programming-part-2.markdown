@@ -11,10 +11,10 @@ tags: [tech,retrocomputing,mac,macintosh]
 excerpt_separator: <!--more-->
 ---
 
-This second installment of my "bare-metal" Macintosh Programming series moves
-past the boot block limitations of the my proof-of-concept demo and
-introduces some foundational building blocks necessary for doing something more
-useful than just painting pictures on the framebuffer.
+_This second installment of my "bare-metal" Macintosh Programming effort moves
+past the boot block limitations of my proof-of-concept demo and introduces 
+some foundational building blocks necessary for doing something more useful 
+than just painting pictures on the framebuffer._
 
 <!--more-->
 
@@ -30,11 +30,17 @@ build a whole new operating environment:
  - FreeRTOS demo/shell
  - uCLinux?
 
-At the end of this next round of hacking, I managed to get this:
+At least initially, each of these would rely on the floppy, but eventually
+these could run directly out of ROM, if unused ROM routines were removed and
+especially if something like BMOW's 
+[ROM-inator](http://www.bigmessowires.com/mac-rom-inator/) is used.
+
+First things first, though... I need to get some text on this Mac.  At the end
+of this next round of hacking, I managed to get this:
 
 ![Condensed Font Screenshot]({{ site.url }}/images/HappyJonCondensedFont.png)
 
-Now on to how I did this...
+Now on to the how...
 
 ### _A note on "bare metal"_
 
@@ -183,7 +189,7 @@ more so) bit of assembly that draws an ASCII character at a given X/Y location:
 
 /* draw_char: draws an ASCII char at x/y loc in framebuffer using 5x13 font:
  *
- *   params:
+ *  params:
  * 	d0 - char value
  *	d1 - x value
  *	d2 - y value
@@ -308,8 +314,8 @@ a pointer to a null-terminated string:
 
 /* draw_string: draws an ASCII char at x/y loc in framebuffer using 5x13 font:
  *
- *   params:
- *   	a3 - pointer to string
+ *  params:
+ *  a3 - pointer to string
  *	d1 - x value
  *	d2 - y value
  */
@@ -340,18 +346,19 @@ dsproceed:
 # Next steps
 
 Ok, so this seems like as good a place as any to pause and summarize.  This 
-represents a fair amount of work and a necessary step towards my goal to do
-_anything_ useful.  In the next installment, I'll describe some of
+represents a fair amount of work (especially for someone that hadn't written
+68k assembly before this project) and a necessary step towards my goal to do
+really _anything_ useful.  In the next installment, I'll describe some of
 the challenges in getting GCC to generate relocatable code, along with my
 efforts to link these output routines to newlib's stubs for terminal output,
-which allows us to use things like `puts()`.
+which allows us to use handy functions like `puts()`.
 
 ...so stay tuned for part 3:
 
  - GCC linker scripts and relocatable code
+ - Mixing C and assembly (calling conventions!)
  - Newlib port/implementation
  - Keyboard input routine?
 
 And in the meantime, please feel free to checkout out 
-[the repository](https://github.com/jrsharp/HappyJon) and lend a hand.  I'm
-hopeful that these efforts will prove useful to others.
+[the repository](https://github.com/jrsharp/HappyJon) and join in the fun. ;)
