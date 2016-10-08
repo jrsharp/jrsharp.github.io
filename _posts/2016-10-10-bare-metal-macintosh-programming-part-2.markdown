@@ -36,7 +36,7 @@ At the end of this next round of hacking, I managed to get this:
 
 Now on to how I did this...
 
-# _A note on "bare metal"_
+### _A note on "bare metal"_
 
 While my eventual goal _might_ be to replace the ROM entirely, I'm certainly
 content to leverage the portions of the ROM that are particularly useful or
@@ -139,7 +139,11 @@ effective terminal size of only *64x26*. (512 / 8 = 64)  This meant my nice
 ![Hello World Screenshot]({{ site.url }}/images/HappyJonHelloWorld.png)
 
 In order to condense this down, I needed some new arithmetic, bit-shifting and
-logical or'ing tricks to get these characters to "share" bytes nicely.
+logical or'ing tricks to get these characters to "share" bytes nicely.  Again,
+the result is a 102x26 character terminal.  Here's a shot of that condensed 
+terminal filled up with a pangram for illustration:
+
+![Condensed Font Screenshot]({{ site.url }}/images/HappyJonCondensedFont.png)
 
 The resulting `draw_char` routine is a fairly efficient (I'm sure it could be 
 more so) bit of assembly that draws an ASCII character at a given X/Y location:
@@ -182,7 +186,6 @@ draw_char:
 
 	cmp	#0, %d5
 	beq	even_stevens
-	/*addal	#1, %a0*/
 
 even_stevens:
 	addal	%d2, %a0
@@ -208,9 +211,7 @@ fill_loop:
 	add	#1, %d5
 	andb	%d2, %d7
 	orb	%d7, %d0
-	/*not	%d0*/
 	moveb	%d0, (%a0)+
-	/*moveb	%d0, (%a0)+*/
 
 	addal	#63, %a0	/* Move to next line */
 
@@ -239,9 +240,7 @@ fill_loop2:
 	lslb	%d4, %d0
 	andb	%d2, %d7
 	orb	%d7, %d0
-	/*not	%d0*/
 	moveb	%d0, (%a0)+
-	/*moveb	%d0, (%a0)+*/
 
 	addal	#63, %a0	/* Move to next line */
 
@@ -313,7 +312,7 @@ dsproceed:
 
 Ok, so this seems like as good a place as any to pause and summarize.  This 
 represents a fair amount of work and a necessary step towards my goal to do
-something _really_ useful.  In the next installment, I'll describe some of
+_anything_ useful.  In the next installment, I'll describe some of
 the challenges in getting GCC to generate relocatable code, along with my
 efforts to link these output routines to newlib's stubs for terminal output,
 which allows us to use things like `puts()`.
